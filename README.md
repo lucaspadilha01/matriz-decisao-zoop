@@ -17,7 +17,9 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 │   ├── validacao_dados.md
 │   ├── descritivo_estatistico.md
 │   ├── previsao_outubro_2024.md
-│   └── previsao_outubro_2024.csv
+│   ├── previsao_outubro_2024.csv
+│   ├── previsao_dezembro_2024_desconto10.md
+│   └── previsao_dezembro_2024_desconto10.csv
 ├── dados/               # Bases usadas no case (vendas e feedbacks)
 │   ├── Vendas Zopp.xlsx
 │   ├── Zoop - Dados Vendas.xlsx
@@ -31,7 +33,7 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 | Módulo | Desafio de negócio | Técnicas e frameworks |
 |---|---|---|
 | **1. IA na tomada de decisões** (Aula 1.3) | Criar uma matriz de decisão com decisões **Racionais, Intuitivas e Colaborativas** e mostrar como a IA apoia cada uma. | Prompt com persona, contexto e objetivo. Veja [a matriz](01_matriz_decisao/matriz_decisao.md). |
-| **2. Previsão de vendas** (Aulas 2.1 a 2.3) | Mapear as variáveis que afetam as vendas, modelar previsões a partir do histórico e simular cenários futuros (campanhas e mudanças de preço) para os próximos 30 dias. | Sazonalidade, impacto de campanhas, modelo preditivo, simulação de cenários. Veja [as variáveis](02_previsao_vendas/variaveis_vendas.md) a [validação nos dados](02_previsao_vendas/validacao_dados.md) e o [descritivo estatístico](02_previsao_vendas/descritivo_estatistico.md) e a [previsão de outubro/2024](02_previsao_vendas/previsao_outubro_2024.md). |
+| **2. Previsão de vendas** (Aulas 2.1 a 2.3) | Mapear as variáveis que afetam as vendas, modelar previsões a partir do histórico e simular cenários futuros (campanhas e mudanças de preço) para os próximos 30 dias. | Sazonalidade, impacto de campanhas, modelo preditivo, simulação de cenários. Veja [as variáveis](02_previsao_vendas/variaveis_vendas.md), a [validação nos dados](02_previsao_vendas/validacao_dados.md) e o [descritivo estatístico](02_previsao_vendas/descritivo_estatistico.md), a [previsão de outubro/2024](02_previsao_vendas/previsao_outubro_2024.md) e o [cenário de dezembro/2024 com 10% de desconto](02_previsao_vendas/previsao_dezembro_2024_desconto10.md). |
 | **3. Gestão de estoque** (Aulas 3.1 a 3.3) | Resolver o **acúmulo de estoque de aquecedores**: encontrar as causas, priorizar ações corretivas e criar alertas preventivos. | MECE, Diagrama de Ishikawa, Matriz GUT, Esforço × Impacto, Lean, Just-in-Time. |
 | **4. Sentimento do cliente** (Aulas 4.1 a 4.3) | Analisar os feedbacks de redes sociais sobre a linha de **Batedeiras**, classificar os sentimentos e propor melhorias. | Análise de sentimentos (positivo, neutro, negativo), 5W2H. |
 | **5. Personalização** (Aulas 5.1 a 5.3) | Identificar padrões de compra por faixa etária, pagamento, gênero e região, mapear oportunidades e gerar recomendações personalizadas. | Segmentação de clientes, Matriz BCG, análise RFM, Matriz GUT. |
