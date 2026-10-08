@@ -1,22 +1,50 @@
-# Matriz de Decisão Estratégica com IA — Zoop Megastore
+# Uso de IA na Tomada de Decisões Estratégicas — Case Zoop Megastore
 
-Matriz de decisão para uma empresa de varejo de eletrônicos e eletrodomésticos, com decisões Racionais, Intuitivas e Colaborativas e o papel da Inteligência Artificial em cada uma.
+Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas**. O case acompanha a **Zoop Megastore**, varejista de eletrônicos e eletrodomésticos, e o diretor **João Costa**, que precisa decidir sobre expansão, estoque, experiência do cliente e personalização usando o ChatGPT como apoio.
 
-**Desafios:** expansão de mercado, gerenciamento de estoque, personalização de ofertas.
+**Desafios da empresa:** expansão de mercado, gerenciamento de estoque, personalização de ofertas.
 **Objetivo estratégico:** aumentar a participação de mercado e melhorar a eficiência operacional.
 
-| Tipo de Decisão | Descrição da Decisão | Como a IA pode apoiar |
+## Estrutura do repositório
+
+```
+.
+├── README.md
+├── 01_matriz_decisao/   # Matriz de decisão enriquecida com IA (Aula 1.3)
+│   └── matriz_decisao.md
+├── dados/               # Bases usadas no case (vendas e feedbacks)
+│   ├── Vendas Zopp.xlsx
+│   ├── Zoop - Dados Vendas.xlsx
+│   └── Feedbacks nas redes_sociais_zoop.xlsx
+└── docs/
+    └── notas.txt        # Links de referência (Notion e AI Canva)
+```
+
+## Os desafios do case (módulos do curso)
+
+| Módulo | Desafio de negócio | Técnicas e frameworks |
 |---|---|---|
-| **Racional** (existente) | Expansão da linha de eletrônicos, baseada em análise de mercado e projeções de vendas. | **Previsão de demanda** com histórico, sazonalidade e tendências de busca. **Análise competitiva** de preços e lançamentos. **Simulação financeira** de ROI e payback em cenários otimista, base e pessimista. |
-| **Racional** (nova) | Definir níveis de estoque e política de reposição por loja e categoria. | **Otimização de estoque** por SKU e loja. **Alertas preditivos** de ruptura e obsolescência. **Redistribuição** entre lojas e centros de distribuição antes de comprar mais. |
-| **Intuitiva** (existente) | Ajuste no layout da loja para aumentar vendas, com base na observação do comportamento dos clientes. | **Mentor de reflexão** com perguntas provocativas. **Simulação de jornadas** de personas fictícias por layouts alternativos. **Crítica construtiva** dos pontos cegos da ideia, sem análise de dados. |
-| **Intuitiva** (nova) | Escolher o tom e o conceito de uma campanha de marketing ou ação de impacto (vitrine temática, evento de lançamento). | **Parceira criativa** com conceitos e slogans alternativos. **Advogada do diabo** questionando a ideia. **Teste mental com personas fictícias.** |
-| **Colaborativa** (existente) | Implementação de um novo sistema de CRM, envolvendo múltiplos departamentos. | **Mapeamento de perspectivas** de vendas, marketing, TI, logística e atendimento. **Facilitação de consenso** com critérios ponderados. **Comunicação e gestão da mudança:** atas, FAQs e treinamentos. |
-| **Colaborativa** (nova) | Estratégia de personalização de ofertas, alinhando Marketing, Comercial, TI/Dados, Jurídico (LGPD) e lojas. | **Síntese de interesses divergentes** (segmentação x privacidade). **Prototipagem compartilhada** de ofertas e jornadas. **Transparência** com documentação clara de regras e responsabilidades. |
-| **Colaborativa** (nova) | Planejar a expansão geográfica com franqueados, parceiros logísticos, finanças e diretoria. | **Consolidação de visões** em matriz de prós e contras. **Moderação de cenários** por stakeholder. **Apoio à negociação** com materiais sob medida. |
+| **1. IA na tomada de decisões** (Aula 1.3) | Criar uma matriz de decisão com decisões **Racionais, Intuitivas e Colaborativas** e mostrar como a IA apoia cada uma. | Prompt com persona, contexto e objetivo. Veja [a matriz](01_matriz_decisao/matriz_decisao.md). |
+| **2. Previsão de vendas** (Aulas 2.1 a 2.3) | Mapear as variáveis que afetam as vendas, modelar previsões a partir do histórico e simular cenários futuros (campanhas e mudanças de preço) para os próximos 30 dias. | Sazonalidade, impacto de campanhas, modelo preditivo, simulação de cenários. |
+| **3. Gestão de estoque** (Aulas 3.1 a 3.3) | Resolver o **acúmulo de estoque de aquecedores**: encontrar as causas, priorizar ações corretivas e criar alertas preventivos. | MECE, Diagrama de Ishikawa, Matriz GUT, Esforço × Impacto, Lean, Just-in-Time. |
+| **4. Sentimento do cliente** (Aulas 4.1 a 4.3) | Analisar os feedbacks de redes sociais sobre a linha de **Batedeiras**, classificar os sentimentos e propor melhorias. | Análise de sentimentos (positivo, neutro, negativo), 5W2H. |
+| **5. Personalização** (Aulas 5.1 a 5.3) | Identificar padrões de compra por faixa etária, pagamento, gênero e região, mapear oportunidades e gerar recomendações personalizadas. | Segmentação de clientes, Matriz BCG, análise RFM, Matriz GUT. |
+| **6. Decisão sem dados** (Aulas 6.1 a 6.3) | Decidir sobre a **expansão internacional** e a **reorganização do layout das lojas físicas** sem histórico nem avaliações. | IA como conselheiro estratégico, brainstorming, análise SWOT, cenários e heurísticas. |
 
-## Princípio de uso
+## Bases de dados
 
-- **Racional:** a IA analisa e prevê; a pessoa valida e decide.
-- **Intuitiva:** a IA provoca e questiona; a decisão continua sendo humana, sem virar análise de dados.
-- **Colaborativa:** a IA facilita e traduz; as pessoas negociam e se comprometem.
+| Arquivo | Uso no case |
+|---|---|
+| `dados/Vendas Zopp.xlsx` e `dados/Zoop - Dados Vendas.xlsx` | Previsão de vendas e padrões de compra (módulos 2 e 5) |
+| `dados/Feedbacks nas redes_sociais_zoop.xlsx` | Análise de sentimentos das Batedeiras (módulo 4) |
+
+## Referências
+
+- Notion do curso: [Uso de IA na tomada de decisões estratégicas](https://grupoalura.notion.site/USO-DE-IA-NA-TOMADA-DE-DECIS-ES-ESTRAT-GICAS-fff379bdd09b811bb8b0e7fa947e2f8b)
+- [AI Canva (StartSe)](https://ai-canva.startse.com/)
+
+## Como usar a IA nas decisões (resumo)
+
+- **Racional:** a IA analisa dados e prevê; a pessoa valida e decide.
+- **Intuitiva:** a IA provoca, simula cenários e critica, sem virar análise de dados.
+- **Colaborativa:** a IA facilita o consenso e a comunicação entre as áreas.
