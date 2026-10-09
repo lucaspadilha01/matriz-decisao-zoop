@@ -115,6 +115,25 @@ Gravidade = impacto nas vendas ou na experiência; Urgência = necessidade de ag
 - **Vendas e receita por estado e por produto**, comparadas com o mesmo período do ano anterior.
 - **Nota média dos feedbacks** dos produtos recomendados.
 
+## Priorização das recomendações de produto por grupo (revisão)
+
+Depois de cruzar os grupos (faixa etária e gênero) com os produtos, a priorização GUT das recomendações **por grupo × produto** ficou assim. Os testes mostraram que os grupos demográficos não compram produtos diferentes (p entre 0,46 e 0,97), então a diferenciação por idade e gênero perde prioridade e a região ganha peso.
+
+| Posição | Grupo | Produto recomendado | G | U | T | **GUT** | Justificativa das notas |
+|---:|---|---|---:|---:|---:|---:|---|
+| 1 | **Base de clientes** (habilita todas as demais) | Registrar cliente, histórico e margem (R11) | 5 | 5 | 4 | **100** | Sem dados por cliente não há recomendação individual; é pré-requisito |
+| 2 | **Sul** (SC, RS, PR) | Smartphone, Tablet, Câmera digital e Relógio inteligente (R1) | 5 | 4 | 4 | **80** | Maior lacuna comprovada (índice de 0,52; teto de 714 vendas); a região já cresce 14,7% |
+| 3 | **Quem compra Batedeira** (3,1% das vendas) | Liquidificador, Fritadeira elétrica ou Panela elétrica no lugar (R6) | 3 | 5 | 4 | **60** | Custo zero e efeito imediato; nota 3,62 contra 4,00 a 4,02 das alternativas |
+| 4 | **Todos os grupos** | Produtos estrela: Notebook, Smartphone, Câmera digital, Tablet e Relógio inteligente (R5) | 4 | 4 | 3 | **48** | 34,2% da receita; mesma oferta serve a todos, e é simples de aplicar na vitrine |
+| 5 | **Norte, Nordeste e Mato Grosso** | Produtos de ticket baixo e médio, em piloto (R2) | 4 | 3 | 4 | **48** | Índices de 0,21 a 0,50 e queda no último ano; a cesta de produtos é hipótese a testar |
+| 6 | **Estados de alta fidelidade** (DF, RJ, SP, AM, MS, PB) | Ticket alto e cross-sell (R4) | 4 | 3 | 3 | **36** | Base fiel (58,7% das vendas), mas depende dos dados de cliente |
+| 7 | **Mulheres de 18 a 25 anos** | Oferta-teste dirigida (R9) | 2 | 2 | 2 | **8** | Única relação demográfica significativa, em um grupo de 3,8% das vendas |
+| 8 | **Recomendar por faixa etária ou gênero** | Cesta diferente por idade ou gênero | 1 | 1 | 1 | **1** | Sem diferença nos dados: não investir |
+
+Desempate entre as posições 4 e 5 (ambas com 48): vence a de maior urgência (R5, urgência 4 contra 3).
+
+**Ordem de execução:** (1) estruturar os dados de cliente e retirar a Batedeira das recomendações já nas primeiras semanas; (2) campanha no Sul; (3) destaque dos produtos estrela para todos; (4) piloto no Norte, Nordeste e Mato Grosso; (5) fidelização, que usa os dados de cliente; (6) o teste com mulheres de 18 a 25 anos. Diferenciar por idade ou gênero fica de fora até haver dados por cliente.
+
 ## Limites
 
 - Não há identificador de cliente nem histórico por pessoa: as recomendações são por localidade e por produto, não individuais.
