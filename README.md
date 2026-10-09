@@ -28,6 +28,7 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 ├── 03_estoque_aquecedor/ # Causas do estoque elevado de aquecedores (Aulas 3.1 a 3.3)
 │   ├── analise_causas.md
 │   ├── acoes_corretivas.md
+│   ├── planejamento_aula_3_3.md
 │   └── ishikawa_estoque_aquecedor.png
 ├── dados/               # Bases usadas no case (vendas e feedbacks)
 │   ├── Vendas Zopp.xlsx
