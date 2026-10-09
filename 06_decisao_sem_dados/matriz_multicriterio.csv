@@ -1,0 +1,16 @@
+﻿Cenario;Criterio;Peso_pct;Nota_1_a_10;Contribuicao
+Cenário 1 · Brasil primeiro;Impacto no crescimento;40;5;2,0
+Cenário 1 · Brasil primeiro;Risco de implementação (10 = risco baixo);20;9;1,8
+Cenário 1 · Brasil primeiro;Viabilidade operacional;30;9;2,7
+Cenário 1 · Brasil primeiro;Urgência de aplicação;10;5;0,5
+Cenário 1 · Brasil primeiro;TOTAL;100;;7,0
+Cenário 2 · Piloto internacional + layout em fases;Impacto no crescimento;40;8;3,2
+Cenário 2 · Piloto internacional + layout em fases;Risco de implementação (10 = risco baixo);20;6;1,2
+Cenário 2 · Piloto internacional + layout em fases;Viabilidade operacional;30;7;2,1
+Cenário 2 · Piloto internacional + layout em fases;Urgência de aplicação;10;8;0,8
+Cenário 2 · Piloto internacional + layout em fases;TOTAL;100;;7,3
+Cenário 3 · Expansão simultânea;Impacto no crescimento;40;10;4,0
+Cenário 3 · Expansão simultânea;Risco de implementação (10 = risco baixo);20;2;0,4
+Cenário 3 · Expansão simultânea;Viabilidade operacional;30;3;0,9
+Cenário 3 · Expansão simultânea;Urgência de aplicação;10;9;0,9
+Cenário 3 · Expansão simultânea;TOTAL;100;;6,2
