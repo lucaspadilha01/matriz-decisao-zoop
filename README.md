@@ -50,6 +50,8 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 │   ├── recomendacoes_personalizadas.md
 │   ├── graficos/        # 15 gráficos em PNG
 │   └── dados/           # 4 tabelas CSV (BCG, RFM por região e estado, recomendações GUT)
+├── 06_decisao_sem_dados/ # Cenários, SWOT e matriz multicritério (Aulas 6.1 a 6.3)
+│   └── planejamento_modulo_6.md
 ├── dados/               # Bases usadas no case (vendas e feedbacks)
 │   ├── Vendas Zopp.xlsx
 │   ├── Zoop - Dados Vendas.xlsx
@@ -67,7 +69,7 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 | **3. Gestão de estoque** (Aulas 3.1 a 3.3) | Resolver o **acúmulo de estoque de aquecedores**: encontrar as causas, priorizar ações corretivas e criar alertas preventivos. | MECE, Diagrama de Ishikawa, Matriz GUT, Esforço × Impacto, Lean, Just-in-Time. Veja a [análise de causas](03_estoque_aquecedor/analise_causas.md) as [ações corretivas](03_estoque_aquecedor/acoes_corretivas.md) e os [alertas preventivos](03_estoque_aquecedor/alertas_preventivos.md). |
 | **4. Sentimento do cliente** (Aulas 4.1 a 4.3) | Analisar os feedbacks de redes sociais sobre a linha de **Batedeiras**, classificar os sentimentos e propor melhorias. | Análise de sentimentos (positivo, neutro, negativo), 5W2H. Veja o [planejamento do módulo](04_sentimento_batedeiras/planejamento_aula_4.md) a [análise dos feedbacks](04_sentimento_batedeiras/analise_feedbacks.md) a [análise de sentimentos](04_sentimento_batedeiras/analise_sentimentos.md) a [análise de todos os produtos](04_sentimento_batedeiras/todos_produtos/analise_todos_produtos.md) e o [plano 5W2H da Batedeira](04_sentimento_batedeiras/plano_5w2h_batedeira.md). |
 | **5. Personalização** (Aulas 5.1 a 5.3) | Identificar padrões de compra por faixa etária, pagamento, gênero e região, mapear oportunidades e gerar recomendações personalizadas. | Segmentação de clientes, Matriz BCG, análise RFM, Matriz GUT. Veja os [padrões de compra](05_personalizacao/padroes_de_compra.md), as [oportunidades (BCG e RFM)](05_personalizacao/oportunidades_bcg_rfm.md) e as [recomendações personalizadas](05_personalizacao/recomendacoes_personalizadas.md). |
-| **6. Decisão sem dados** (Aulas 6.1 a 6.3) | Decidir sobre a **expansão internacional** e a **reorganização do layout das lojas físicas** sem histórico nem avaliações. | IA como conselheiro estratégico, brainstorming, análise SWOT, cenários e heurísticas. |
+| **6. Decisão sem dados** (Aulas 6.1 a 6.3) | Decidir sobre a **expansão internacional** e a **reorganização do layout das lojas físicas** sem histórico nem avaliações. | IA como conselheiro estratégico, brainstorming, análise SWOT, cenários e heurísticas. Veja o [planejamento do módulo](06_decisao_sem_dados/planejamento_modulo_6.md). |
 
 ## Bases de dados
 
