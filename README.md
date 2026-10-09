@@ -40,8 +40,9 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 │   ├── graficos/        # 13 gráficos em PNG
 │   └── todos_produtos/  # Mesma análise para os 30 produtos + base para o dashboard
 │       ├── analise_todos_produtos.md
+│       ├── de_para_produtos.md
 │       ├── graficos/    # 7 gráficos em PNG
-│       └── dados_dashboard/  # 10 tabelas CSV + dicionário de dados
+│       └── dados_dashboard/  # 12 tabelas CSV + dicionário de dados
 ├── dados/               # Bases usadas no case (vendas e feedbacks)
 │   ├── Vendas Zopp.xlsx
 │   ├── Zoop - Dados Vendas.xlsx

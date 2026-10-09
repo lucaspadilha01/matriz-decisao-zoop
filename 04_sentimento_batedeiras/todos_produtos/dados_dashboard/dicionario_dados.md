@@ -12,6 +12,8 @@ Tabelas geradas a partir de `Feedbacks nas redes_sociais_zoop.xlsx` (10.000 feed
 | `fato_feedback_temas.csv` | 12.748 | Um tema por linha de feedback (relação muitos para muitos) |
 | `dim_produto.csv` | 30 | Produto e categoria |
 | `dim_plataforma.csv` | 4 | Plataformas |
+| `de_para_produtos.csv` | 34 | Correspondência de produtos entre feedbacks, `Vendas Zopp.xlsx` e `Zoop - Dados Vendas.xlsx`, com a chave padrão `Chave_Produto` |
+| `cruzamento_nota_vendas.csv` | 30 | Por produto: nota e feedbacks, e vendas (registros, unidades, receita, preço, nota nas vendas) |
 
 ### `fato_feedbacks.csv`
 
@@ -78,7 +80,7 @@ Calendário[Data]           1 ──► * fato_feedbacks[Data]   (tabela calend�
 
 ## 5. Pontos de atenção
 
-- **Nomes de produtos diferem da base de vendas.** Iguais nas duas: Cafeteira, Smartphone, Notebook e Tablet. Aparecem com nome diferente: "Smart TV 55\"" (feedbacks) e "Smart TV 55" (vendas), "Relógio inteligente" e "Smartwatch", "Câmera digital" e "Camera Fotográfica". Os demais produtos de feedback não existem na base de vendas de `Zoop - Dados Vendas.xlsx`. Para cruzar nota e vendas, será preciso um de-para.
+- **Nomes de produtos:** os feedbacks e o `Vendas Zopp.xlsx` têm os mesmos 30 nomes (cruzam direto). Com o `Zoop - Dados Vendas.xlsx` (11 produtos) só 7 têm correspondência (4 exatas, 2 equivalentes e 1 provável a confirmar). Ver [de_para_produtos.md](../de_para_produtos.md) e `de_para_produtos.csv`. Os preços das duas bases de vendas são diferentes para o mesmo nome, então não comparar valores entre elas.
 - **Meses parciais:** ago/2021, set/2021 e out/2024. Trimestres 2021T3 e 2024T4 têm poucos feedbacks.
 - **Poucos feedbacks por célula:** cruzamentos produto × plataforma têm de 37 a 156, e produto × trimestre menos ainda. Usar mínimo de 30 feedbacks para exibir médias.
 - **Temas:** só a Batedeira tem temas específicos (ruído, design, facilidade de uso). Nos outros 29 produtos os comentários são genéricos.

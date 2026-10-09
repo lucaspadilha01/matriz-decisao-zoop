@@ -1,0 +1,35 @@
+﻿Chave_Produto;Produto_Padrao;Categoria_Feedback;Produto_Feedback;Produto_Vendas_Zopp;ID_Produto_Vendas_Zopp;Correspondencia_Feedback_Vendas_Zopp;Produto_Zoop_Dados_Vendas;Categoria_Zoop_Dados_Vendas;Correspondencia_Zoop_Dados_Vendas;Observacao
+P01;Aparelho de som;Eletrônicos;Aparelho de som;Aparelho de som;21;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P02;Aquecedor;;;;;Sem correspondência;Aquecedor;Eletrodomésticos;Só em Zoop - Dados Vendas;Não há feedbacks de Aquecedor
+P03;Ar Condicionado;;;;;Sem correspondência;Ar Condicionado;Eletrodomésticos;Só em Zoop - Dados Vendas;Não há feedbacks de Ar Condicionado
+P04;Aspirador de pó;Eletrodomésticos;Aspirador de pó;Aspirador de pó;9;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P05;Batedeira;Eletrodomésticos;Batedeira;Batedeira;17;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P06;Cafeteira;Eletrodomésticos;Cafeteira;Cafeteira;3;Exata;Cafeteira;Eletrodomésticos;Exata;
+P07;Cafeteira expresso;Eletrodomésticos;Cafeteira expresso;Cafeteira expresso;20;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P08;Celular;;;;;Sem correspondência;Celular;Eletrônicos;Só em Zoop - Dados Vendas;Não há feedbacks de Celular (o mais próximo seria Smartphone, mas são produtos separados nas vendas)
+P09;Chuveiro elétrico;Eletrodomésticos;Chuveiro elétrico;Chuveiro elétrico;11;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P10;Cobertor Elétrico;;;;;Sem correspondência;Cobertor Elétrico;Eletrodomésticos;Só em Zoop - Dados Vendas;Não há feedbacks de Cobertor Elétrico
+P11;Câmera de segurança;Eletrônicos;Câmera de segurança;Câmera de segurança;27;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P12;Câmera digital;Eletrônicos;Câmera digital;Câmera digital;10;Exata;Camera Fotográfica;Eletrônicos;Provável (confirmar);"Não há 'Câmera fotográfica' nos feedbacks; a mais próxima é 'Câmera digital'. Confirmar com a área de produto"
+P13;Ferro de passar roupa;Eletrodomésticos;Ferro de passar roupa;Ferro de passar roupa;19;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P14;Fone de ouvido;Eletrônicos;Fone de ouvido;Fone de ouvido;12;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P15;Forno elétrico;Eletrodomésticos;Forno elétrico;Forno elétrico;23;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P16;Frigobar;Eletrodomésticos;Frigobar;Frigobar;1;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P17;Fritadeira elétrica;Eletrodomésticos;Fritadeira elétrica;Fritadeira elétrica;28;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P18;Geladeira;Eletrodomésticos;Geladeira;Geladeira;22;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P19;Impressora;Eletrônicos;Impressora;Impressora;14;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P20;Liquidificador;Eletrodomésticos;Liquidificador;Liquidificador;5;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P21;Micro-ondas;Eletrodomésticos;Micro-ondas;Micro-ondas;8;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P22;Máquina de café;Eletrodomésticos;Máquina de café;Máquina de café;29;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P23;Máquina de lavar roupa;Eletrodomésticos;Máquina de lavar roupa;Máquina de lavar roupa;18;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P24;Notebook;Eletrônicos;Notebook;Notebook;6;Exata;Notebook;Informática;Exata;Categoria diferente: Informática em Dados Vendas, Eletrônicos nos feedbacks
+P25;Panela elétrica;Eletrodomésticos;Panela elétrica;Panela elétrica;25;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P26;Relógio inteligente;Eletrônicos;Relógio inteligente;Relógio inteligente;16;Exata;Smartwatch;Eletrônicos;Equivalente (mesmo tipo de produto);Confirmar com a área de produto
+P27;Secador de cabelo;Eletrodomésticos;Secador de cabelo;Secador de cabelo;15;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P28;"Smart TV 55""";Eletrônicos;"Smart TV 55""";"Smart TV 55""";0;Exata;Smart TV 55;Eletrônicos;Equivalente (formatação do nome);"Mesmo produto; muda só a aspa de polegadas"
+P29;Smartphone;Eletrônicos;Smartphone;Smartphone;4;Exata;Smartphone;Eletrônicos;Exata;
+P30;TV Box;Eletrônicos;TV Box;TV Box;24;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P31;Tablet;Eletrônicos;Tablet;Tablet;7;Exata;Tablet;Informática;Exata;Categoria diferente: Informática em Dados Vendas, Eletrônicos nos feedbacks
+P32;Ventilador de coluna;Eletrodomésticos;Ventilador de coluna;Ventilador de coluna;26;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P33;Ventilador de mesa;Eletrodomésticos;Ventilador de mesa;Ventilador de mesa;13;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
+P34;Ventilador de teto;Eletrodomésticos;Ventilador de teto;Ventilador de teto;2;Exata;;;Sem correspondência;Produto só existe em Vendas Zopp e nos feedbacks
