@@ -1,0 +1,12 @@
+﻿ID;Recomendacao;Gravidade;Urgencia;Tendencia;GUT;Prioridade;Evidencia
+R11;Dados de cliente (CRM, histórico, margem);5;5;4;100;Máxima;Habilitadora
+R1;Campanha no Sul (SC, RS, PR);5;4;4;80;Máxima;Forte
+R6;Retirar a Batedeira das recomendações;3;5;4;60;Máxima;Forte
+R2;Piloto Norte, Nordeste e Mato Grosso (8 estados);4;3;4;48;Alta;"Forte (índice); cesta é hipótese"
+R5;Destaque aos produtos estrela por receita;4;4;3;48;Alta;Moderada
+R3;Reforço em MG, BA e PE;4;3;3;36;Alta;Moderada
+R4;Fidelização nos estados de alta fidelidade;4;3;3;36;Alta;"Forte (região); depende de R11"
+R7;Garantia e assistência em Notebook, Tablet e TV Box;3;3;3;27;Segundo plano ou monitoramento;Fraca
+R10;Reativação de cidades sem comprar há mais de 80 dias;2;3;2;12;Segundo plano ou monitoramento;Fraca
+R9;Oferta-teste para mulheres de 18 a 25 anos;2;2;2;8;Segundo plano ou monitoramento;Fraca
+R8;Cross-sell por complementaridade (teste);2;2;2;8;Segundo plano ou monitoramento;Fraca

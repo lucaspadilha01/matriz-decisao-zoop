@@ -1,0 +1,31 @@
+﻿Produto;Categoria;Unidades;Receita;Preco_unitario;Part_unidades_pct;Part_receita_pct;Unidades_jan_ago_2023;Unidades_jan_ago_2024;Cresc_jan_ago_pct;Unidades_2022;Unidades_2023;Cresc_2023_pct;BCG_unidades;BCG_receita;p_crescimento;p_ajustado_BH;Nota_feedback;Pct_notas_1_2_feedback
+Smartphone;Eletrônicos;740;1109260;1499;3,6856;6,9565;143;184;28,6713;238;245;2,9412;Estrela;Estrela;0,0463;0,1985;3,8579;15,8470
+Chuveiro elétrico;Eletrodomésticos;721;64169;89;3,5910;0,4024;188;141;-25,0000;208;269;29,3269;Vaca leiteira;Abacaxi;0,0049;0,0459;3,8743;15,3631
+Máquina de café;Eletrodomésticos;720;431280;599;3,5860;2,7047;111;179;61,2613;251;186;-25,8964;Estrela;Interrogação;0,0002;0,0049;3,8657;15,4286
+Secador de cabelo;Eletrodomésticos;719;107131;149;3,5810;0,6719;150;162;8,0000;234;240;2,5641;Estrela;Interrogação;0,6510;0,8492;3,9174;15,0997
+Liquidificador;Eletrodomésticos;713;106237;149;3,5512;0,6662;124;174;40,3226;247;198;-19,8381;Estrela;Interrogação;0,0076;0,0459;3,9971;11,4613
+Relógio inteligente;Eletrônicos;711;639189;899;3,5412;4,0086;146;152;4,1096;246;224;-8,9431;Estrela;Estrela;0,9079;0,9738;3,8584;17,3410
+Cafeteira;Eletrodomésticos;709;141091;199;3,5312;0,8848;165;156;-5,4545;240;250;4,1667;Vaca leiteira;Abacaxi;0,5030;0,7186;3,8911;14,2458
+Forno elétrico;Eletrodomésticos;708;282492;399;3,5262;1,7716;111;173;55,8559;232;211;-9,0517;Estrela;Interrogação;0,0006;0,0084;3,8931;16,1850
+Cafeteira expresso;Eletrodomésticos;706;493494;699;3,5163;3,0949;185;140;-24,3243;241;259;7,4689;Vaca leiteira;Abacaxi;0,0077;0,0459;3,8669;15,0142
+Aparelho de som;Eletrônicos;705;351795;499;3,5113;2,2062;152;153;0,6579;214;238;11,2150;Vaca leiteira;Abacaxi;0,9089;0,9738;3,8775;15,6695
+Frigobar;Eletrodomésticos;691;621209;899;3,4416;3,8958;145;136;-6,2069;244;212;-13,1148;Vaca leiteira;Vaca leiteira;0,4743;0,7138;3,8491;15,3846
+Câmera de segurança;Eletrônicos;680;271320;399;3,3868;1,7015;132;123;-6,8182;272;212;-22,0588;Vaca leiteira;Abacaxi;0,4530;0,7138;3,8738;16,7192
+Micro-ondas;Eletrodomésticos;675;336825;499;3,3619;2,1123;153;125;-18,3007;240;224;-6,6667;Vaca leiteira;Abacaxi;0,0629;0,2360;3,9091;14,5455
+Ventilador de mesa;Eletrodomésticos;670;86430;129;3,3370;0,5420;133;154;15,7895;207;196;-5,3140;Estrela;Interrogação;0,3158;0,7064;3,9014;15,3623
+TV Box;Eletrônicos;665;198835;299;3,3121;1,2470;143;148;3,4965;199;224;12,5628;Interrogação;Interrogação;0,9533;0,9862;3,8230;17,9941
+"Smart TV 55""";Eletrônicos;662;1985338;2999;3,2971;12,4507;153;142;-7,1895;214;253;18,2243;Abacaxi;Vaca leiteira;0,4151;0,7138;3,8072;15,3614
+Ventilador de teto;Eletrodomésticos;662;164838;249;3,2971;1,0338;130;138;6,1538;249;192;-22,8916;Interrogação;Interrogação;0,8070;0,9685;3,9006;16,5663
+Fone de ouvido;Eletrônicos;657;130743;199;3,2722;0,8199;129;133;3,1008;239;210;-12,1339;Interrogação;Interrogação;1,0000;1,0000;3,9339;14,1141
+Máquina de lavar roupa;Eletrodomésticos;652;1564148;2399;3,2473;9,8093;135;133;-1,4815;210;229;9,0476;Abacaxi;Vaca leiteira;0,7603;0,9504;3,9210;14,5897
+Aspirador de pó;Eletrodomésticos;652;260148;399;3,2473;1,6315;141;124;-12,0567;223;219;-1,7937;Abacaxi;Abacaxi;0,2196;0,5717;3,9139;15,7270
+Fritadeira elétrica;Eletrodomésticos;647;225803;349;3,2224;1,4161;142;155;9,1549;193;216;11,9171;Interrogação;Interrogação;0,6018;0,8207;4,0000;8,5366
+Geladeira;Eletrodomésticos;644;1802556;2799;3,2075;11,3044;139;129;-7,1942;210;196;-6,6667;Abacaxi;Vaca leiteira;0,4276;0,7138;3,9444;15,1235
+Ventilador de coluna;Eletrodomésticos;634;126166;199;3,1577;0,7912;141;128;-9,2199;198;213;7,5758;Abacaxi;Abacaxi;0,3297;0,7064;3,9195;12,6935
+Batedeira;Eletrodomésticos;627;124773;199;3,1228;0,7825;146;137;-6,1644;189;237;25,3968;Abacaxi;Abacaxi;0,4759;0,7138;3,6221;21,1726
+Ferro de passar roupa;Eletrodomésticos;627;62073;99;3,1228;0,3893;140;111;-20,7143;212;221;4,2453;Abacaxi;Abacaxi;0,0435;0,1985;3,8818;15,0160
+Impressora;Eletrônicos;626;374974;599;3,1178;2,3516;126;150;19,0476;188;217;15,4255;Interrogação;Interrogação;0,2287;0,5717;3,8080;17,6471
+Notebook;Eletrônicos;626;2190374;3499;3,1178;13,7366;111;141;27,0270;243;194;-20,1646;Interrogação;Estrela;0,1012;0,3351;3,7583;18,8742
+Panela elétrica;Eletrodomésticos;621;185679;299;3,0929;1,1645;145;122;-15,8621;222;219;-1,3514;Abacaxi;Abacaxi;0,1117;0,3351;4,0164;13,7705
+Tablet;Eletrônicos;620;743380;1199;3,0880;4,6620;126;142;12,6984;201;200;-0,4975;Interrogação;Estrela;0,4637;0,7138;3,8222;19,6825
+Câmera digital;Eletrônicos;588;763812;1299;2,9286;4,7901;118;123;4,2373;198;196;-1,0101;Interrogação;Estrela;0,8977;0,9738;3,9967;13,0000
