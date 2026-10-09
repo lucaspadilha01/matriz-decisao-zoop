@@ -177,6 +177,34 @@ Se os estados claramente sub-indexados chegassem à penetração média nacional
 
 **Em resumo:** cerca de **2.037 vendas a mais, ou R$ 3,25 milhões** (20,4% acima do total atual), ao ticket médio de R$ 1.594,56. Por região: Sul 714 vendas (Santa Catarina, 337, é o maior caso, com índice de 0,10), Nordeste 633, Norte 414, Sudeste 165 (Minas Gerais) e Centro-Oeste 111 (Mato Grosso). **É um teto teórico**: ignora diferenças de renda e de presença de lojas entre estados.
 
+### Variante por valor gasto (monetização)
+
+A mesma análise, medindo o **valor gasto** (receita) em vez do número de vendas: índice de penetração da receita = participação na receita ÷ participação na população. O intervalo de 95% vem de 2.000 reamostragens das vendas. A classificação usa a monetização dos últimos 12 meses para separar mercados grandes e pequenos.
+
+| Região | Receita total (R$) | % da receita | % da população | Índice (IC 95%) | Receita por 100 mil hab. (R$) | Classe pela receita | Classe pelas vendas |
+|---|---:|---:|---:|---|---:|---|---|
+| Sudeste | 9.068.897 | 56,9% | 41,8% | 1,36 (1,32 a 1,40) | 10.689 | Alta fidelidade | Alta fidelidade |
+| Centro-Oeste | 1.392.132 | 8,7% | 8,0% | 1,09 (0,98 a 1,20) | 8.546 | Neutra | Alta fidelidade |
+| Nordeste | 3.349.666 | 21,0% | 26,9% | 0,78 (0,73 a 0,83) | 6.128 | Potencial de crescimento | Potencial de crescimento |
+| Norte | 869.128 | 5,4% | 8,5% | 0,64 (0,56 a 0,72) | 5.008 | Subexplorada | Subexplorada |
+| Sul | 1.265.739 | 7,9% | 14,7% | 0,54 (0,48 a 0,60) | 4.228 | Potencial de crescimento | Subexplorada |
+
+![Penetração da receita por região](graficos/16_penetracao_receita_regiao.png)
+
+![Penetração da receita por estado](graficos/17_penetracao_receita_estado.png)
+
+![Receita total e por 100 mil habitantes](graficos/18_receita_total_e_por_100mil_regiao.png)
+
+**O que muda em relação à análise por vendas:**
+- **O quadro geral é o mesmo:** a correlação entre os índices por vendas e por receita nos estados é de 0,98. Sudeste vende acima do peso da população, e Sul, Norte e Nordeste abaixo.
+- **Centro-Oeste deixa de ser "alta fidelidade"** e passa a neutro: o intervalo (0,98 a 1,20) inclui 1,0.
+- **O Sul passa de "subexplorada" a "potencial de crescimento":** seu ticket por venda é o mais alto (R$ 1.827), o que eleva a receita para além do número de vendas e o coloca acima da mediana de monetização. Continua a região com a menor receita por habitante (R$ 4.228 por 100 mil, contra R$ 10.689 no Sudeste).
+- **Três estados mudam de classe** por terem o intervalo da receita incluindo 1,0: Alagoas (de subexplorada a neutra), Mato Grosso do Sul (de alta fidelidade a neutro) e Pernambuco (de potencial de crescimento a neutro).
+- **Os casos extremos se mantêm:** Distrito Federal (2,43), Acre (2,40), Amapá (1,80), Rio de Janeiro (1,69) e São Paulo (1,52) no topo; Santa Catarina (0,12), Pará (0,21), Maranhão (0,26), Tocantins (0,33) e Rondônia (0,34) na base.
+- **Resumo dos 26 estados pela receita:** 5 de alta fidelidade, 2 nichos fortes, 4 com potencial de crescimento, 7 neutros e 8 subexplorados.
+
+As colunas da variante estão em `dados/rfm_regiao.csv` e `dados/rfm_uf.csv` (`Receita_total`, `Pct_receita`, `Indice_receita`, `IC_inf_r`, `IC_sup_r`, `Receita_por_100mil` e `Classe_receita`).
+
 ### Recência por cidade
 
 Todas as 92 cidades tiveram vendas nos últimos 12 meses. As com maior tempo sem comprar:

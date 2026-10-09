@@ -48,7 +48,7 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 │   ├── padroes_de_compra.md
 │   ├── oportunidades_bcg_rfm.md
 │   ├── recomendacoes_personalizadas.md
-│   ├── graficos/        # 15 gráficos em PNG
+│   ├── graficos/        # 18 gráficos em PNG
 │   └── dados/           # 4 tabelas CSV (BCG, RFM por região e estado, recomendações GUT)
 ├── 06_decisao_sem_dados/ # Cenários, SWOT e matriz multicritério (Aulas 6.1 a 6.3)
 │   ├── planejamento_modulo_6.md
