@@ -1,0 +1,573 @@
+﻿Produto;Sentimento;Tema;Comentarios;Pct_do_sentimento
+Aparelho de som;Negativo;Durabilidade;10;18,1818
+Aparelho de som;Negativo;Arrependimento;8;14,5455
+Aparelho de som;Negativo;Não recomenda;10;18,1818
+Aparelho de som;Negativo;Qualidade;13;23,6364
+Aparelho de som;Negativo;Defeitos;5;9,0909
+Aparelho de som;Negativo;Expectativa e descrição;18;32,7273
+Aparelho de som;Negativo;Preço e valor;3;5,4545
+Aparelho de som;Neutro;Expectativa e descrição;12;26,0870
+Aparelho de som;Neutro;Preço e valor;3;6,5217
+Aparelho de som;Neutro;Marca;7;15,2174
+Aparelho de som;Neutro;Desempenho e eficiência;7;15,2174
+Aparelho de som;Neutro;Produto básico ou comum;26;56,5217
+Aparelho de som;Positivo;Qualidade;79;31,6000
+Aparelho de som;Positivo;Expectativa e descrição;54;21,6000
+Aparelho de som;Positivo;Preço e valor;29;11,6000
+Aparelho de som;Positivo;Desempenho e eficiência;48;19,2000
+Aparelho de som;Positivo;Uso diário e praticidade;28;11,2000
+Aparelho de som;Positivo;Entrega;25;10,0000
+Aparelho de som;Positivo;Recomendação;69;27,6000
+Aspirador de pó;Negativo;Durabilidade;10;18,8679
+Aspirador de pó;Negativo;Arrependimento;3;5,6604
+Aspirador de pó;Negativo;Não recomenda;15;28,3019
+Aspirador de pó;Negativo;Qualidade;10;18,8679
+Aspirador de pó;Negativo;Defeitos;8;15,0943
+Aspirador de pó;Negativo;Expectativa e descrição;13;24,5283
+Aspirador de pó;Negativo;Preço e valor;4;7,5472
+Aspirador de pó;Neutro;Expectativa e descrição;16;33,3333
+Aspirador de pó;Neutro;Preço e valor;4;8,3333
+Aspirador de pó;Neutro;Marca;3;6,2500
+Aspirador de pó;Neutro;Desempenho e eficiência;13;27,0833
+Aspirador de pó;Neutro;Produto básico ou comum;25;52,0833
+Aspirador de pó;Positivo;Qualidade;57;24,1525
+Aspirador de pó;Positivo;Expectativa e descrição;50;21,1864
+Aspirador de pó;Positivo;Preço e valor;14;5,9322
+Aspirador de pó;Positivo;Desempenho e eficiência;41;17,3729
+Aspirador de pó;Positivo;Uso diário e praticidade;38;16,1017
+Aspirador de pó;Positivo;Entrega;23;9,7458
+Aspirador de pó;Positivo;Recomendação;88;37,2881
+Batedeira;Negativo;Durabilidade;23;41,8182
+Batedeira;Negativo;Arrependimento;2;3,6364
+Batedeira;Negativo;Não recomenda;12;21,8182
+Batedeira;Negativo;Ruído;10;18,1818
+Batedeira;Negativo;Qualidade;14;25,4545
+Batedeira;Negativo;Defeitos;3;5,4545
+Batedeira;Negativo;Expectativa e descrição;18;32,7273
+Batedeira;Negativo;Preço e valor;8;14,5455
+Batedeira;Neutro;Concorrência e alternativas;4;6,2500
+Batedeira;Neutro;Expectativa e descrição;20;31,2500
+Batedeira;Neutro;Preço e valor;6;9,3750
+Batedeira;Neutro;Marca;9;14,0625
+Batedeira;Neutro;Desempenho e eficiência;12;18,7500
+Batedeira;Neutro;Entrega;5;7,8125
+Batedeira;Neutro;Produto básico ou comum;38;59,3750
+Batedeira;Positivo;Qualidade;56;29,7872
+Batedeira;Positivo;Expectativa e descrição;63;33,5106
+Batedeira;Positivo;Preço e valor;17;9,0426
+Batedeira;Positivo;Desempenho e eficiência;57;30,3191
+Batedeira;Positivo;Facilidade de uso;10;5,3191
+Batedeira;Positivo;Design;6;3,1915
+Batedeira;Positivo;Uso diário e praticidade;21;11,1702
+Batedeira;Positivo;Entrega;19;10,1064
+Batedeira;Positivo;Recomendação;51;27,1277
+Batedeira;Positivo;Produto básico ou comum;1;0,5319
+Cafeteira;Negativo;Durabilidade;5;9,8039
+Cafeteira;Negativo;Arrependimento;5;9,8039
+Cafeteira;Negativo;Não recomenda;14;27,4510
+Cafeteira;Negativo;Qualidade;12;23,5294
+Cafeteira;Negativo;Defeitos;7;13,7255
+Cafeteira;Negativo;Expectativa e descrição;15;29,4118
+Cafeteira;Negativo;Preço e valor;2;3,9216
+Cafeteira;Neutro;Expectativa e descrição;16;28,5714
+Cafeteira;Neutro;Preço e valor;6;10,7143
+Cafeteira;Neutro;Marca;5;8,9286
+Cafeteira;Neutro;Desempenho e eficiência;11;19,6429
+Cafeteira;Neutro;Produto básico ou comum;24;42,8571
+Cafeteira;Positivo;Qualidade;72;28,6853
+Cafeteira;Positivo;Expectativa e descrição;49;19,5219
+Cafeteira;Positivo;Preço e valor;26;10,3586
+Cafeteira;Positivo;Desempenho e eficiência;63;25,0996
+Cafeteira;Positivo;Uso diário e praticidade;20;7,9681
+Cafeteira;Positivo;Entrega;15;5,9761
+Cafeteira;Positivo;Recomendação;68;27,0916
+Cafeteira expresso;Negativo;Durabilidade;8;15,0943
+Cafeteira expresso;Negativo;Arrependimento;9;16,9811
+Cafeteira expresso;Negativo;Não recomenda;10;18,8679
+Cafeteira expresso;Negativo;Qualidade;11;20,7547
+Cafeteira expresso;Negativo;Defeitos;8;15,0943
+Cafeteira expresso;Negativo;Expectativa e descrição;10;18,8679
+Cafeteira expresso;Negativo;Preço e valor;3;5,6604
+Cafeteira expresso;Neutro;Expectativa e descrição;14;22,5806
+Cafeteira expresso;Neutro;Preço e valor;9;14,5161
+Cafeteira expresso;Neutro;Marca;4;6,4516
+Cafeteira expresso;Neutro;Desempenho e eficiência;17;27,4194
+Cafeteira expresso;Neutro;Produto básico ou comum;30;48,3871
+Cafeteira expresso;Positivo;Qualidade;78;32,7731
+Cafeteira expresso;Positivo;Expectativa e descrição;39;16,3866
+Cafeteira expresso;Positivo;Preço e valor;24;10,0840
+Cafeteira expresso;Positivo;Desempenho e eficiência;53;22,2689
+Cafeteira expresso;Positivo;Uso diário e praticidade;19;7,9832
+Cafeteira expresso;Positivo;Entrega;19;7,9832
+Cafeteira expresso;Positivo;Recomendação;68;28,5714
+Chuveiro elétrico;Negativo;Durabilidade;7;12,7273
+Chuveiro elétrico;Negativo;Arrependimento;7;12,7273
+Chuveiro elétrico;Negativo;Não recomenda;6;10,9091
+Chuveiro elétrico;Negativo;Qualidade;10;18,1818
+Chuveiro elétrico;Negativo;Defeitos;3;5,4545
+Chuveiro elétrico;Negativo;Expectativa e descrição;24;43,6364
+Chuveiro elétrico;Negativo;Preço e valor;2;3,6364
+Chuveiro elétrico;Neutro;Expectativa e descrição;9;16,6667
+Chuveiro elétrico;Neutro;Preço e valor;6;11,1111
+Chuveiro elétrico;Neutro;Marca;1;1,8519
+Chuveiro elétrico;Neutro;Desempenho e eficiência;10;18,5185
+Chuveiro elétrico;Neutro;Produto básico ou comum;30;55,5556
+Chuveiro elétrico;Positivo;Qualidade;68;27,3092
+Chuveiro elétrico;Positivo;Expectativa e descrição;50;20,0803
+Chuveiro elétrico;Positivo;Preço e valor;24;9,6386
+Chuveiro elétrico;Positivo;Desempenho e eficiência;51;20,4819
+Chuveiro elétrico;Positivo;Uso diário e praticidade;26;10,4418
+Chuveiro elétrico;Positivo;Entrega;28;11,2450
+Chuveiro elétrico;Positivo;Recomendação;80;32,1285
+Câmera de segurança;Negativo;Durabilidade;6;11,3208
+Câmera de segurança;Negativo;Arrependimento;8;15,0943
+Câmera de segurança;Negativo;Não recomenda;12;22,6415
+Câmera de segurança;Negativo;Qualidade;16;30,1887
+Câmera de segurança;Negativo;Defeitos;4;7,5472
+Câmera de segurança;Negativo;Expectativa e descrição;21;39,6226
+Câmera de segurança;Negativo;Preço e valor;2;3,7736
+Câmera de segurança;Neutro;Expectativa e descrição;13;29,5455
+Câmera de segurança;Neutro;Preço e valor;6;13,6364
+Câmera de segurança;Neutro;Marca;5;11,3636
+Câmera de segurança;Neutro;Desempenho e eficiência;8;18,1818
+Câmera de segurança;Neutro;Produto básico ou comum;23;52,2727
+Câmera de segurança;Positivo;Qualidade;50;22,7273
+Câmera de segurança;Positivo;Expectativa e descrição;39;17,7273
+Câmera de segurança;Positivo;Preço e valor;14;6,3636
+Câmera de segurança;Positivo;Desempenho e eficiência;49;22,2727
+Câmera de segurança;Positivo;Uso diário e praticidade;22;10,0000
+Câmera de segurança;Positivo;Entrega;17;7,7273
+Câmera de segurança;Positivo;Recomendação;82;37,2727
+Câmera digital;Negativo;Durabilidade;8;20,5128
+Câmera digital;Negativo;Arrependimento;6;15,3846
+Câmera digital;Negativo;Não recomenda;9;23,0769
+Câmera digital;Negativo;Qualidade;10;25,6410
+Câmera digital;Negativo;Defeitos;5;12,8205
+Câmera digital;Negativo;Expectativa e descrição;10;25,6410
+Câmera digital;Negativo;Preço e valor;2;5,1282
+Câmera digital;Neutro;Expectativa e descrição;10;23,2558
+Câmera digital;Neutro;Preço e valor;3;6,9767
+Câmera digital;Neutro;Marca;2;4,6512
+Câmera digital;Neutro;Desempenho e eficiência;6;13,9535
+Câmera digital;Neutro;Produto básico ou comum;25;58,1395
+Câmera digital;Positivo;Qualidade;70;32,1101
+Câmera digital;Positivo;Expectativa e descrição;44;20,1835
+Câmera digital;Positivo;Preço e valor;26;11,9266
+Câmera digital;Positivo;Desempenho e eficiência;39;17,8899
+Câmera digital;Positivo;Uso diário e praticidade;19;8,7156
+Câmera digital;Positivo;Entrega;27;12,3853
+Câmera digital;Positivo;Recomendação;65;29,8165
+Ferro de passar roupa;Negativo;Durabilidade;10;21,2766
+Ferro de passar roupa;Negativo;Arrependimento;6;12,7660
+Ferro de passar roupa;Negativo;Não recomenda;2;4,2553
+Ferro de passar roupa;Negativo;Qualidade;6;12,7660
+Ferro de passar roupa;Negativo;Defeitos;2;4,2553
+Ferro de passar roupa;Negativo;Expectativa e descrição;15;31,9149
+Ferro de passar roupa;Negativo;Preço e valor;6;12,7660
+Ferro de passar roupa;Neutro;Expectativa e descrição;18;36,0000
+Ferro de passar roupa;Neutro;Preço e valor;6;12,0000
+Ferro de passar roupa;Neutro;Marca;5;10,0000
+Ferro de passar roupa;Neutro;Desempenho e eficiência;10;20,0000
+Ferro de passar roupa;Neutro;Produto básico ou comum;26;52,0000
+Ferro de passar roupa;Positivo;Qualidade;60;27,7778
+Ferro de passar roupa;Positivo;Expectativa e descrição;40;18,5185
+Ferro de passar roupa;Positivo;Preço e valor;23;10,6481
+Ferro de passar roupa;Positivo;Desempenho e eficiência;47;21,7593
+Ferro de passar roupa;Positivo;Uso diário e praticidade;20;9,2593
+Ferro de passar roupa;Positivo;Entrega;19;8,7963
+Ferro de passar roupa;Positivo;Recomendação;69;31,9444
+Fone de ouvido;Negativo;Durabilidade;9;19,1489
+Fone de ouvido;Negativo;Arrependimento;4;8,5106
+Fone de ouvido;Negativo;Não recomenda;7;14,8936
+Fone de ouvido;Negativo;Qualidade;8;17,0213
+Fone de ouvido;Negativo;Defeitos;3;6,3830
+Fone de ouvido;Negativo;Expectativa e descrição;14;29,7872
+Fone de ouvido;Negativo;Preço e valor;5;10,6383
+Fone de ouvido;Neutro;Expectativa e descrição;13;27,6596
+Fone de ouvido;Neutro;Preço e valor;9;19,1489
+Fone de ouvido;Neutro;Marca;4;8,5106
+Fone de ouvido;Neutro;Desempenho e eficiência;7;14,8936
+Fone de ouvido;Neutro;Produto básico ou comum;22;46,8085
+Fone de ouvido;Positivo;Qualidade;68;28,4519
+Fone de ouvido;Positivo;Expectativa e descrição;55;23,0126
+Fone de ouvido;Positivo;Preço e valor;24;10,0418
+Fone de ouvido;Positivo;Desempenho e eficiência;48;20,0837
+Fone de ouvido;Positivo;Uso diário e praticidade;29;12,1339
+Fone de ouvido;Positivo;Entrega;26;10,8787
+Fone de ouvido;Positivo;Recomendação;68;28,4519
+Forno elétrico;Negativo;Durabilidade;13;23,2143
+Forno elétrico;Negativo;Arrependimento;7;12,5000
+Forno elétrico;Negativo;Não recomenda;12;21,4286
+Forno elétrico;Negativo;Qualidade;12;21,4286
+Forno elétrico;Negativo;Defeitos;7;12,5000
+Forno elétrico;Negativo;Expectativa e descrição;15;26,7857
+Forno elétrico;Negativo;Preço e valor;10;17,8571
+Forno elétrico;Neutro;Expectativa e descrição;15;30,6122
+Forno elétrico;Neutro;Preço e valor;3;6,1224
+Forno elétrico;Neutro;Marca;5;10,2041
+Forno elétrico;Neutro;Desempenho e eficiência;11;22,4490
+Forno elétrico;Neutro;Produto básico ou comum;25;51,0204
+Forno elétrico;Positivo;Qualidade;67;27,8008
+Forno elétrico;Positivo;Expectativa e descrição;37;15,3527
+Forno elétrico;Positivo;Preço e valor;23;9,5436
+Forno elétrico;Positivo;Desempenho e eficiência;53;21,9917
+Forno elétrico;Positivo;Uso diário e praticidade;26;10,7884
+Forno elétrico;Positivo;Entrega;24;9,9585
+Forno elétrico;Positivo;Recomendação;84;34,8548
+Frigobar;Negativo;Durabilidade;7;13,4615
+Frigobar;Negativo;Arrependimento;8;15,3846
+Frigobar;Negativo;Não recomenda;12;23,0769
+Frigobar;Negativo;Qualidade;13;25,0000
+Frigobar;Negativo;Defeitos;7;13,4615
+Frigobar;Negativo;Expectativa e descrição;13;25,0000
+Frigobar;Negativo;Preço e valor;3;5,7692
+Frigobar;Neutro;Expectativa e descrição;27;48,2143
+Frigobar;Neutro;Preço e valor;4;7,1429
+Frigobar;Neutro;Marca;6;10,7143
+Frigobar;Neutro;Desempenho e eficiência;17;30,3571
+Frigobar;Neutro;Produto básico ou comum;29;51,7857
+Frigobar;Positivo;Qualidade;71;30,8696
+Frigobar;Positivo;Expectativa e descrição;44;19,1304
+Frigobar;Positivo;Preço e valor;24;10,4348
+Frigobar;Positivo;Desempenho e eficiência;40;17,3913
+Frigobar;Positivo;Uso diário e praticidade;23;10,0000
+Frigobar;Positivo;Entrega;20;8,6957
+Frigobar;Positivo;Recomendação;76;33,0435
+Fritadeira elétrica;Negativo;Durabilidade;4;14,2857
+Fritadeira elétrica;Negativo;Arrependimento;7;25,0000
+Fritadeira elétrica;Negativo;Não recomenda;5;17,8571
+Fritadeira elétrica;Negativo;Qualidade;12;42,8571
+Fritadeira elétrica;Negativo;Expectativa e descrição;8;28,5714
+Fritadeira elétrica;Negativo;Preço e valor;2;7,1429
+Fritadeira elétrica;Neutro;Expectativa e descrição;21;35,0000
+Fritadeira elétrica;Neutro;Preço e valor;8;13,3333
+Fritadeira elétrica;Neutro;Marca;8;13,3333
+Fritadeira elétrica;Neutro;Desempenho e eficiência;16;26,6667
+Fritadeira elétrica;Neutro;Produto básico ou comum;29;48,3333
+Fritadeira elétrica;Positivo;Qualidade;72;30,0000
+Fritadeira elétrica;Positivo;Expectativa e descrição;54;22,5000
+Fritadeira elétrica;Positivo;Preço e valor;18;7,5000
+Fritadeira elétrica;Positivo;Desempenho e eficiência;42;17,5000
+Fritadeira elétrica;Positivo;Uso diário e praticidade;21;8,7500
+Fritadeira elétrica;Positivo;Entrega;35;14,5833
+Fritadeira elétrica;Positivo;Recomendação;72;30,0000
+Geladeira;Negativo;Durabilidade;8;16,3265
+Geladeira;Negativo;Arrependimento;5;10,2041
+Geladeira;Negativo;Não recomenda;8;16,3265
+Geladeira;Negativo;Qualidade;8;16,3265
+Geladeira;Negativo;Defeitos;5;10,2041
+Geladeira;Negativo;Expectativa e descrição;20;40,8163
+Geladeira;Negativo;Preço e valor;3;6,1224
+Geladeira;Neutro;Expectativa e descrição;16;39,0244
+Geladeira;Neutro;Preço e valor;3;7,3171
+Geladeira;Neutro;Marca;3;7,3171
+Geladeira;Neutro;Desempenho e eficiência;9;21,9512
+Geladeira;Neutro;Produto básico ou comum;25;60,9756
+Geladeira;Positivo;Qualidade;61;26,0684
+Geladeira;Positivo;Expectativa e descrição;47;20,0855
+Geladeira;Positivo;Preço e valor;18;7,6923
+Geladeira;Positivo;Desempenho e eficiência;52;22,2222
+Geladeira;Positivo;Uso diário e praticidade;26;11,1111
+Geladeira;Positivo;Entrega;31;13,2479
+Geladeira;Positivo;Recomendação;74;31,6239
+Impressora;Negativo;Durabilidade;11;19,2982
+Impressora;Negativo;Arrependimento;8;14,0351
+Impressora;Negativo;Não recomenda;16;28,0702
+Impressora;Negativo;Qualidade;16;28,0702
+Impressora;Negativo;Defeitos;8;14,0351
+Impressora;Negativo;Expectativa e descrição;11;19,2982
+Impressora;Negativo;Preço e valor;5;8,7719
+Impressora;Neutro;Expectativa e descrição;13;24,5283
+Impressora;Neutro;Preço e valor;9;16,9811
+Impressora;Neutro;Marca;5;9,4340
+Impressora;Neutro;Desempenho e eficiência;7;13,2075
+Impressora;Neutro;Produto básico ou comum;24;45,2830
+Impressora;Positivo;Qualidade;56;26,2911
+Impressora;Positivo;Expectativa e descrição;52;24,4131
+Impressora;Positivo;Preço e valor;22;10,3286
+Impressora;Positivo;Desempenho e eficiência;43;20,1878
+Impressora;Positivo;Uso diário e praticidade;16;7,5117
+Impressora;Positivo;Entrega;25;11,7371
+Impressora;Positivo;Recomendação;62;29,1080
+Liquidificador;Negativo;Durabilidade;8;20,0000
+Liquidificador;Negativo;Arrependimento;3;7,5000
+Liquidificador;Negativo;Não recomenda;12;30,0000
+Liquidificador;Negativo;Qualidade;9;22,5000
+Liquidificador;Negativo;Defeitos;6;15,0000
+Liquidificador;Negativo;Expectativa e descrição;12;30,0000
+Liquidificador;Negativo;Preço e valor;3;7,5000
+Liquidificador;Neutro;Expectativa e descrição;14;24,5614
+Liquidificador;Neutro;Preço e valor;4;7,0175
+Liquidificador;Neutro;Marca;2;3,5088
+Liquidificador;Neutro;Desempenho e eficiência;11;19,2982
+Liquidificador;Neutro;Produto básico ou comum;28;49,1228
+Liquidificador;Positivo;Qualidade;80;31,7460
+Liquidificador;Positivo;Expectativa e descrição;42;16,6667
+Liquidificador;Positivo;Preço e valor;30;11,9048
+Liquidificador;Positivo;Desempenho e eficiência;50;19,8413
+Liquidificador;Positivo;Uso diário e praticidade;32;12,6984
+Liquidificador;Positivo;Entrega;17;6,7460
+Liquidificador;Positivo;Recomendação;80;31,7460
+Micro-ondas;Negativo;Durabilidade;8;16,6667
+Micro-ondas;Negativo;Arrependimento;4;8,3333
+Micro-ondas;Negativo;Não recomenda;10;20,8333
+Micro-ondas;Negativo;Qualidade;14;29,1667
+Micro-ondas;Negativo;Expectativa e descrição;16;33,3333
+Micro-ondas;Negativo;Preço e valor;7;14,5833
+Micro-ondas;Neutro;Expectativa e descrição;18;34,6154
+Micro-ondas;Neutro;Preço e valor;4;7,6923
+Micro-ondas;Neutro;Marca;5;9,6154
+Micro-ondas;Neutro;Desempenho e eficiência;8;15,3846
+Micro-ondas;Neutro;Produto básico ou comum;26;50,0000
+Micro-ondas;Positivo;Qualidade;61;26,5217
+Micro-ondas;Positivo;Expectativa e descrição;48;20,8696
+Micro-ondas;Positivo;Preço e valor;19;8,2609
+Micro-ondas;Positivo;Desempenho e eficiência;50;21,7391
+Micro-ondas;Positivo;Uso diário e praticidade;27;11,7391
+Micro-ondas;Positivo;Entrega;24;10,4348
+Micro-ondas;Positivo;Recomendação;71;30,8696
+Máquina de café;Negativo;Durabilidade;13;24,0741
+Máquina de café;Negativo;Arrependimento;4;7,4074
+Máquina de café;Negativo;Não recomenda;9;16,6667
+Máquina de café;Negativo;Qualidade;9;16,6667
+Máquina de café;Negativo;Defeitos;4;7,4074
+Máquina de café;Negativo;Expectativa e descrição;15;27,7778
+Máquina de café;Negativo;Preço e valor;7;12,9630
+Máquina de café;Neutro;Expectativa e descrição;19;31,6667
+Máquina de café;Neutro;Preço e valor;3;5,0000
+Máquina de café;Neutro;Marca;6;10,0000
+Máquina de café;Neutro;Desempenho e eficiência;8;13,3333
+Máquina de café;Neutro;Produto básico ou comum;36;60,0000
+Máquina de café;Positivo;Qualidade;73;30,9322
+Máquina de café;Positivo;Expectativa e descrição;41;17,3729
+Máquina de café;Positivo;Preço e valor;24;10,1695
+Máquina de café;Positivo;Desempenho e eficiência;50;21,1864
+Máquina de café;Positivo;Uso diário e praticidade;21;8,8983
+Máquina de café;Positivo;Entrega;25;10,5932
+Máquina de café;Positivo;Recomendação;72;30,5085
+Máquina de lavar roupa;Negativo;Durabilidade;12;25,0000
+Máquina de lavar roupa;Negativo;Arrependimento;4;8,3333
+Máquina de lavar roupa;Negativo;Não recomenda;8;16,6667
+Máquina de lavar roupa;Negativo;Qualidade;10;20,8333
+Máquina de lavar roupa;Negativo;Defeitos;2;4,1667
+Máquina de lavar roupa;Negativo;Expectativa e descrição;10;20,8333
+Máquina de lavar roupa;Negativo;Preço e valor;8;16,6667
+Máquina de lavar roupa;Neutro;Expectativa e descrição;15;30,6122
+Máquina de lavar roupa;Neutro;Preço e valor;5;10,2041
+Máquina de lavar roupa;Neutro;Marca;5;10,2041
+Máquina de lavar roupa;Neutro;Desempenho e eficiência;7;14,2857
+Máquina de lavar roupa;Neutro;Produto básico ou comum;27;55,1020
+Máquina de lavar roupa;Positivo;Qualidade;83;35,7759
+Máquina de lavar roupa;Positivo;Expectativa e descrição;45;19,3966
+Máquina de lavar roupa;Positivo;Preço e valor;26;11,2069
+Máquina de lavar roupa;Positivo;Desempenho e eficiência;43;18,5345
+Máquina de lavar roupa;Positivo;Uso diário e praticidade;25;10,7759
+Máquina de lavar roupa;Positivo;Entrega;23;9,9138
+Máquina de lavar roupa;Positivo;Recomendação;62;26,7241
+Notebook;Negativo;Durabilidade;10;17,5439
+Notebook;Negativo;Arrependimento;13;22,8070
+Notebook;Negativo;Não recomenda;9;15,7895
+Notebook;Negativo;Qualidade;18;31,5789
+Notebook;Negativo;Defeitos;4;7,0175
+Notebook;Negativo;Expectativa e descrição;20;35,0877
+Notebook;Negativo;Preço e valor;3;5,2632
+Notebook;Neutro;Expectativa e descrição;14;31,1111
+Notebook;Neutro;Preço e valor;6;13,3333
+Notebook;Neutro;Marca;1;2,2222
+Notebook;Neutro;Desempenho e eficiência;12;26,6667
+Notebook;Neutro;Produto básico ou comum;25;55,5556
+Notebook;Positivo;Qualidade;66;33,0000
+Notebook;Positivo;Expectativa e descrição;42;21,0000
+Notebook;Positivo;Preço e valor;27;13,5000
+Notebook;Positivo;Desempenho e eficiência;39;19,5000
+Notebook;Positivo;Uso diário e praticidade;21;10,5000
+Notebook;Positivo;Entrega;12;6,0000
+Notebook;Positivo;Recomendação;53;26,5000
+Panela elétrica;Negativo;Durabilidade;7;16,6667
+Panela elétrica;Negativo;Não recomenda;10;23,8095
+Panela elétrica;Negativo;Qualidade;5;11,9048
+Panela elétrica;Negativo;Defeitos;5;11,9048
+Panela elétrica;Negativo;Expectativa e descrição;17;40,4762
+Panela elétrica;Negativo;Preço e valor;3;7,1429
+Panela elétrica;Neutro;Expectativa e descrição;19;43,1818
+Panela elétrica;Neutro;Preço e valor;2;4,5455
+Panela elétrica;Neutro;Marca;6;13,6364
+Panela elétrica;Neutro;Desempenho e eficiência;9;20,4545
+Panela elétrica;Neutro;Produto básico ou comum;22;50,0000
+Panela elétrica;Positivo;Qualidade;54;24,6575
+Panela elétrica;Positivo;Expectativa e descrição;48;21,9178
+Panela elétrica;Positivo;Preço e valor;23;10,5023
+Panela elétrica;Positivo;Desempenho e eficiência;44;20,0913
+Panela elétrica;Positivo;Uso diário e praticidade;16;7,3059
+Panela elétrica;Positivo;Entrega;28;12,7854
+Panela elétrica;Positivo;Recomendação;73;33,3333
+Relógio inteligente;Negativo;Durabilidade;7;11,6667
+Relógio inteligente;Negativo;Arrependimento;9;15,0000
+Relógio inteligente;Negativo;Não recomenda;16;26,6667
+Relógio inteligente;Negativo;Qualidade;19;31,6667
+Relógio inteligente;Negativo;Defeitos;6;10,0000
+Relógio inteligente;Negativo;Expectativa e descrição;19;31,6667
+Relógio inteligente;Negativo;Preço e valor;5;8,3333
+Relógio inteligente;Neutro;Expectativa e descrição;10;20,0000
+Relógio inteligente;Neutro;Preço e valor;3;6,0000
+Relógio inteligente;Neutro;Desempenho e eficiência;11;22,0000
+Relógio inteligente;Neutro;Produto básico ou comum;31;62,0000
+Relógio inteligente;Positivo;Qualidade;73;30,9322
+Relógio inteligente;Positivo;Expectativa e descrição;54;22,8814
+Relógio inteligente;Positivo;Preço e valor;21;8,8983
+Relógio inteligente;Positivo;Desempenho e eficiência;50;21,1864
+Relógio inteligente;Positivo;Uso diário e praticidade;23;9,7458
+Relógio inteligente;Positivo;Entrega;21;8,8983
+Relógio inteligente;Positivo;Recomendação;60;25,4237
+Secador de cabelo;Negativo;Durabilidade;13;24,5283
+Secador de cabelo;Negativo;Arrependimento;4;7,5472
+Secador de cabelo;Negativo;Não recomenda;10;18,8679
+Secador de cabelo;Negativo;Qualidade;9;16,9811
+Secador de cabelo;Negativo;Defeitos;5;9,4340
+Secador de cabelo;Negativo;Expectativa e descrição;20;37,7358
+Secador de cabelo;Negativo;Preço e valor;6;11,3208
+Secador de cabelo;Neutro;Expectativa e descrição;8;15,3846
+Secador de cabelo;Neutro;Preço e valor;4;7,6923
+Secador de cabelo;Neutro;Marca;5;9,6154
+Secador de cabelo;Neutro;Desempenho e eficiência;4;7,6923
+Secador de cabelo;Neutro;Produto básico ou comum;29;55,7692
+Secador de cabelo;Positivo;Qualidade;76;30,8943
+Secador de cabelo;Positivo;Expectativa e descrição;52;21,1382
+Secador de cabelo;Positivo;Preço e valor;26;10,5691
+Secador de cabelo;Positivo;Desempenho e eficiência;44;17,8862
+Secador de cabelo;Positivo;Uso diário e praticidade;25;10,1626
+Secador de cabelo;Positivo;Entrega;22;8,9431
+Secador de cabelo;Positivo;Recomendação;74;30,0813
+"Smart TV 55""";Negativo;Durabilidade;10;19,6078
+"Smart TV 55""";Negativo;Arrependimento;4;7,8431
+"Smart TV 55""";Negativo;Não recomenda;11;21,5686
+"Smart TV 55""";Negativo;Qualidade;8;15,6863
+"Smart TV 55""";Negativo;Defeitos;7;13,7255
+"Smart TV 55""";Negativo;Expectativa e descrição;18;35,2941
+"Smart TV 55""";Negativo;Preço e valor;5;9,8039
+"Smart TV 55""";Neutro;Expectativa e descrição;13;22,4138
+"Smart TV 55""";Neutro;Preço e valor;8;13,7931
+"Smart TV 55""";Neutro;Marca;4;6,8966
+"Smart TV 55""";Neutro;Desempenho e eficiência;10;17,2414
+"Smart TV 55""";Neutro;Produto básico ou comum;31;53,4483
+"Smart TV 55""";Positivo;Qualidade;60;26,9058
+"Smart TV 55""";Positivo;Expectativa e descrição;45;20,1794
+"Smart TV 55""";Positivo;Preço e valor;17;7,6233
+"Smart TV 55""";Positivo;Desempenho e eficiência;47;21,0762
+"Smart TV 55""";Positivo;Uso diário e praticidade;18;8,0717
+"Smart TV 55""";Positivo;Entrega;24;10,7623
+"Smart TV 55""";Positivo;Recomendação;71;31,8386
+Smartphone;Negativo;Durabilidade;9;15,5172
+Smartphone;Negativo;Arrependimento;4;6,8966
+Smartphone;Negativo;Não recomenda;13;22,4138
+Smartphone;Negativo;Qualidade;11;18,9655
+Smartphone;Negativo;Defeitos;6;10,3448
+Smartphone;Negativo;Expectativa e descrição;20;34,4828
+Smartphone;Negativo;Preço e valor;4;6,8966
+Smartphone;Neutro;Expectativa e descrição;14;26,9231
+Smartphone;Neutro;Preço e valor;4;7,6923
+Smartphone;Neutro;Marca;6;11,5385
+Smartphone;Neutro;Desempenho e eficiência;13;25,0000
+Smartphone;Neutro;Produto básico ou comum;20;38,4615
+Smartphone;Positivo;Qualidade;72;28,1250
+Smartphone;Positivo;Expectativa e descrição;44;17,1875
+Smartphone;Positivo;Preço e valor;25;9,7656
+Smartphone;Positivo;Desempenho e eficiência;53;20,7031
+Smartphone;Positivo;Uso diário e praticidade;29;11,3281
+Smartphone;Positivo;Entrega;23;8,9844
+Smartphone;Positivo;Recomendação;87;33,9844
+TV Box;Negativo;Durabilidade;13;21,3115
+TV Box;Negativo;Arrependimento;8;13,1148
+TV Box;Negativo;Não recomenda;14;22,9508
+TV Box;Negativo;Qualidade;16;26,2295
+TV Box;Negativo;Defeitos;6;9,8361
+TV Box;Negativo;Expectativa e descrição;12;19,6721
+TV Box;Negativo;Preço e valor;5;8,1967
+TV Box;Neutro;Expectativa e descrição;13;28,8889
+TV Box;Neutro;Preço e valor;3;6,6667
+TV Box;Neutro;Marca;6;13,3333
+TV Box;Neutro;Desempenho e eficiência;9;20,0000
+TV Box;Neutro;Produto básico ou comum;18;40,0000
+TV Box;Positivo;Qualidade;72;30,9013
+TV Box;Positivo;Expectativa e descrição;48;20,6009
+TV Box;Positivo;Preço e valor;21;9,0129
+TV Box;Positivo;Desempenho e eficiência;47;20,1717
+TV Box;Positivo;Uso diário e praticidade;19;8,1545
+TV Box;Positivo;Entrega;25;10,7296
+TV Box;Positivo;Recomendação;66;28,3262
+Tablet;Negativo;Durabilidade;14;22,5806
+Tablet;Negativo;Arrependimento;5;8,0645
+Tablet;Negativo;Não recomenda;13;20,9677
+Tablet;Negativo;Qualidade;14;22,5806
+Tablet;Negativo;Defeitos;4;6,4516
+Tablet;Negativo;Expectativa e descrição;19;30,6452
+Tablet;Negativo;Preço e valor;6;9,6774
+Tablet;Neutro;Expectativa e descrição;6;14,6341
+Tablet;Neutro;Preço e valor;2;4,8780
+Tablet;Neutro;Marca;2;4,8780
+Tablet;Neutro;Desempenho e eficiência;5;12,1951
+Tablet;Neutro;Produto básico ou comum;27;65,8537
+Tablet;Positivo;Qualidade;71;33,4906
+Tablet;Positivo;Expectativa e descrição;34;16,0377
+Tablet;Positivo;Preço e valor;28;13,2075
+Tablet;Positivo;Desempenho e eficiência;36;16,9811
+Tablet;Positivo;Uso diário e praticidade;24;11,3208
+Tablet;Positivo;Entrega;16;7,5472
+Tablet;Positivo;Recomendação;71;33,4906
+Ventilador de coluna;Negativo;Durabilidade;2;4,8780
+Ventilador de coluna;Negativo;Arrependimento;2;4,8780
+Ventilador de coluna;Negativo;Não recomenda;8;19,5122
+Ventilador de coluna;Negativo;Qualidade;7;17,0732
+Ventilador de coluna;Negativo;Defeitos;3;7,3171
+Ventilador de coluna;Negativo;Expectativa e descrição;20;48,7805
+Ventilador de coluna;Negativo;Preço e valor;1;2,4390
+Ventilador de coluna;Neutro;Expectativa e descrição;18;32,7273
+Ventilador de coluna;Neutro;Preço e valor;6;10,9091
+Ventilador de coluna;Neutro;Marca;6;10,9091
+Ventilador de coluna;Neutro;Desempenho e eficiência;16;29,0909
+Ventilador de coluna;Neutro;Produto básico ou comum;21;38,1818
+Ventilador de coluna;Positivo;Qualidade;55;24,2291
+Ventilador de coluna;Positivo;Expectativa e descrição;43;18,9427
+Ventilador de coluna;Positivo;Preço e valor;22;9,6916
+Ventilador de coluna;Positivo;Desempenho e eficiência;57;25,1101
+Ventilador de coluna;Positivo;Uso diário e praticidade;23;10,1322
+Ventilador de coluna;Positivo;Entrega;22;9,6916
+Ventilador de coluna;Positivo;Recomendação;72;31,7181
+Ventilador de mesa;Negativo;Durabilidade;15;28,3019
+Ventilador de mesa;Negativo;Arrependimento;2;3,7736
+Ventilador de mesa;Negativo;Não recomenda;10;18,8679
+Ventilador de mesa;Negativo;Qualidade;7;13,2075
+Ventilador de mesa;Negativo;Defeitos;5;9,4340
+Ventilador de mesa;Negativo;Expectativa e descrição;16;30,1887
+Ventilador de mesa;Negativo;Preço e valor;9;16,9811
+Ventilador de mesa;Neutro;Expectativa e descrição;18;37,5000
+Ventilador de mesa;Neutro;Preço e valor;7;14,5833
+Ventilador de mesa;Neutro;Marca;8;16,6667
+Ventilador de mesa;Neutro;Desempenho e eficiência;8;16,6667
+Ventilador de mesa;Neutro;Produto básico ou comum;16;33,3333
+Ventilador de mesa;Positivo;Qualidade;73;29,9180
+Ventilador de mesa;Positivo;Expectativa e descrição;43;17,6230
+Ventilador de mesa;Positivo;Preço e valor;26;10,6557
+Ventilador de mesa;Positivo;Desempenho e eficiência;47;19,2623
+Ventilador de mesa;Positivo;Uso diário e praticidade;24;9,8361
+Ventilador de mesa;Positivo;Entrega;21;8,6066
+Ventilador de mesa;Positivo;Recomendação;82;33,6066
+Ventilador de teto;Negativo;Durabilidade;10;18,1818
+Ventilador de teto;Negativo;Arrependimento;3;5,4545
+Ventilador de teto;Negativo;Não recomenda;9;16,3636
+Ventilador de teto;Negativo;Qualidade;9;16,3636
+Ventilador de teto;Negativo;Defeitos;3;5,4545
+Ventilador de teto;Negativo;Expectativa e descrição;20;36,3636
+Ventilador de teto;Negativo;Preço e valor;4;7,2727
+Ventilador de teto;Neutro;Expectativa e descrição;9;19,1489
+Ventilador de teto;Neutro;Preço e valor;4;8,5106
+Ventilador de teto;Neutro;Marca;5;10,6383
+Ventilador de teto;Neutro;Desempenho e eficiência;5;10,6383
+Ventilador de teto;Neutro;Produto básico ou comum;28;59,5745
+Ventilador de teto;Positivo;Qualidade;74;32,1739
+Ventilador de teto;Positivo;Expectativa e descrição;37;16,0870
+Ventilador de teto;Positivo;Preço e valor;22;9,5652
+Ventilador de teto;Positivo;Desempenho e eficiência;49;21,3043
+Ventilador de teto;Positivo;Uso diário e praticidade;20;8,6957
+Ventilador de teto;Positivo;Entrega;20;8,6957
+Ventilador de teto;Positivo;Recomendação;70;30,4348

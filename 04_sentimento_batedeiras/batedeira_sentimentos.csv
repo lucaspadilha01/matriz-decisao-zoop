@@ -5,23 +5,23 @@
 2763;2022-08-08;Facebook;79569;1;Negativo;Produto com muitos problemas,muitos ruídos. #Batedeira;Ruído
 3337;2022-09-20;X (Twitter);82838;1;Negativo;Completamente insatisfeito com a durabilidade, produto muito abaixo do esperado. #Batedeira;"Durabilidade; Expectativa e descrição"
 5238;2023-04-07;Facebook;45383;1;Negativo;Pior escolha que já fiz. Produto cheio de Ruído. #Batedeira;Ruído
-9032;2024-05-14;X (Twitter);54909;1;Negativo;Qualidade terrível. Não recomendo. #Batedeira;"Qualidade; Recomendação"
-1064;2021-12-28;TikTok;19009;1;Negativo;Produto frágil, não recomendo a compra. Muito insatisfeito. #Batedeira;"Durabilidade; Recomendação"
-4789;2023-03-19;Instagram;94434;1;Negativo;Produto de baixa qualidade, quebrou rapidamente. Não recomendo. #Batedeira;"Durabilidade; Qualidade; Recomendação"
+9032;2024-05-14;X (Twitter);54909;1;Negativo;Qualidade terrível. Não recomendo. #Batedeira;"Não recomenda; Qualidade"
+1064;2021-12-28;TikTok;19009;1;Negativo;Produto frágil, não recomendo a compra. Muito insatisfeito. #Batedeira;"Durabilidade; Não recomenda"
+4789;2023-03-19;Instagram;94434;1;Negativo;Produto de baixa qualidade, quebrou rapidamente. Não recomendo. #Batedeira;"Durabilidade; Não recomenda; Qualidade"
 2934;2022-07-17;TikTok;8507;1;Negativo;Deixou muito a desejar, me decepcionou quanto a durabildade. #Batedeira;Durabilidade
 9321;2024-07-07;X (Twitter);4072;1;Negativo;Extremamente insatisfeito, o produto não valeu a pena. #Batedeira;Preço e valor
-1863;2022-04-12;Instagram;64713;1;Negativo;Produto cheio de defeitos, especialmente o nível de ruído. Não recomendo. #Batedeira;"Ruído; Defeitos; Recomendação"
+1863;2022-04-12;Instagram;64713;1;Negativo;Produto cheio de defeitos, especialmente o nível de ruído. Não recomendo. #Batedeira;"Não recomenda; Ruído; Defeitos"
 7590;2024-01-08;Instagram;64417;1;Negativo;Produto completamente defeituoso, cheio de ruído. #Batedeira;"Ruído; Defeitos"
 8375;2024-04-04;X (Twitter);31512;1;Negativo;Produto completamente diferente do descrito. Decepção total. #Batedeira;Expectativa e descrição
 3003;2022-08-21;X (Twitter);92966;1;Negativo;O produto não tem nada a ver com a descrição. Fiquei extremamente decepcionado. #Batedeira;Expectativa e descrição
 4622;2023-02-17;TikTok;31836;1;Negativo;Produto abaixo das expectativas, esperava muito mais. #Batedeira;Expectativa e descrição
 6136;2023-07-29;X (Twitter);16275;1;Negativo;Não atendeu minhas expectativas, tem muito ruído. #Batedeira;"Ruído; Expectativa e descrição"
-4292;2022-12-21;X (Twitter);37063;1;Negativo;Fiquei arrependido de ter adquirido, a qualidade é muito inferior. #Batedeira;Qualidade
+4292;2022-12-21;X (Twitter);37063;1;Negativo;Fiquei arrependido de ter adquirido, a qualidade é muito inferior. #Batedeira;"Arrependimento; Qualidade"
 5056;2023-04-18;Instagram;53789;1;Negativo;A durabilidade é ruim. Decepção total. #Batedeira;Durabilidade
 2076;2022-04-20;Facebook;65687;1;Negativo;Frustrado com a durabilidade. O produto não é o que eu esperava. #Batedeira;"Durabilidade; Expectativa e descrição"
-9691;2024-08-12;Facebook;18391;1;Negativo;Não recomendo, produto de baixa durabilidade. Decepcionado. #Batedeira;"Durabilidade; Recomendação"
+9691;2024-08-12;Facebook;18391;1;Negativo;Não recomendo, produto de baixa durabilidade. Decepcionado. #Batedeira;"Durabilidade; Não recomenda"
 9940;2024-09-19;Facebook;97669;1;Negativo;A durabilidade do produto é decepcionante, muito aquém do esperado. #Batedeira;"Durabilidade; Expectativa e descrição"
-2177;2022-04-23;TikTok;89846;2;Negativo;Frustrado com a durabilidade. Não recomendo a compra. #Batedeira;"Durabilidade; Recomendação"
+2177;2022-04-23;TikTok;89846;2;Negativo;Frustrado com a durabilidade. Não recomendo a compra. #Batedeira;"Durabilidade; Não recomenda"
 3064;2022-08-16;Facebook;58540;2;Negativo;Não vale o preço, qualidade muito baixa. #Batedeira;"Qualidade; Preço e valor"
 9348;2024-06-30;Instagram;85815;2;Negativo;A durabilidade deixa muito a desejar, não compraria novamente. #Batedeira;Durabilidade
 3648;2022-10-28;TikTok;18620;2;Negativo;Durabilidade baixa, me decepcionou bastante. Não compraria novamente. #Batedeira;Durabilidade
@@ -31,16 +31,16 @@
 62;2021-10-14;X (Twitter);13348;2;Negativo;O produto deixou a desejar, muiot ruído. #Batedeira;Ruído
 3251;2022-09-29;Facebook;53831;2;Negativo;Esperava mais do produto, pouca durabilidade. #Batedeira;"Durabilidade; Expectativa e descrição"
 7533;2024-01-10;X (Twitter);35392;2;Negativo;Produto decepcionante, cheio de ruído. #Batedeira;Ruído
-8860;2024-06-02;Facebook;83536;2;Negativo;Não recomendo, produto abaixo das expectativas. #Batedeira;"Expectativa e descrição; Recomendação"
+8860;2024-06-02;Facebook;83536;2;Negativo;Não recomendo, produto abaixo das expectativas. #Batedeira;"Não recomenda; Expectativa e descrição"
 1533;2022-02-11;Facebook;1780;2;Negativo;Nível de ruído alto, não gostei. Deixou a desejar. #Batedeira;Ruído
 9741;2024-07-29;X (Twitter);31560;2;Negativo;Durabilidade ruim, o produto não vale o preço. #Batedeira;"Durabilidade; Preço e valor"
 872;2021-12-04;Facebook;1688;2;Negativo;Produto com vários defeito e baixa durabilidade. #Batedeira;"Durabilidade; Defeitos"
-907;2021-12-06;X (Twitter);25466;2;Negativo;Produto cheio de ruído, não vale o investimento. Não recomendo. #Batedeira;"Ruído; Preço e valor; Recomendação"
-6944;2023-11-20;TikTok;88676;2;Negativo;O produto tem muito ruído, não recomendo para ninguém. #Batedeira;"Ruído; Recomendação"
+907;2021-12-06;X (Twitter);25466;2;Negativo;Produto cheio de ruído, não vale o investimento. Não recomendo. #Batedeira;"Não recomenda; Ruído; Preço e valor"
+6944;2023-11-20;TikTok;88676;2;Negativo;O produto tem muito ruído, não recomendo para ninguém. #Batedeira;"Não recomenda; Ruído"
 216;2021-10-06;Instagram;8015;2;Negativo;Produto de qualidade inferior, durabilidade muito baixa. #Batedeira;"Durabilidade; Qualidade"
-2024;2022-04-09;X (Twitter);82120;2;Negativo;Qualidade bem abaixo do esperado, não recomendo. #Batedeira;"Qualidade; Expectativa e descrição; Recomendação"
+2024;2022-04-09;X (Twitter);82120;2;Negativo;Qualidade bem abaixo do esperado, não recomendo. #Batedeira;"Não recomenda; Qualidade; Expectativa e descrição"
 6627;2023-09-17;Instagram;2500;2;Negativo;Produto de baixa qualidade, não vale a pena comprar. #Batedeira;"Qualidade; Preço e valor"
-9406;2024-07-03;Instagram;97826;2;Negativo;Muito fraco, qualidade muito ruim. Não recomendo. #Batedeira;"Qualidade; Recomendação"
+9406;2024-07-03;Instagram;97826;2;Negativo;Muito fraco, qualidade muito ruim. Não recomendo. #Batedeira;"Não recomenda; Qualidade"
 7901;2024-02-18;TikTok;10390;2;Negativo;O produto não corresponde à descrição, fiquei bastante decepcionado. #Batedeira;Expectativa e descrição
 8087;2024-02-03;X (Twitter);6909;2;Negativo;Não corresponde ao que foi prometido, muito insatisfeito. #Batedeira;Expectativa e descrição
 8988;2024-06-05;Facebook;24076;2;Negativo;Produto bem abaixo do esperado, não correspondeu à descrição. #Batedeira;Expectativa e descrição
@@ -49,9 +49,9 @@
 6320;2023-09-11;X (Twitter);80166;2;Negativo;Produto diferente do descrito, bem decepcionante. #Batedeira;Expectativa e descrição
 7084;2023-10-31;Facebook;10392;2;Negativo;Desapontado com a qualidade, produto deixou a desejar. #Batedeira;Qualidade
 9411;2024-08-11;X (Twitter);25373;2;Negativo;Produto aquém do esperado, não correspondeu à qualidade esperada. #Batedeira;"Qualidade; Expectativa e descrição"
-421;2021-10-31;X (Twitter);44657;2;Negativo;A qualidade é baixa, me arrependo da compra. #Batedeira;Qualidade
+421;2021-10-31;X (Twitter);44657;2;Negativo;A qualidade é baixa, me arrependo da compra. #Batedeira;"Arrependimento; Qualidade"
 6998;2023-11-24;Facebook;54250;2;Negativo;Não gostei da qualidade, não valeu a pena a compra. #Batedeira;"Qualidade; Preço e valor"
-7801;2024-02-07;TikTok;90485;2;Negativo;A qualidade deixou a desejar, não recomendo. #Batedeira;"Qualidade; Recomendação"
+7801;2024-02-07;TikTok;90485;2;Negativo;A qualidade deixou a desejar, não recomendo. #Batedeira;"Não recomenda; Qualidade"
 8501;2024-03-29;X (Twitter);3494;2;Negativo;Quebrou com facilidade, a durabilidade deixou a desejar. #Batedeira;Durabilidade
 4698;2023-02-15;Instagram;72068;2;Negativo;A durabilidade é baixa, não valeu o investimento. #Batedeira;"Durabilidade; Preço e valor"
 2125;2022-04-11;Facebook;82999;2;Neutro;Produto regular, nada fora do comum. Não surpreendeu. #Batedeira;Produto básico ou comum
@@ -106,13 +106,13 @@
 3035;2022-08-29;X (Twitter);51066;3;Neutro;Produto razoável, mas o preço está um pouco acima do que vale. #Batedeira;"Preço e valor; Produto básico ou comum"
 4564;2023-02-07;Facebook;92306;3;Neutro;Está ok, porém achei que o preço é elevado pelo que oferece. #Batedeira;Preço e valor
 5013;2023-04-21;X (Twitter);11971;3;Neutro;Produto bom, mas o valor cobrado é um pouco alto. #Batedeira;Preço e valor
-848;2022-01-04;X (Twitter);69045;3;Neutro;Produto regular, mas há opções bem melhores disponíveis no mercado. #Batedeira;Produto básico ou comum
-2236;2022-04-30;Instagram;60433;3;Neutro;O produto é razoável, mas existem alternativas superiores por aí. #Batedeira;Produto básico ou comum
-8260;2024-02-28;Instagram;56884;3;Neutro;Razoável, mas certamente há produtos mais adequados no mercado. #Batedeira;Produto básico ou comum
+848;2022-01-04;X (Twitter);69045;3;Neutro;Produto regular, mas há opções bem melhores disponíveis no mercado. #Batedeira;"Concorrência e alternativas; Produto básico ou comum"
+2236;2022-04-30;Instagram;60433;3;Neutro;O produto é razoável, mas existem alternativas superiores por aí. #Batedeira;"Concorrência e alternativas; Produto básico ou comum"
+8260;2024-02-28;Instagram;56884;3;Neutro;Razoável, mas certamente há produtos mais adequados no mercado. #Batedeira;"Concorrência e alternativas; Produto básico ou comum"
 1442;2022-02-17;X (Twitter);41921;3;Neutro;Satisfatório, mas esperava mais da marca. #Batedeira;"Expectativa e descrição; Marca"
 1881;2022-05-03;Instagram;50303;3;Neutro;Produto razoável, mas a marca poderia entregar mais. #Batedeira;"Marca; Entrega; Produto básico ou comum"
 2886;2022-07-14;X (Twitter);64572;3;Neutro;Não é ruim, mas esperava mais da marca. #Batedeira;"Expectativa e descrição; Marca"
-5114;2023-04-26;Instagram;52081;3;Neutro;Produto satisfatório, mas a marca já entregou melhores. #Batedeira;Marca
+5114;2023-04-26;Instagram;52081;3;Neutro;Produto satisfatório, mas a marca já entregou melhores. #Batedeira;"Concorrência e alternativas; Marca"
 6550;2023-09-25;Facebook;8815;3;Neutro;Um bom produto, mas fiquei esperando mais pelo nome da marca. #Batedeira;Marca
 7234;2023-12-15;Facebook;28960;3;Neutro;Esperava mais da marca, o produto é apenas razoável. #Batedeira;"Expectativa e descrição; Marca; Produto básico ou comum"
 7306;2024-01-01;X (Twitter);20199;3;Neutro;Produto ok, mas a marca me deixou esperando algo melhor. #Batedeira;Marca
