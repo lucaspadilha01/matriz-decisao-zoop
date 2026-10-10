@@ -58,6 +58,8 @@ Projeto prático do curso da Alura sobre **IA aplicada a decisões estratégicas
 │   ├── matriz_multicriterio.csv
 │   ├── sensibilidade_pesos.csv
 │   └── graficos/        # 2 gráficos em PNG
+├── 07_dashboard/        # Dashboard interativo com o resumo de tudo (em planejamento)
+│   └── planejamento_dashboard_html.md
 ├── dados/               # Bases usadas no case (vendas e feedbacks)
 │   ├── Vendas Zopp.xlsx
 │   ├── Zoop - Dados Vendas.xlsx
