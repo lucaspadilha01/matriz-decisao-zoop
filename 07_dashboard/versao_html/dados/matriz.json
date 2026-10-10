@@ -1,0 +1,98 @@
+[
+{
+"Cenario": "Cenário 1",
+"Nome": "Brasil primeiro",
+"Criterio": "Impacto no crescimento",
+"Peso_pct": 40,
+"Nota": 5,
+"Justificativa": "Só cresce no Brasil; os dados mostram espaço doméstico, mas o efeito do novo layout não foi medido"
+},
+{
+"Cenario": "Cenário 1",
+"Nome": "Brasil primeiro",
+"Criterio": "Risco de implementação",
+"Peso_pct": 20,
+"Nota": 9,
+"Justificativa": "Opera onde a Zoop já tem equipe, marca e logística"
+},
+{
+"Cenario": "Cenário 1",
+"Nome": "Brasil primeiro",
+"Criterio": "Viabilidade operacional",
+"Peso_pct": 30,
+"Nota": 9,
+"Justificativa": "Executável com os recursos atuais"
+},
+{
+"Cenario": "Cenário 1",
+"Nome": "Brasil primeiro",
+"Criterio": "Urgência de aplicação",
+"Peso_pct": 10,
+"Nota": 5,
+"Justificativa": "Trata a queda de tráfego das lojas, mas não a pressão por expansão"
+},
+{
+"Cenario": "Cenário 2",
+"Nome": "Piloto internacional + layout em fases",
+"Criterio": "Impacto no crescimento",
+"Peso_pct": 40,
+"Nota": 8,
+"Justificativa": "Abre o mercado internacional e mantém o ganho do layout; o piloto sozinho tem efeito pequeno no curto prazo"
+},
+{
+"Cenario": "Cenário 2",
+"Nome": "Piloto internacional + layout em fases",
+"Criterio": "Risco de implementação",
+"Peso_pct": 20,
+"Nota": 6,
+"Justificativa": "Risco limitado e reversível, mas exige parceiro e logística novos"
+},
+{
+"Cenario": "Cenário 2",
+"Nome": "Piloto internacional + layout em fases",
+"Criterio": "Viabilidade operacional",
+"Peso_pct": 30,
+"Nota": 7,
+"Justificativa": "Duas frentes exigem coordenação, mas o caixa existe"
+},
+{
+"Cenario": "Cenário 2",
+"Nome": "Piloto internacional + layout em fases",
+"Criterio": "Urgência de aplicação",
+"Peso_pct": 10,
+"Nota": 8,
+"Justificativa": "Responde à pressão de concorrentes e acionistas já no primeiro ano"
+},
+{
+"Cenario": "Cenário 3",
+"Nome": "Expansão simultânea",
+"Criterio": "Impacto no crescimento",
+"Peso_pct": 40,
+"Nota": 10,
+"Justificativa": "Maior alcance e velocidade"
+},
+{
+"Cenario": "Cenário 3",
+"Nome": "Expansão simultânea",
+"Criterio": "Risco de implementação",
+"Peso_pct": 20,
+"Nota": 2,
+"Justificativa": "Compromete caixa, opera em vários países e não tem ponto de saída"
+},
+{
+"Cenario": "Cenário 3",
+"Nome": "Expansão simultânea",
+"Criterio": "Viabilidade operacional",
+"Peso_pct": 30,
+"Nota": 3,
+"Justificativa": "Falta logística internacional e mão de obra para fazer tudo ao mesmo tempo"
+},
+{
+"Cenario": "Cenário 3",
+"Nome": "Expansão simultânea",
+"Criterio": "Urgência de aplicação",
+"Peso_pct": 10,
+"Nota": 9,
+"Justificativa": "Máxima resposta à pressão de tempo"
+}
+]

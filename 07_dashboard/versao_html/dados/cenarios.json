@@ -1,0 +1,29 @@
+[
+{
+"Cenario": "Cenário 1",
+"Nome": "Brasil primeiro",
+"Perfil": "Conservador: baixo risco, impacto moderado",
+"Internacional": "Só estudo de mercado e conversas; nenhuma operação por 12 meses",
+"Lojas": "Reorganização em fases, começando por lojas-piloto",
+"Decisao_seguinte": "Revisão em 12 meses",
+"Prob_melhor_pct": 35.6
+},
+{
+"Cenario": "Cenário 2",
+"Nome": "Piloto internacional + layout em fases",
+"Perfil": "Expansão moderada: risco calculado, alto potencial",
+"Internacional": "Piloto de e-commerce em um país da América Latina, com parceiro e suporte técnico local",
+"Lojas": "Reorganização em fases (igual ao Cenário 1)",
+"Decisao_seguinte": "Ponto de decisão (ampliar, ajustar ou parar) após o piloto",
+"Prob_melhor_pct": 59.4
+},
+{
+"Cenario": "Cenário 3",
+"Nome": "Expansão simultânea",
+"Perfil": "Agressivo: alto risco, grande impacto",
+"Internacional": "Vários países com e-commerce e lojas físicas, mais aquisição de startups",
+"Lojas": "Reorganização das mais de 200 lojas ao mesmo tempo",
+"Decisao_seguinte": "Sem ponto de revisão previsto",
+"Prob_melhor_pct": 5.1
+}
+]

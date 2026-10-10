@@ -1,0 +1,68 @@
+[
+{
+"Perfil": "Pesos do diretor",
+"Peso_impacto": 40,
+"Peso_risco": 20,
+"Peso_viabilidade": 30,
+"Peso_urgencia": 10,
+"Cenario_1": 7.0,
+"Cenario_2": 7.3,
+"Cenario_3": 6.2,
+"Vencedor": "Cenário 2"
+},
+{
+"Perfil": "Pesos iguais",
+"Peso_impacto": 25,
+"Peso_risco": 25,
+"Peso_viabilidade": 25,
+"Peso_urgencia": 25,
+"Cenario_1": 7.0,
+"Cenario_2": 7.25,
+"Cenario_3": 6.0,
+"Vencedor": "Cenário 2"
+},
+{
+"Perfil": "Avesso a risco",
+"Peso_impacto": 20,
+"Peso_risco": 40,
+"Peso_viabilidade": 30,
+"Peso_urgencia": 10,
+"Cenario_1": 7.8,
+"Cenario_2": 6.9,
+"Cenario_3": 4.6,
+"Vencedor": "Cenário 1"
+},
+{
+"Perfil": "Foco em crescimento",
+"Peso_impacto": 60,
+"Peso_risco": 10,
+"Peso_viabilidade": 20,
+"Peso_urgencia": 10,
+"Cenario_1": 6.2,
+"Cenario_2": 7.6,
+"Cenario_3": 7.7,
+"Vencedor": "Cenário 3"
+},
+{
+"Perfil": "Foco em execução",
+"Peso_impacto": 30,
+"Peso_risco": 20,
+"Peso_viabilidade": 40,
+"Peso_urgencia": 10,
+"Cenario_1": 7.4,
+"Cenario_2": 7.2,
+"Cenario_3": 5.5,
+"Vencedor": "Cenário 1"
+},
+{
+"Perfil": "Foco em urgência",
+"Peso_impacto": 30,
+"Peso_risco": 15,
+"Peso_viabilidade": 25,
+"Peso_urgencia": 30,
+"Cenario_1": 6.6,
+"Cenario_2": 7.45,
+"Cenario_3": 6.75,
+"Vencedor": "Cenário 2"
+}
+]

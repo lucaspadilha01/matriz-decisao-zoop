@@ -1,0 +1,2655 @@
+[
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2021T3",
+"Feedbacks": 98,
+"Nota_media": 3.9184,
+"Pct_negativo": 13.2653
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2021T4",
+"Feedbacks": 809,
+"Nota_media": 3.8282,
+"Pct_negativo": 16.6873
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2022T1",
+"Feedbacks": 884,
+"Nota_media": 3.9129,
+"Pct_negativo": 14.5928
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2022T2",
+"Feedbacks": 798,
+"Nota_media": 3.8935,
+"Pct_negativo": 14.1604
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2022T3",
+"Feedbacks": 841,
+"Nota_media": 3.8216,
+"Pct_negativo": 17.5981
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2022T4",
+"Feedbacks": 823,
+"Nota_media": 3.8615,
+"Pct_negativo": 16.0389
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2023T1",
+"Feedbacks": 778,
+"Nota_media": 3.937,
+"Pct_negativo": 13.7532
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2023T2",
+"Feedbacks": 810,
+"Nota_media": 3.8704,
+"Pct_negativo": 15.1852
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2023T3",
+"Feedbacks": 872,
+"Nota_media": 3.836,
+"Pct_negativo": 17.5459
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2023T4",
+"Feedbacks": 828,
+"Nota_media": 3.9034,
+"Pct_negativo": 13.4058
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2024T1",
+"Feedbacks": 859,
+"Nota_media": 3.9302,
+"Pct_negativo": 14.2026
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2024T2",
+"Feedbacks": 842,
+"Nota_media": 3.8884,
+"Pct_negativo": 15.7957
+},
+{
+"Produto": "Todos os produtos",
+"Trimestre": "2024T3",
+"Feedbacks": 732,
+"Nota_media": 3.929,
+"Pct_negativo": 15.1639
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2021T4",
+"Feedbacks": 30,
+"Nota_media": 3.6,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2022T1",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2022T2",
+"Feedbacks": 17,
+"Nota_media": 4.2353,
+"Pct_negativo": 5.8824
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2022T3",
+"Feedbacks": 35,
+"Nota_media": 3.8571,
+"Pct_negativo": 17.1429
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2022T4",
+"Feedbacks": 27,
+"Nota_media": 3.6667,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2023T2",
+"Feedbacks": 34,
+"Nota_media": 3.3824,
+"Pct_negativo": 29.4118
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2023T3",
+"Feedbacks": 27,
+"Nota_media": 3.7778,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2023T4",
+"Feedbacks": 33,
+"Nota_media": 4.1212,
+"Pct_negativo": 12.1212
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2024T1",
+"Feedbacks": 30,
+"Nota_media": 4.1667,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2024T2",
+"Feedbacks": 31,
+"Nota_media": 3.8387,
+"Pct_negativo": 12.9032
+},
+{
+"Produto": "Aparelho de som",
+"Trimestre": "2024T3",
+"Feedbacks": 27,
+"Nota_media": 3.9259,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2021T4",
+"Feedbacks": 27,
+"Nota_media": 4.037,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2022T1",
+"Feedbacks": 25,
+"Nota_media": 4.04,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2022T2",
+"Feedbacks": 39,
+"Nota_media": 3.7179,
+"Pct_negativo": 20.5128
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2022T3",
+"Feedbacks": 27,
+"Nota_media": 4.037,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2022T4",
+"Feedbacks": 25,
+"Nota_media": 3.6,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2023T1",
+"Feedbacks": 27,
+"Nota_media": 3.9259,
+"Pct_negativo": 18.5185
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2023T2",
+"Feedbacks": 29,
+"Nota_media": 4.1034,
+"Pct_negativo": 10.3448
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2023T3",
+"Feedbacks": 26,
+"Nota_media": 4.0,
+"Pct_negativo": 19.2308
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2023T4",
+"Feedbacks": 28,
+"Nota_media": 3.9643,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2024T1",
+"Feedbacks": 32,
+"Nota_media": 3.75,
+"Pct_negativo": 15.625
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2024T2",
+"Feedbacks": 26,
+"Nota_media": 4.1538,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Aspirador de pó",
+"Trimestre": "2024T3",
+"Feedbacks": 22,
+"Nota_media": 3.8636,
+"Pct_negativo": 9.0909
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2021T4",
+"Feedbacks": 22,
+"Nota_media": 3.2273,
+"Pct_negativo": 31.8182
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2022T1",
+"Feedbacks": 22,
+"Nota_media": 4.0455,
+"Pct_negativo": 4.5455
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2022T2",
+"Feedbacks": 28,
+"Nota_media": 3.5357,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2022T3",
+"Feedbacks": 29,
+"Nota_media": 3.1379,
+"Pct_negativo": 24.1379
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2022T4",
+"Feedbacks": 17,
+"Nota_media": 3.7059,
+"Pct_negativo": 11.7647
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2023T1",
+"Feedbacks": 22,
+"Nota_media": 3.9091,
+"Pct_negativo": 13.6364
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2023T2",
+"Feedbacks": 25,
+"Nota_media": 3.88,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2023T3",
+"Feedbacks": 34,
+"Nota_media": 3.7647,
+"Pct_negativo": 14.7059
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2023T4",
+"Feedbacks": 27,
+"Nota_media": 3.8519,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2024T1",
+"Feedbacks": 33,
+"Nota_media": 3.7273,
+"Pct_negativo": 18.1818
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2024T2",
+"Feedbacks": 26,
+"Nota_media": 3.3846,
+"Pct_negativo": 23.0769
+},
+{
+"Produto": "Batedeira",
+"Trimestre": "2024T3",
+"Feedbacks": 21,
+"Nota_media": 3.2857,
+"Pct_negativo": 33.3333
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2021T4",
+"Feedbacks": 24,
+"Nota_media": 3.9583,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2022T1",
+"Feedbacks": 32,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2022T2",
+"Feedbacks": 31,
+"Nota_media": 3.9677,
+"Pct_negativo": 9.6774
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2022T3",
+"Feedbacks": 15,
+"Nota_media": 3.3333,
+"Pct_negativo": 33.3333
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2022T4",
+"Feedbacks": 25,
+"Nota_media": 4.28,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2023T1",
+"Feedbacks": 36,
+"Nota_media": 3.8611,
+"Pct_negativo": 19.4444
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2023T2",
+"Feedbacks": 34,
+"Nota_media": 4.0294,
+"Pct_negativo": 17.6471
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2023T3",
+"Feedbacks": 37,
+"Nota_media": 3.9459,
+"Pct_negativo": 10.8108
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2023T4",
+"Feedbacks": 25,
+"Nota_media": 3.68,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2024T1",
+"Feedbacks": 39,
+"Nota_media": 3.7692,
+"Pct_negativo": 17.9487
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2024T2",
+"Feedbacks": 28,
+"Nota_media": 3.5714,
+"Pct_negativo": 25.0
+},
+{
+"Produto": "Cafeteira",
+"Trimestre": "2024T3",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2021T4",
+"Feedbacks": 23,
+"Nota_media": 3.7391,
+"Pct_negativo": 21.7391
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2022T1",
+"Feedbacks": 27,
+"Nota_media": 4.0741,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2022T2",
+"Feedbacks": 34,
+"Nota_media": 4.2353,
+"Pct_negativo": 2.9412
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2022T3",
+"Feedbacks": 33,
+"Nota_media": 3.7879,
+"Pct_negativo": 15.1515
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2022T4",
+"Feedbacks": 31,
+"Nota_media": 3.8387,
+"Pct_negativo": 19.3548
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2023T1",
+"Feedbacks": 29,
+"Nota_media": 3.8276,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2023T2",
+"Feedbacks": 29,
+"Nota_media": 3.7241,
+"Pct_negativo": 20.6897
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2023T3",
+"Feedbacks": 37,
+"Nota_media": 3.7838,
+"Pct_negativo": 21.6216
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2023T4",
+"Feedbacks": 30,
+"Nota_media": 3.6667,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2024T1",
+"Feedbacks": 25,
+"Nota_media": 3.52,
+"Pct_negativo": 24.0
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2024T2",
+"Feedbacks": 32,
+"Nota_media": 4.0625,
+"Pct_negativo": 6.25
+},
+{
+"Produto": "Cafeteira expresso",
+"Trimestre": "2024T3",
+"Feedbacks": 19,
+"Nota_media": 4.0,
+"Pct_negativo": 10.5263
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2021T3",
+"Feedbacks": 8,
+"Nota_media": 4.0,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2021T4",
+"Feedbacks": 29,
+"Nota_media": 3.6207,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2022T1",
+"Feedbacks": 37,
+"Nota_media": 3.9189,
+"Pct_negativo": 13.5135
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2022T2",
+"Feedbacks": 27,
+"Nota_media": 3.7778,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2022T3",
+"Feedbacks": 23,
+"Nota_media": 3.7826,
+"Pct_negativo": 8.6957
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2022T4",
+"Feedbacks": 23,
+"Nota_media": 3.3913,
+"Pct_negativo": 30.4348
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 3.6786,
+"Pct_negativo": 25.0
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2023T2",
+"Feedbacks": 32,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2023T3",
+"Feedbacks": 42,
+"Nota_media": 3.5952,
+"Pct_negativo": 26.1905
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2023T4",
+"Feedbacks": 27,
+"Nota_media": 4.0741,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2024T1",
+"Feedbacks": 28,
+"Nota_media": 4.1071,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2024T2",
+"Feedbacks": 24,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Chuveiro elétrico",
+"Trimestre": "2024T3",
+"Feedbacks": 28,
+"Nota_media": 4.5357,
+"Pct_negativo": 3.5714
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2021T4",
+"Feedbacks": 22,
+"Nota_media": 3.8182,
+"Pct_negativo": 22.7273
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2022T1",
+"Feedbacks": 37,
+"Nota_media": 3.8919,
+"Pct_negativo": 16.2162
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2022T2",
+"Feedbacks": 26,
+"Nota_media": 3.9615,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2022T3",
+"Feedbacks": 31,
+"Nota_media": 3.7742,
+"Pct_negativo": 16.129
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2022T4",
+"Feedbacks": 30,
+"Nota_media": 3.9333,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 4.0526,
+"Pct_negativo": 15.7895
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2023T2",
+"Feedbacks": 22,
+"Nota_media": 3.6364,
+"Pct_negativo": 18.1818
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2023T3",
+"Feedbacks": 32,
+"Nota_media": 4.2188,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2023T4",
+"Feedbacks": 30,
+"Nota_media": 3.4333,
+"Pct_negativo": 23.3333
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2024T1",
+"Feedbacks": 21,
+"Nota_media": 3.7619,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2024T2",
+"Feedbacks": 19,
+"Nota_media": 4.0526,
+"Pct_negativo": 15.7895
+},
+{
+"Produto": "Câmera de segurança",
+"Trimestre": "2024T3",
+"Feedbacks": 25,
+"Nota_media": 4.0,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2021T3",
+"Feedbacks": 8,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2021T4",
+"Feedbacks": 20,
+"Nota_media": 3.75,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2022T1",
+"Feedbacks": 31,
+"Nota_media": 4.1613,
+"Pct_negativo": 6.4516
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2022T2",
+"Feedbacks": 33,
+"Nota_media": 3.8485,
+"Pct_negativo": 21.2121
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2022T3",
+"Feedbacks": 19,
+"Nota_media": 3.8421,
+"Pct_negativo": 21.0526
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2022T4",
+"Feedbacks": 20,
+"Nota_media": 4.25,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 3.5789,
+"Pct_negativo": 26.3158
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2023T2",
+"Feedbacks": 26,
+"Nota_media": 3.6538,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2023T3",
+"Feedbacks": 22,
+"Nota_media": 4.4545,
+"Pct_negativo": 4.5455
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2023T4",
+"Feedbacks": 32,
+"Nota_media": 4.25,
+"Pct_negativo": 3.125
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2024T1",
+"Feedbacks": 23,
+"Nota_media": 4.1739,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2024T2",
+"Feedbacks": 28,
+"Nota_media": 4.1071,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Câmera digital",
+"Trimestre": "2024T3",
+"Feedbacks": 18,
+"Nota_media": 3.7222,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2021T4",
+"Feedbacks": 30,
+"Nota_media": 3.9,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2022T1",
+"Feedbacks": 30,
+"Nota_media": 4.1333,
+"Pct_negativo": 6.6667
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2022T2",
+"Feedbacks": 23,
+"Nota_media": 4.1304,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2022T3",
+"Feedbacks": 23,
+"Nota_media": 3.7826,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2022T4",
+"Feedbacks": 30,
+"Nota_media": 4.0667,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 3.8929,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2023T2",
+"Feedbacks": 20,
+"Nota_media": 3.95,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2023T3",
+"Feedbacks": 31,
+"Nota_media": 3.7742,
+"Pct_negativo": 12.9032
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2023T4",
+"Feedbacks": 27,
+"Nota_media": 3.6296,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2024T1",
+"Feedbacks": 25,
+"Nota_media": 3.92,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2024T2",
+"Feedbacks": 19,
+"Nota_media": 4.4737,
+"Pct_negativo": 10.5263
+},
+{
+"Produto": "Ferro de passar roupa",
+"Trimestre": "2024T3",
+"Feedbacks": 24,
+"Nota_media": 3.25,
+"Pct_negativo": 29.1667
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2021T4",
+"Feedbacks": 28,
+"Nota_media": 3.7857,
+"Pct_negativo": 25.0
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2022T1",
+"Feedbacks": 35,
+"Nota_media": 4.2571,
+"Pct_negativo": 8.5714
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2022T2",
+"Feedbacks": 23,
+"Nota_media": 4.087,
+"Pct_negativo": 8.6957
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2022T3",
+"Feedbacks": 33,
+"Nota_media": 3.8182,
+"Pct_negativo": 18.1818
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2022T4",
+"Feedbacks": 20,
+"Nota_media": 3.65,
+"Pct_negativo": 15.0
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2023T1",
+"Feedbacks": 30,
+"Nota_media": 3.6333,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2023T2",
+"Feedbacks": 23,
+"Nota_media": 3.7391,
+"Pct_negativo": 17.3913
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2023T3",
+"Feedbacks": 32,
+"Nota_media": 3.9688,
+"Pct_negativo": 15.625
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2023T4",
+"Feedbacks": 26,
+"Nota_media": 4.1538,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2024T1",
+"Feedbacks": 25,
+"Nota_media": 4.08,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2024T2",
+"Feedbacks": 26,
+"Nota_media": 3.9615,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Fone de ouvido",
+"Trimestre": "2024T3",
+"Feedbacks": 26,
+"Nota_media": 3.8462,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2021T4",
+"Feedbacks": 32,
+"Nota_media": 4.0625,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2022T1",
+"Feedbacks": 25,
+"Nota_media": 3.24,
+"Pct_negativo": 32.0
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2022T2",
+"Feedbacks": 31,
+"Nota_media": 4.0645,
+"Pct_negativo": 9.6774
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2022T3",
+"Feedbacks": 15,
+"Nota_media": 4.0,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2022T4",
+"Feedbacks": 39,
+"Nota_media": 3.8718,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 4.2105,
+"Pct_negativo": 10.5263
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2023T2",
+"Feedbacks": 22,
+"Nota_media": 4.0909,
+"Pct_negativo": 13.6364
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2023T3",
+"Feedbacks": 33,
+"Nota_media": 3.9697,
+"Pct_negativo": 21.2121
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2023T4",
+"Feedbacks": 36,
+"Nota_media": 3.6944,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2024T1",
+"Feedbacks": 28,
+"Nota_media": 3.9643,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2024T2",
+"Feedbacks": 31,
+"Nota_media": 3.9032,
+"Pct_negativo": 12.9032
+},
+{
+"Produto": "Forno elétrico",
+"Trimestre": "2024T3",
+"Feedbacks": 32,
+"Nota_media": 3.7188,
+"Pct_negativo": 18.75
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2021T3",
+"Feedbacks": 6,
+"Nota_media": 3.8333,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2021T4",
+"Feedbacks": 33,
+"Nota_media": 3.5152,
+"Pct_negativo": 24.2424
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2022T1",
+"Feedbacks": 38,
+"Nota_media": 3.8158,
+"Pct_negativo": 18.4211
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2022T2",
+"Feedbacks": 30,
+"Nota_media": 4.0333,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2022T3",
+"Feedbacks": 22,
+"Nota_media": 3.4545,
+"Pct_negativo": 36.3636
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2022T4",
+"Feedbacks": 29,
+"Nota_media": 3.7586,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2023T1",
+"Feedbacks": 26,
+"Nota_media": 3.5769,
+"Pct_negativo": 11.5385
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2023T2",
+"Feedbacks": 24,
+"Nota_media": 4.125,
+"Pct_negativo": 8.3333
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2023T3",
+"Feedbacks": 27,
+"Nota_media": 4.0,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2023T4",
+"Feedbacks": 23,
+"Nota_media": 3.6522,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2024T1",
+"Feedbacks": 22,
+"Nota_media": 4.0909,
+"Pct_negativo": 9.0909
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2024T2",
+"Feedbacks": 32,
+"Nota_media": 4.0,
+"Pct_negativo": 18.75
+},
+{
+"Produto": "Frigobar",
+"Trimestre": "2024T3",
+"Feedbacks": 25,
+"Nota_media": 4.2,
+"Pct_negativo": 8.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2021T4",
+"Feedbacks": 26,
+"Nota_media": 4.2308,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2022T1",
+"Feedbacks": 33,
+"Nota_media": 4.0303,
+"Pct_negativo": 9.0909
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2022T2",
+"Feedbacks": 15,
+"Nota_media": 3.9333,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2022T3",
+"Feedbacks": 32,
+"Nota_media": 4.2812,
+"Pct_negativo": 3.125
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2022T4",
+"Feedbacks": 22,
+"Nota_media": 4.0909,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2023T1",
+"Feedbacks": 21,
+"Nota_media": 4.0476,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2023T2",
+"Feedbacks": 28,
+"Nota_media": 3.8214,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2023T3",
+"Feedbacks": 31,
+"Nota_media": 3.9355,
+"Pct_negativo": 12.9032
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2023T4",
+"Feedbacks": 28,
+"Nota_media": 3.9286,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2024T1",
+"Feedbacks": 32,
+"Nota_media": 4.0,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2024T2",
+"Feedbacks": 33,
+"Nota_media": 3.8485,
+"Pct_negativo": 15.1515
+},
+{
+"Produto": "Fritadeira elétrica",
+"Trimestre": "2024T3",
+"Feedbacks": 22,
+"Nota_media": 3.8182,
+"Pct_negativo": 4.5455
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2021T4",
+"Feedbacks": 40,
+"Nota_media": 4.1,
+"Pct_negativo": 7.5
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2022T1",
+"Feedbacks": 31,
+"Nota_media": 4.129,
+"Pct_negativo": 12.9032
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2022T2",
+"Feedbacks": 25,
+"Nota_media": 3.68,
+"Pct_negativo": 24.0
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2022T3",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2022T4",
+"Feedbacks": 27,
+"Nota_media": 3.7778,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 3.9643,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2023T2",
+"Feedbacks": 28,
+"Nota_media": 4.0,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2023T3",
+"Feedbacks": 25,
+"Nota_media": 3.84,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2023T4",
+"Feedbacks": 21,
+"Nota_media": 4.1429,
+"Pct_negativo": 9.5238
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2024T1",
+"Feedbacks": 22,
+"Nota_media": 3.8182,
+"Pct_negativo": 9.0909
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2024T2",
+"Feedbacks": 27,
+"Nota_media": 3.8519,
+"Pct_negativo": 18.5185
+},
+{
+"Produto": "Geladeira",
+"Trimestre": "2024T3",
+"Feedbacks": 20,
+"Nota_media": 3.75,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2021T3",
+"Feedbacks": 5,
+"Nota_media": 3.8,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2021T4",
+"Feedbacks": 17,
+"Nota_media": 3.9412,
+"Pct_negativo": 17.6471
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2022T1",
+"Feedbacks": 31,
+"Nota_media": 3.9677,
+"Pct_negativo": 19.3548
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2022T2",
+"Feedbacks": 24,
+"Nota_media": 3.9167,
+"Pct_negativo": 4.1667
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2022T3",
+"Feedbacks": 25,
+"Nota_media": 4.0,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2022T4",
+"Feedbacks": 26,
+"Nota_media": 3.8077,
+"Pct_negativo": 19.2308
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2023T1",
+"Feedbacks": 21,
+"Nota_media": 3.7143,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2023T2",
+"Feedbacks": 28,
+"Nota_media": 3.3929,
+"Pct_negativo": 25.0
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2023T3",
+"Feedbacks": 32,
+"Nota_media": 3.8125,
+"Pct_negativo": 21.875
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2023T4",
+"Feedbacks": 27,
+"Nota_media": 3.5556,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2024T1",
+"Feedbacks": 38,
+"Nota_media": 4.1579,
+"Pct_negativo": 13.1579
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2024T2",
+"Feedbacks": 27,
+"Nota_media": 3.8889,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Impressora",
+"Trimestre": "2024T3",
+"Feedbacks": 20,
+"Nota_media": 3.3,
+"Pct_negativo": 30.0
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2021T4",
+"Feedbacks": 30,
+"Nota_media": 3.6,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2022T1",
+"Feedbacks": 30,
+"Nota_media": 4.0333,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2022T2",
+"Feedbacks": 28,
+"Nota_media": 4.2857,
+"Pct_negativo": 3.5714
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2022T3",
+"Feedbacks": 25,
+"Nota_media": 3.72,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2022T4",
+"Feedbacks": 34,
+"Nota_media": 4.1176,
+"Pct_negativo": 8.8235
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2023T1",
+"Feedbacks": 23,
+"Nota_media": 4.0435,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2023T2",
+"Feedbacks": 29,
+"Nota_media": 3.6552,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2023T3",
+"Feedbacks": 26,
+"Nota_media": 4.2692,
+"Pct_negativo": 3.8462
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2023T4",
+"Feedbacks": 32,
+"Nota_media": 4.2188,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2024T1",
+"Feedbacks": 23,
+"Nota_media": 3.913,
+"Pct_negativo": 8.6957
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2024T2",
+"Feedbacks": 40,
+"Nota_media": 3.95,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Liquidificador",
+"Trimestre": "2024T3",
+"Feedbacks": 26,
+"Nota_media": 4.1538,
+"Pct_negativo": 11.5385
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2021T4",
+"Feedbacks": 27,
+"Nota_media": 4.0,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2022T1",
+"Feedbacks": 32,
+"Nota_media": 3.9375,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2022T2",
+"Feedbacks": 30,
+"Nota_media": 4.1,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2022T3",
+"Feedbacks": 32,
+"Nota_media": 3.8438,
+"Pct_negativo": 18.75
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2022T4",
+"Feedbacks": 26,
+"Nota_media": 4.0385,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2023T1",
+"Feedbacks": 22,
+"Nota_media": 3.8636,
+"Pct_negativo": 18.1818
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2023T2",
+"Feedbacks": 28,
+"Nota_media": 4.0,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2023T3",
+"Feedbacks": 29,
+"Nota_media": 3.4138,
+"Pct_negativo": 24.1379
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2023T4",
+"Feedbacks": 27,
+"Nota_media": 4.1852,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2024T1",
+"Feedbacks": 26,
+"Nota_media": 3.8462,
+"Pct_negativo": 19.2308
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2024T2",
+"Feedbacks": 27,
+"Nota_media": 3.8519,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Micro-ondas",
+"Trimestre": "2024T3",
+"Feedbacks": 22,
+"Nota_media": 3.8636,
+"Pct_negativo": 13.6364
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2021T4",
+"Feedbacks": 27,
+"Nota_media": 3.6667,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2022T1",
+"Feedbacks": 38,
+"Nota_media": 3.6316,
+"Pct_negativo": 15.7895
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2022T2",
+"Feedbacks": 27,
+"Nota_media": 3.7778,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2022T3",
+"Feedbacks": 40,
+"Nota_media": 3.8,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2022T4",
+"Feedbacks": 29,
+"Nota_media": 4.0,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 3.6842,
+"Pct_negativo": 21.0526
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2023T2",
+"Feedbacks": 29,
+"Nota_media": 3.931,
+"Pct_negativo": 10.3448
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2023T3",
+"Feedbacks": 19,
+"Nota_media": 3.4211,
+"Pct_negativo": 31.5789
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2023T4",
+"Feedbacks": 20,
+"Nota_media": 4.45,
+"Pct_negativo": 0.0
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2024T1",
+"Feedbacks": 39,
+"Nota_media": 3.641,
+"Pct_negativo": 17.9487
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2024T2",
+"Feedbacks": 34,
+"Nota_media": 4.0588,
+"Pct_negativo": 14.7059
+},
+{
+"Produto": "Máquina de café",
+"Trimestre": "2024T3",
+"Feedbacks": 26,
+"Nota_media": 4.3846,
+"Pct_negativo": 3.8462
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2021T3",
+"Feedbacks": 5,
+"Nota_media": 4.2,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2021T4",
+"Feedbacks": 27,
+"Nota_media": 3.8889,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2022T1",
+"Feedbacks": 33,
+"Nota_media": 4.0303,
+"Pct_negativo": 12.1212
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2022T2",
+"Feedbacks": 19,
+"Nota_media": 3.7895,
+"Pct_negativo": 15.7895
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2022T3",
+"Feedbacks": 34,
+"Nota_media": 3.7059,
+"Pct_negativo": 29.4118
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2022T4",
+"Feedbacks": 24,
+"Nota_media": 4.0833,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 4.1053,
+"Pct_negativo": 5.2632
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2023T2",
+"Feedbacks": 26,
+"Nota_media": 3.8077,
+"Pct_negativo": 11.5385
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2023T3",
+"Feedbacks": 31,
+"Nota_media": 3.7097,
+"Pct_negativo": 19.3548
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2023T4",
+"Feedbacks": 35,
+"Nota_media": 4.0,
+"Pct_negativo": 5.7143
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2024T1",
+"Feedbacks": 29,
+"Nota_media": 3.6897,
+"Pct_negativo": 24.1379
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2024T2",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Trimestre": "2024T3",
+"Feedbacks": 19,
+"Nota_media": 4.3684,
+"Pct_negativo": 5.2632
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2021T4",
+"Feedbacks": 19,
+"Nota_media": 3.1579,
+"Pct_negativo": 31.5789
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2022T1",
+"Feedbacks": 22,
+"Nota_media": 3.6818,
+"Pct_negativo": 22.7273
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2022T2",
+"Feedbacks": 29,
+"Nota_media": 3.8621,
+"Pct_negativo": 13.7931
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2022T3",
+"Feedbacks": 20,
+"Nota_media": 4.0,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2022T4",
+"Feedbacks": 30,
+"Nota_media": 3.6667,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 3.75,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2023T2",
+"Feedbacks": 25,
+"Nota_media": 4.12,
+"Pct_negativo": 8.0
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2023T3",
+"Feedbacks": 25,
+"Nota_media": 3.48,
+"Pct_negativo": 32.0
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2023T4",
+"Feedbacks": 29,
+"Nota_media": 3.931,
+"Pct_negativo": 13.7931
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2024T1",
+"Feedbacks": 27,
+"Nota_media": 3.5926,
+"Pct_negativo": 29.6296
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2024T2",
+"Feedbacks": 31,
+"Nota_media": 3.8065,
+"Pct_negativo": 16.129
+},
+{
+"Produto": "Notebook",
+"Trimestre": "2024T3",
+"Feedbacks": 16,
+"Nota_media": 4.0,
+"Pct_negativo": 18.75
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2021T4",
+"Feedbacks": 21,
+"Nota_media": 3.7619,
+"Pct_negativo": 19.0476
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2022T1",
+"Feedbacks": 24,
+"Nota_media": 4.125,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2022T2",
+"Feedbacks": 24,
+"Nota_media": 3.4583,
+"Pct_negativo": 37.5
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2022T3",
+"Feedbacks": 28,
+"Nota_media": 4.2857,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2022T4",
+"Feedbacks": 31,
+"Nota_media": 3.8387,
+"Pct_negativo": 16.129
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2023T1",
+"Feedbacks": 32,
+"Nota_media": 4.0938,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2023T2",
+"Feedbacks": 24,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2023T3",
+"Feedbacks": 29,
+"Nota_media": 3.8966,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2023T4",
+"Feedbacks": 23,
+"Nota_media": 4.5217,
+"Pct_negativo": 8.6957
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2024T1",
+"Feedbacks": 25,
+"Nota_media": 3.88,
+"Pct_negativo": 4.0
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2024T2",
+"Feedbacks": 26,
+"Nota_media": 3.9615,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Panela elétrica",
+"Trimestre": "2024T3",
+"Feedbacks": 17,
+"Nota_media": 4.4706,
+"Pct_negativo": 5.8824
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2021T4",
+"Feedbacks": 29,
+"Nota_media": 3.8966,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2022T1",
+"Feedbacks": 32,
+"Nota_media": 3.6562,
+"Pct_negativo": 21.875
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2022T2",
+"Feedbacks": 30,
+"Nota_media": 4.1,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2022T3",
+"Feedbacks": 28,
+"Nota_media": 4.0714,
+"Pct_negativo": 10.7143
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2022T4",
+"Feedbacks": 31,
+"Nota_media": 3.5806,
+"Pct_negativo": 25.8065
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2023T1",
+"Feedbacks": 27,
+"Nota_media": 4.2963,
+"Pct_negativo": 7.4074
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2023T2",
+"Feedbacks": 27,
+"Nota_media": 4.1111,
+"Pct_negativo": 7.4074
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2023T3",
+"Feedbacks": 29,
+"Nota_media": 3.6552,
+"Pct_negativo": 20.6897
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2023T4",
+"Feedbacks": 19,
+"Nota_media": 3.4211,
+"Pct_negativo": 31.5789
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2024T1",
+"Feedbacks": 33,
+"Nota_media": 4.2424,
+"Pct_negativo": 15.1515
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2024T2",
+"Feedbacks": 29,
+"Nota_media": 3.4483,
+"Pct_negativo": 27.5862
+},
+{
+"Produto": "Relógio inteligente",
+"Trimestre": "2024T3",
+"Feedbacks": 27,
+"Nota_media": 3.7037,
+"Pct_negativo": 7.4074
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2021T4",
+"Feedbacks": 27,
+"Nota_media": 3.8519,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2022T1",
+"Feedbacks": 28,
+"Nota_media": 3.8214,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2022T2",
+"Feedbacks": 24,
+"Nota_media": 4.1667,
+"Pct_negativo": 8.3333
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2022T3",
+"Feedbacks": 37,
+"Nota_media": 3.8108,
+"Pct_negativo": 16.2162
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2022T4",
+"Feedbacks": 28,
+"Nota_media": 4.0357,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2023T1",
+"Feedbacks": 29,
+"Nota_media": 4.2759,
+"Pct_negativo": 3.4483
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2023T2",
+"Feedbacks": 20,
+"Nota_media": 3.85,
+"Pct_negativo": 15.0
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2023T3",
+"Feedbacks": 34,
+"Nota_media": 3.6765,
+"Pct_negativo": 26.4706
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2023T4",
+"Feedbacks": 35,
+"Nota_media": 3.5714,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2024T1",
+"Feedbacks": 26,
+"Nota_media": 4.1923,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2024T2",
+"Feedbacks": 25,
+"Nota_media": 4.24,
+"Pct_negativo": 12.0
+},
+{
+"Produto": "Secador de cabelo",
+"Trimestre": "2024T3",
+"Feedbacks": 34,
+"Nota_media": 3.8529,
+"Pct_negativo": 23.5294
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2021T4",
+"Feedbacks": 15,
+"Nota_media": 3.6,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2022T1",
+"Feedbacks": 21,
+"Nota_media": 3.4762,
+"Pct_negativo": 23.8095
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2022T2",
+"Feedbacks": 21,
+"Nota_media": 3.9524,
+"Pct_negativo": 9.5238
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2022T3",
+"Feedbacks": 32,
+"Nota_media": 3.75,
+"Pct_negativo": 21.875
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2022T4",
+"Feedbacks": 30,
+"Nota_media": 3.6,
+"Pct_negativo": 26.6667
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2023T1",
+"Feedbacks": 34,
+"Nota_media": 3.9706,
+"Pct_negativo": 11.7647
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2023T2",
+"Feedbacks": 26,
+"Nota_media": 3.8077,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2023T3",
+"Feedbacks": 29,
+"Nota_media": 3.6897,
+"Pct_negativo": 13.7931
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2023T4",
+"Feedbacks": 37,
+"Nota_media": 3.8108,
+"Pct_negativo": 10.8108
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2024T1",
+"Feedbacks": 29,
+"Nota_media": 4.0345,
+"Pct_negativo": 10.3448
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2024T2",
+"Feedbacks": 30,
+"Nota_media": 3.8333,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Smart TV 55\"",
+"Trimestre": "2024T3",
+"Feedbacks": 24,
+"Nota_media": 4.0,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2021T4",
+"Feedbacks": 24,
+"Nota_media": 3.625,
+"Pct_negativo": 25.0
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2022T1",
+"Feedbacks": 30,
+"Nota_media": 3.9,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2022T2",
+"Feedbacks": 23,
+"Nota_media": 3.6522,
+"Pct_negativo": 8.6957
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2022T3",
+"Feedbacks": 32,
+"Nota_media": 3.6562,
+"Pct_negativo": 15.625
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2022T4",
+"Feedbacks": 34,
+"Nota_media": 3.9118,
+"Pct_negativo": 14.7059
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 4.0714,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2023T2",
+"Feedbacks": 31,
+"Nota_media": 3.9032,
+"Pct_negativo": 16.129
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2023T3",
+"Feedbacks": 28,
+"Nota_media": 3.6429,
+"Pct_negativo": 21.4286
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2023T4",
+"Feedbacks": 29,
+"Nota_media": 3.8966,
+"Pct_negativo": 10.3448
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2024T1",
+"Feedbacks": 36,
+"Nota_media": 3.8611,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2024T2",
+"Feedbacks": 38,
+"Nota_media": 3.8421,
+"Pct_negativo": 18.4211
+},
+{
+"Produto": "Smartphone",
+"Trimestre": "2024T3",
+"Feedbacks": 29,
+"Nota_media": 4.3448,
+"Pct_negativo": 10.3448
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2021T4",
+"Feedbacks": 33,
+"Nota_media": 3.9697,
+"Pct_negativo": 12.1212
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2022T1",
+"Feedbacks": 26,
+"Nota_media": 3.8846,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2022T2",
+"Feedbacks": 26,
+"Nota_media": 3.5769,
+"Pct_negativo": 26.9231
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2022T3",
+"Feedbacks": 30,
+"Nota_media": 3.8,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2022T4",
+"Feedbacks": 28,
+"Nota_media": 3.8929,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2023T1",
+"Feedbacks": 26,
+"Nota_media": 3.9231,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2023T2",
+"Feedbacks": 27,
+"Nota_media": 4.2963,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2023T3",
+"Feedbacks": 29,
+"Nota_media": 3.5862,
+"Pct_negativo": 20.6897
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2023T4",
+"Feedbacks": 29,
+"Nota_media": 3.931,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2024T1",
+"Feedbacks": 34,
+"Nota_media": 3.8235,
+"Pct_negativo": 11.7647
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2024T2",
+"Feedbacks": 23,
+"Nota_media": 3.3913,
+"Pct_negativo": 30.4348
+},
+{
+"Produto": "TV Box",
+"Trimestre": "2024T3",
+"Feedbacks": 25,
+"Nota_media": 3.68,
+"Pct_negativo": 28.0
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2021T4",
+"Feedbacks": 24,
+"Nota_media": 4.125,
+"Pct_negativo": 20.8333
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2022T1",
+"Feedbacks": 31,
+"Nota_media": 3.4516,
+"Pct_negativo": 29.0323
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2022T2",
+"Feedbacks": 31,
+"Nota_media": 3.6452,
+"Pct_negativo": 16.129
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2022T3",
+"Feedbacks": 35,
+"Nota_media": 3.7714,
+"Pct_negativo": 22.8571
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2022T4",
+"Feedbacks": 21,
+"Nota_media": 4.0,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2023T1",
+"Feedbacks": 19,
+"Nota_media": 3.8947,
+"Pct_negativo": 21.0526
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2023T2",
+"Feedbacks": 23,
+"Nota_media": 3.5652,
+"Pct_negativo": 26.087
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2023T3",
+"Feedbacks": 26,
+"Nota_media": 4.1538,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2023T4",
+"Feedbacks": 20,
+"Nota_media": 3.6,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2024T1",
+"Feedbacks": 35,
+"Nota_media": 4.1143,
+"Pct_negativo": 11.4286
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2024T2",
+"Feedbacks": 27,
+"Nota_media": 3.8889,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Tablet",
+"Trimestre": "2024T3",
+"Feedbacks": 22,
+"Nota_media": 3.6818,
+"Pct_negativo": 27.2727
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2021T4",
+"Feedbacks": 33,
+"Nota_media": 3.7879,
+"Pct_negativo": 12.1212
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2022T1",
+"Feedbacks": 21,
+"Nota_media": 4.2857,
+"Pct_negativo": 4.7619
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2022T2",
+"Feedbacks": 24,
+"Nota_media": 3.8333,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2022T3",
+"Feedbacks": 24,
+"Nota_media": 3.7917,
+"Pct_negativo": 20.8333
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2022T4",
+"Feedbacks": 27,
+"Nota_media": 3.9259,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2023T1",
+"Feedbacks": 33,
+"Nota_media": 4.0303,
+"Pct_negativo": 6.0606
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2023T2",
+"Feedbacks": 25,
+"Nota_media": 3.88,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2023T3",
+"Feedbacks": 26,
+"Nota_media": 3.9615,
+"Pct_negativo": 7.6923
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2023T4",
+"Feedbacks": 31,
+"Nota_media": 3.8065,
+"Pct_negativo": 19.3548
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2024T1",
+"Feedbacks": 23,
+"Nota_media": 4.0,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2024T2",
+"Feedbacks": 26,
+"Nota_media": 3.8846,
+"Pct_negativo": 11.5385
+},
+{
+"Produto": "Ventilador de coluna",
+"Trimestre": "2024T3",
+"Feedbacks": 27,
+"Nota_media": 3.9259,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2021T3",
+"Feedbacks": 6,
+"Nota_media": 3.5,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2021T4",
+"Feedbacks": 38,
+"Nota_media": 4.0526,
+"Pct_negativo": 13.1579
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2022T1",
+"Feedbacks": 36,
+"Nota_media": 3.7778,
+"Pct_negativo": 19.4444
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2022T2",
+"Feedbacks": 23,
+"Nota_media": 3.7826,
+"Pct_negativo": 17.3913
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2022T3",
+"Feedbacks": 22,
+"Nota_media": 3.5909,
+"Pct_negativo": 22.7273
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2022T4",
+"Feedbacks": 27,
+"Nota_media": 3.5556,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2023T1",
+"Feedbacks": 28,
+"Nota_media": 4.2857,
+"Pct_negativo": 7.1429
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2023T2",
+"Feedbacks": 43,
+"Nota_media": 3.9767,
+"Pct_negativo": 13.9535
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2023T3",
+"Feedbacks": 13,
+"Nota_media": 4.2308,
+"Pct_negativo": 15.3846
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2023T4",
+"Feedbacks": 24,
+"Nota_media": 3.8333,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2024T1",
+"Feedbacks": 32,
+"Nota_media": 4.1562,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2024T2",
+"Feedbacks": 27,
+"Nota_media": 3.8148,
+"Pct_negativo": 14.8148
+},
+{
+"Produto": "Ventilador de mesa",
+"Trimestre": "2024T3",
+"Feedbacks": 25,
+"Nota_media": 3.8,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2021T4",
+"Feedbacks": 32,
+"Nota_media": 4.0,
+"Pct_negativo": 9.375
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2022T1",
+"Feedbacks": 18,
+"Nota_media": 3.9444,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2022T2",
+"Feedbacks": 33,
+"Nota_media": 3.7576,
+"Pct_negativo": 21.2121
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2022T3",
+"Feedbacks": 32,
+"Nota_media": 3.9375,
+"Pct_negativo": 15.625
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2022T4",
+"Feedbacks": 32,
+"Nota_media": 3.9062,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2023T1",
+"Feedbacks": 30,
+"Nota_media": 3.8333,
+"Pct_negativo": 20.0
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2023T2",
+"Feedbacks": 23,
+"Nota_media": 3.6522,
+"Pct_negativo": 26.087
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2023T3",
+"Feedbacks": 31,
+"Nota_media": 3.8065,
+"Pct_negativo": 19.3548
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2023T4",
+"Feedbacks": 18,
+"Nota_media": 4.3889,
+"Pct_negativo": 5.5556
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2024T1",
+"Feedbacks": 19,
+"Nota_media": 3.9474,
+"Pct_negativo": 21.0526
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2024T2",
+"Feedbacks": 22,
+"Nota_media": 3.6364,
+"Pct_negativo": 22.7273
+},
+{
+"Produto": "Ventilador de teto",
+"Trimestre": "2024T3",
+"Feedbacks": 36,
+"Nota_media": 4.1389,
+"Pct_negativo": 13.8889
+}
+]

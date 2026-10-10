@@ -1,0 +1,602 @@
+<style>
+/* Layout: cabeçalho curto com abas, depois painéis de cartões; resumo primeiro, detalhe nas abas. */
+.zp { max-width: 1240px; margin-inline: auto; font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+.zp * { box-sizing: border-box; }
+.zp h1, .zp h2, .zp h3, .zp p { margin: 0; }
+.zp-head { display: flex; flex-direction: column; gap: var(--cds-gap-sm); padding-block: var(--cds-pad-md) var(--cds-pad-sm); }
+.zp-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.15; }
+.zp-take { color: var(--color-fg-muted); font-size: var(--cds-font-size-body); max-width: 70ch; }
+.zp-tabs { display: flex; gap: var(--cds-gap-xs); flex-wrap: wrap; margin-top: var(--cds-gap-sm); border-bottom: 1px solid var(--color-border-line); }
+.zp-tab { appearance: none; background: none; border: 0; border-bottom: 2px solid transparent; padding: var(--cds-pad-sm) var(--cds-pad-md); font: inherit; font-size: var(--cds-font-size-body); color: var(--color-fg-muted); cursor: pointer; margin-bottom: -1px; }
+.zp-tab:hover { color: var(--color-fg); }
+.zp-tab[aria-selected="true"] { color: var(--color-fg); border-bottom-color: var(--color-fg); font-weight: var(--cds-font-weight-medium); }
+.zp-tab:focus-visible, .zp-btn:focus-visible, .zp-sel:focus-visible, .zp-rng:focus-visible, .zp-row:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+.zp-panel { display: flex; flex-direction: column; gap: var(--cds-gap-lg); padding-block: var(--cds-pad-lg); }
+.zp-sec { display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+.zp-sec > h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+.zp-sec > .zp-note { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); max-width: 80ch; }
+.zp-grid { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); }
+.zp-grid-wide { grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr)); }
+.zp-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-sm); min-width: 0; }
+.zp-card > h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+.zp-card > .zp-note { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.zp-kpis { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 12.5rem), 1fr)); }
+.zp-kpi { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-xs); min-width: 0; }
+.zp-kpi-l { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.zp-kpi-v { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.1; font-variant-numeric: tabular-nums; }
+.zp-kpi-d { font-size: var(--cds-font-size-caption); color: var(--color-fg); }
+.zp-kpi-s { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: auto; padding-top: var(--cds-pad-xs); }
+.zp-chip { display: inline-block; font-size: var(--cds-font-size-caption); padding: 1px 8px; border: 1px solid var(--color-border-line); border-radius: 999px; color: var(--color-fg-muted); }
+.zp-chip-hip { color: var(--color-warn); border-color: var(--color-warn); }
+.zp-chips { display: flex; gap: var(--cds-gap-xs); flex-wrap: wrap; }
+.zp-find { display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+.zp-find > h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+.zp-find > p { font-size: var(--cds-font-size-body); line-height: 1.5; }
+.zp-btn { appearance: none; font: inherit; font-size: var(--cds-font-size-caption); background: none; color: var(--color-fg); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: 4px 12px; cursor: pointer; align-self: flex-start; }
+.zp-btn:hover { background: var(--color-panel); border-color: var(--color-fg-muted); }
+.zp-tblbox { overflow-x: auto; }
+.zp-tbl { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.zp-tbl th, .zp-tbl td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+.zp-tbl th { color: var(--color-fg-muted); font-weight: var(--cds-font-weight-medium); white-space: nowrap; }
+.zp-tbl td.n, .zp-tbl th.n { text-align: right; }
+.zp-pill { display: inline-block; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--color-border-line); font-size: var(--cds-font-size-caption); white-space: nowrap; }
+.zp-pill-max { color: var(--color-bad); border-color: var(--color-bad); }
+.zp-pill-alta { color: var(--color-warn); border-color: var(--color-warn); }
+.zp-filters { display: flex; gap: var(--cds-gap-md); flex-wrap: wrap; align-items: flex-end; }
+.zp-field { display: flex; flex-direction: column; gap: var(--cds-gap-xs); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.zp-sel { font: inherit; font-size: var(--cds-font-size-body); color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: 6px 10px; min-width: min(100%, 16rem); }
+.zp-seg { display: inline-flex; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); overflow: hidden; }
+.zp-seg button { appearance: none; font: inherit; font-size: var(--cds-font-size-caption); background: none; color: var(--color-fg-muted); border: 0; padding: 6px 12px; cursor: pointer; }
+.zp-seg button[aria-pressed="true"] { background: var(--color-panel); color: var(--color-fg); font-weight: var(--cds-font-weight-medium); box-shadow: inset 0 -2px 0 var(--color-fg); }
+.zp-chart { position: relative; min-height: 8rem; width: 100%; }
+.zp-chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.zp-chart text { fill: var(--color-fg); font-family: var(--font-anthropic-sans); }
+.zp-chart .m { fill: var(--color-fg-muted); }
+.zp-row { cursor: pointer; }
+.zp-tip { position: absolute; z-index: 5; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); max-width: 16rem; }
+.zp-tip-h { color: var(--cds-text-secondary); }
+.zp-legend { display: flex; gap: var(--cds-gap-md); flex-wrap: wrap; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.zp-legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+.zp-sliders { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); }
+.zp-slide { display: flex; flex-direction: column; gap: var(--cds-gap-xs); font-size: var(--cds-font-size-caption); }
+.zp-slide-top { display: flex; justify-content: space-between; gap: var(--cds-gap-sm); }
+.zp-slide-top b { font-weight: var(--cds-font-weight-medium); font-variant-numeric: tabular-nums; }
+.zp-rng { width: 100%; accent-color: var(--color-fg); }
+.zp-lead { font-size: var(--cds-font-size-body); }
+.zp-lead strong { font-weight: var(--cds-font-weight-medium); }
+.zp-det { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.zp-det summary { cursor: pointer; color: var(--color-fg); }
+.zp-det ul { margin: var(--cds-gap-xs) 0 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 4px; }
+.zp-swot { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+.zp-swot ul, .zp-list { margin: 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 6px; font-size: var(--cds-font-size-caption); }
+.zp-src { color: var(--color-fg-muted); }
+.zp-foot { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); padding-block: var(--cds-pad-md); border-top: 1px solid var(--color-border-line); }
+.zp-foot a { color: inherit; }
+.zp-cen { display: flex; flex-direction: column; gap: 6px; font-size: var(--cds-font-size-caption); }
+.zp-cen dt { color: var(--color-fg-muted); }
+.zp-cen dd { margin: 0 0 4px; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+
+<div class="zp">
+  <header class="zp-head">
+    <h1 class="zp-title">Painel Zoop Megastore</h1>
+    <p class="zp-take">O que os dados mostram, o que ainda é hipótese e o que decidir primeiro, reunindo as análises dos módulos do curso.</p>
+    <nav class="zp-tabs" role="tablist" aria-label="Seções do painel">
+      <button class="zp-tab" role="tab" id="tab-resumo" aria-controls="aba-resumo" aria-selected="true" type="button">Resumo executivo</button>
+      <button class="zp-tab" role="tab" id="tab-sentimento" aria-controls="aba-sentimento" aria-selected="false" type="button">Clientes e sentimento</button>
+      <button class="zp-tab" role="tab" id="tab-decisao" aria-controls="aba-decisao" aria-selected="false" type="button">Decisão sem dados</button>
+    </nav>
+  </header>
+
+  <!-- ============ RESUMO ============ -->
+  <section class="zp-panel" id="aba-resumo" role="tabpanel" aria-labelledby="tab-resumo">
+    <div class="zp-sec">
+      <h2>Indicadores principais</h2>
+      <p class="zp-note">Cada indicador diz de qual módulo vem. Clique nos que têm detalhe para abrir a aba correspondente.</p>
+      <div class="zp-kpis" id="kpis" data-source="resumo"></div>
+    </div>
+    <div class="zp-sec">
+      <h2>O que descobrimos</h2>
+      <p class="zp-note">As evidências marcadas como hipótese ou julgamento dependem de suposições descritas nos documentos do projeto.</p>
+      <div class="zp-grid zp-grid-wide" id="finds" data-source="resumo"></div>
+    </div>
+    <div class="zp-sec">
+      <h2>Recomendações por prioridade (Matriz GUT)</h2>
+      <p class="zp-note">Gravidade × urgência × tendência, cada uma de 1 a 5. A recomendação de dados de cliente vem primeiro porque habilita as demais.</p>
+      <div class="zp-card">
+        <div class="zp-tblbox"><table class="zp-tbl" id="tbl-rec" data-source="recomendacoes" data-row-key="ID">
+          <thead><tr>
+            <th data-field="ID">ID</th><th data-field="Segmento">Grupo</th><th data-field="Recomendacao">Recomendação</th>
+            <th class="n" data-field="GUT">GUT</th><th data-field="Prioridade">Prioridade</th><th data-field="Evidencia">Evidência</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table></div>
+        <button class="zp-btn" id="btn-rec" type="button">Mostrar todas</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CLIENTES E SENTIMENTO ============ -->
+  <section class="zp-panel" id="aba-sentimento" role="tabpanel" aria-labelledby="tab-sentimento" hidden>
+    <div class="zp-sec">
+      <h2>Como os clientes avaliam cada produto</h2>
+      <p class="zp-note">Escolha um produto, ou clique em uma linha do ranking. As diferenças entre os demais produtos são compatíveis com o acaso: observe os intervalos de confiança antes de comparar notas.</p>
+      <div class="zp-filters">
+        <label class="zp-field">Produto
+          <select class="zp-sel" id="sel-produto" data-source="produtos"></select>
+        </label>
+      </div>
+      <div class="zp-kpis" id="kpis-prod"></div>
+    </div>
+    <div class="zp-grid zp-grid-wide">
+      <div class="zp-card">
+        <h3>Ranking de notas médias</h3>
+        <p class="zp-note">Ponto: nota média; linha: intervalo de confiança de 95%. Em vermelho, o único produto estatisticamente diferente dos demais.</p>
+        <div class="zp-chart" id="ch-rank" data-source="produtos" style="min-height: 34rem"></div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:var(--cds-gap-md);min-width:0">
+        <div class="zp-card">
+          <h3>Sentimento dos comentários</h3>
+          <p class="zp-note">Parcela de comentários positivos, neutros e negativos, comparada com todos os produtos.</p>
+          <div class="zp-chart" id="ch-sent" data-source="produtos" style="min-height: 8rem"></div>
+          <div class="zp-legend"><span><i style="background:var(--cds-chart-status-critical)"></i>Negativo</span><span><i style="background:var(--cds-chart-muted)"></i>Neutro</span><span><i id="lg-pos"></i>Positivo</span></div>
+        </div>
+        <div class="zp-card">
+          <h3>Nota média por trimestre</h3>
+          <p class="zp-note">Trimestres com poucos feedbacks são omitidos. A linha tracejada é a média de todos os produtos.</p>
+          <div class="zp-chart" id="ch-trend" data-source="trimestres" style="min-height: 14rem"></div>
+        </div>
+      </div>
+    </div>
+    <div class="zp-grid zp-grid-wide">
+      <div class="zp-card">
+        <h3>Temas dos comentários</h3>
+        <p class="zp-note">Fora a Batedeira, os comentários são padronizados e os temas são genéricos.</p>
+        <div class="zp-seg" role="group" aria-label="Tipo de comentário"><button type="button" id="sg-neg" aria-pressed="true">Negativos</button><button type="button" id="sg-pos" aria-pressed="false">Positivos</button></div>
+        <div class="zp-chart" id="ch-temas" data-source="temas" style="min-height: 12rem"></div>
+      </div>
+      <div class="zp-card">
+        <h3>Nota por plataforma</h3>
+        <p class="zp-note">Ponto: nota média; a linha tracejada é a média de todos os produtos. As diferenças entre plataformas não são significativas.</p>
+        <div class="zp-chart" id="ch-plat" data-source="plataformas" style="min-height: 10rem"></div>
+      </div>
+    </div>
+    <div class="zp-card">
+      <h3>Variação recente da nota</h3>
+      <p class="zp-note">Nota de abril a setembro de 2024 menos a de janeiro de 2023 a março de 2024. Nenhuma variação é significativa depois da correção para múltiplos testes: é uma lista de observação.</p>
+      <div class="zp-chart" id="ch-var" data-source="produtos" style="min-height: 28rem"></div>
+    </div>
+  </section>
+
+  <!-- ============ DECISÃO ============ -->
+  <section class="zp-panel" id="aba-decisao" role="tabpanel" aria-labelledby="tab-decisao" hidden>
+    <div class="zp-sec">
+      <h2>Qual cenário escolher? Mude os pesos e veja o resultado</h2>
+      <p class="zp-note">Os pesos iniciais são os definidos pelo diretor. As notas de 1 a 10 são julgamento proposto, e no critério de risco nota alta significa risco baixo. Os pesos são normalizados para somar cem por cento.</p>
+    </div>
+    <div class="zp-grid zp-grid-wide">
+      <div class="zp-card">
+        <h3>Pesos dos critérios</h3>
+        <div class="zp-sliders" id="sliders"></div>
+        <button class="zp-btn" id="btn-pesos" type="button">Voltar aos pesos do diretor</button>
+      </div>
+      <div class="zp-card">
+        <h3>Pontuação dos cenários</h3>
+        <p class="zp-lead" id="lead"></p>
+        <div class="zp-chart" id="ch-mat" data-source="matriz" style="min-height: 11rem"></div>
+        <div class="zp-legend" id="lg-mat"></div>
+      </div>
+    </div>
+    <div class="zp-grid zp-grid-wide">
+      <div class="zp-card">
+        <h3>Notas por critério</h3>
+        <p class="zp-note">Abra cada cenário para ver a justificativa de cada nota.</p>
+        <div class="zp-tblbox"><table class="zp-tbl" id="tbl-notas"><thead></thead><tbody></tbody></table></div>
+        <div id="just"></div>
+      </div>
+      <div class="zp-card">
+        <h3>A escolha resiste a outros pesos?</h3>
+        <p class="zp-note">Pontuação dos cenários em vários perfis de pesos. O melhor de cada linha está em destaque: a vantagem do Cenário 2 é pequena e muda com pesos avessos a risco.</p>
+        <div class="zp-tblbox"><table class="zp-tbl" id="tbl-sens" data-source="sensibilidade" data-row-key="Perfil">
+          <thead><tr>
+            <th data-field="Perfil">Perfil de pesos</th><th class="n" data-field="Peso_impacto">Impacto</th><th class="n" data-field="Peso_risco">Risco</th><th class="n" data-field="Peso_viabilidade">Viabilidade</th><th class="n" data-field="Peso_urgencia">Urgência</th>
+            <th class="n" data-field="Cenario_1">Cenário 1</th><th class="n" data-field="Cenario_2">Cenário 2</th><th class="n" data-field="Cenario_3">Cenário 3</th><th data-field="Vencedor">Melhor</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table></div>
+        <h3 style="margin-top:var(--cds-gap-sm)">Chance de ser o melhor</h3>
+        <p class="zp-note">Simulação com pesos e notas variando ao mesmo tempo, para cima e para baixo.</p>
+        <div class="zp-chart" id="ch-sim" data-source="cenarios" style="min-height: 7rem"></div>
+      </div>
+    </div>
+    <div class="zp-sec">
+      <h2>Os três cenários</h2>
+      <div class="zp-grid" id="cenarios" data-source="cenarios"></div>
+    </div>
+    <div class="zp-sec">
+      <h2>SWOT da decisão</h2>
+      <p class="zp-note">Hipótese de trabalho, a corrigir pelo diretor e pela equipe. Cada item mostra se vem do material do caso, dos dados do projeto ou de suposição.</p>
+      <div class="zp-swot" id="swot" data-source="swot"></div>
+    </div>
+  </section>
+
+  <footer class="zp-foot">
+    Os números têm a fonte visível no painel de fontes. Hipóteses e limites estão marcados. Documentos completos no <a href="https://github.com/lucaspadilha01/matriz-decisao-zoop" target="_blank" rel="noopener">repositório do projeto</a>.
+  </footer>
+</div>
+
+<script>
+(() => {
+  const TODOS = 'Todos os produtos';
+  const ABAS = ['resumo', 'sentimento', 'decisao'];
+  const NF = (d) => new Intl.NumberFormat('pt-BR', { minimumFractionDigits: d, maximumFractionDigits: d });
+  const f0 = NF(0), f1 = NF(1), f2 = NF(2);
+  const fmt = { int: (v) => f0.format(v), dec1: (v) => f1.format(v), dec2: (v) => f2.format(v), pct1: (v) => f1.format(v) + '%', brl_mi: (v) => 'R$ ' + f2.format(v) + ' mi' };
+  const enc = (s) => String(s).replace(/[&=%]/g, (c) => '%' + c.charCodeAt(0).toString(16).toUpperCase());
+  const rowsOf = (id) => { const d = dash.data(id); return d.status === 'ok' ? d.data : []; };
+  const ready = (ids) => ids.every((id) => dash.data(id).status === 'ok');
+  const $ = (s, root = document) => root.querySelector(s);
+  const mk = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const mark = (e, source, field, where) => {
+    e.setAttribute('data-source', source);
+    if (field) e.setAttribute('data-field', field);
+    if (where) e.setAttribute('data-where', Object.entries(where).map(([k, v]) => k + '=' + enc(v)).join('&'));
+    return e;
+  };
+  const clearBox = (box, on) => { box.replaceChildren(); box.classList.toggle('dash-skeleton', !!on); };
+  const go = (aba) => { dash.setParams({ aba }); dash.setLink('aba-' + aba); };
+  const sgn = (v) => (v > 0 ? '+' : v < 0 ? '−' : '') + f2.format(Math.abs(v));
+  const cssPos = () => dash.colors[0];
+  const CRIT = 'var(--cds-chart-status-critical)', MUTED = 'var(--cds-chart-muted)';
+
+  /* ---------- dicas (tooltip) ---------- */
+  const tipFor = (box) => { let t = box.querySelector(':scope > .zp-tip'); if (!t) { t = mk('div', 'zp-tip'); t.hidden = true; box.appendChild(t); } return t; };
+  const showTip = (box, evt, lines) => {
+    const t = tipFor(box); t.replaceChildren();
+    lines.forEach((l, i) => { const p = mk('div', i === 0 ? 'zp-tip-h' : '', l); t.appendChild(p); });
+    t.hidden = false;
+    const b = box.getBoundingClientRect(); let x = evt.clientX - b.left + 12; const y = evt.clientY - b.top + 12;
+    if (x + t.offsetWidth > b.width) x = Math.max(0, evt.clientX - b.left - t.offsetWidth - 12);
+    t.style.left = x + 'px'; t.style.top = y + 'px';
+  };
+  const hideTip = (box) => { const t = box.querySelector(':scope > .zp-tip'); if (t) t.hidden = true; };
+  const axisStyle = (g) => {
+    g.attr('font-size', null).attr('font-family', null);
+    g.selectAll('text').attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)');
+    g.selectAll('line,path').attr('stroke', 'var(--cds-chart-axis)');
+  };
+
+  /* ---------- abas ---------- */
+  ABAS.forEach((a) => $('#tab-' + a).addEventListener('click', () => go(a)));
+  let hashRead = false;
+
+  /* ---------- RESUMO ---------- */
+  let showAll = false;
+  $('#btn-rec').addEventListener('click', () => { showAll = !showAll; render(); });
+
+  const drawKpis = () => {
+    const box = $('#kpis'); const data = rowsOf('resumo').filter((r) => r.tipo === 'kpi');
+    box.replaceChildren();
+    data.forEach((r) => {
+      const c = mk('article', 'zp-kpi');
+      c.appendChild(mark(mk('p', 'zp-kpi-l', r.rotulo), 'resumo', 'rotulo', { id: r.id }));
+      c.appendChild(mark(mk('p', 'zp-kpi-v', fmt[r.formato](r.valor)), 'resumo', 'valor', { id: r.id }));
+      c.appendChild(mark(mk('p', 'zp-kpi-d', r.detalhe), 'resumo', 'detalhe', { id: r.id }));
+      c.appendChild(mk('p', 'zp-kpi-s', r.modulo + ' · ' + r.origem));
+      if (r.aba) { const b = mk('button', 'zp-btn', 'Ver detalhe'); b.type = 'button'; b.addEventListener('click', () => go(r.aba)); c.appendChild(b); }
+      box.appendChild(c);
+    });
+  };
+  const drawFinds = () => {
+    const box = $('#finds'); const data = rowsOf('resumo').filter((r) => r.tipo === 'descoberta');
+    box.replaceChildren();
+    data.forEach((r) => {
+      const c = mk('article', 'zp-card zp-find');
+      const chips = mk('div', 'zp-chips');
+      chips.appendChild(mk('span', 'zp-chip', r.modulo));
+      chips.appendChild(mk('span', 'zp-chip' + (/Hip|Julg/.test(r.evidencia) ? ' zp-chip-hip' : ''), 'Evidência: ' + r.evidencia.toLowerCase()));
+      c.appendChild(chips);
+      c.appendChild(mark(mk('h3', '', r.rotulo), 'resumo', 'rotulo', { id: r.id }));
+      c.appendChild(mark(mk('p', '', r.detalhe), 'resumo', 'detalhe', { id: r.id }));
+      if (r.aba) { const b = mk('button', 'zp-btn', 'Ver detalhe'); b.type = 'button'; b.addEventListener('click', () => go(r.aba)); c.appendChild(b); }
+      box.appendChild(c);
+    });
+  };
+  const drawRec = () => {
+    const tb = $('#tbl-rec tbody'); tb.replaceChildren();
+    const all = rowsOf('recomendacoes').slice().sort((a, b) => b.GUT - a.GUT || b.Urgencia - a.Urgencia);
+    const list = showAll ? all : all.slice(0, 5);
+    list.forEach((r) => {
+      const tr = mk('tr'); tr.setAttribute('data-key', r.ID);
+      tr.appendChild(mk('td', '', r.ID));
+      tr.appendChild(mk('td', '', r.Segmento));
+      tr.appendChild(mk('td', '', r.Recomendacao));
+      tr.appendChild(mk('td', 'n', String(r.GUT)));
+      const tp = mk('td'); tp.appendChild(mk('span', 'zp-pill ' + (r.Prioridade === 'Máxima' ? 'zp-pill-max' : r.Prioridade === 'Alta' ? 'zp-pill-alta' : ''), r.Prioridade)); tr.appendChild(tp);
+      tr.appendChild(mk('td', '', r.Evidencia));
+      tb.appendChild(tr);
+    });
+    $('#btn-rec').textContent = showAll ? 'Mostrar só as principais' : 'Mostrar todas';
+  };
+  const drawResumo = () => {
+    if (!ready(['resumo', 'recomendacoes'])) return;
+    $('#kpis').classList.remove('dash-skeleton');
+    drawKpis(); drawFinds(); drawRec();
+  };
+
+  /* ---------- SENTIMENTO ---------- */
+  const selProduto = () => { const p = dash.params().produto; return p && rowsOf('produtos').some((r) => r.Produto === p) ? p : TODOS; };
+  const drawSelect = () => {
+    const sel = $('#sel-produto'); const names = rowsOf('produtos').map((r) => r.Produto).filter((n) => n !== TODOS).sort((a, b) => a.localeCompare(b, 'pt-BR'));
+    sel.replaceChildren(new Option(TODOS, TODOS), ...names.map((n) => new Option(n, n)));
+    sel.value = selProduto();
+  };
+  $('#sel-produto').addEventListener('change', (e) => dash.setParams({ produto: e.target.value }));
+
+  const drawProdKpis = () => {
+    const box = $('#kpis-prod'); const name = selProduto(); const r = rowsOf('produtos').find((x) => x.Produto === name); box.replaceChildren();
+    if (!r) return;
+    const W = { Produto: name };
+    const card = (label, valueEl, extra) => { const c = mk('article', 'zp-kpi'); c.appendChild(mk('p', 'zp-kpi-l', label)); c.appendChild(valueEl); if (extra) c.appendChild(extra); box.appendChild(c); };
+    card('Feedbacks', mark(mk('p', 'zp-kpi-v', fmt.int(r.Feedbacks)), 'produtos', 'Feedbacks', W));
+    const ic = mk('p', 'zp-kpi-d'); ic.appendChild(document.createTextNode('Intervalo de 95%: '));
+    ic.appendChild(mark(mk('span', '', f2.format(r.IC95_inf)), 'produtos', 'IC95_inf', W)); ic.appendChild(document.createTextNode(' a ')); ic.appendChild(mark(mk('span', '', f2.format(r.IC95_sup)), 'produtos', 'IC95_sup', W));
+    card('Nota média', mark(mk('p', 'zp-kpi-v', fmt.dec2(r.Nota_media)), 'produtos', 'Nota_media', W), ic);
+    card('Notas 1 e 2', mark(mk('p', 'zp-kpi-v', fmt.pct1(r.Pct_nota_1_2)), 'produtos', 'Pct_nota_1_2', W));
+    card('Comentários negativos', mark(mk('p', 'zp-kpi-v', fmt.pct1(r.Pct_negativo)), 'produtos', 'Pct_negativo', W));
+    card('Posição na nota', mark(mk('p', 'zp-kpi-v', r.Posicao_nota == null ? '—' : r.Posicao_nota + 'º'), 'produtos', 'Posicao_nota', W));
+    const vd = mk('p', 'zp-kpi-d'); vd.appendChild(document.createTextNode('Nota recente: ')); vd.appendChild(mark(mk('span', '', fmt.dec2(r.Nota_recente)), 'produtos', 'Nota_recente', W));
+    card('Variação recente', mark(mk('p', 'zp-kpi-v', sgn(r.Variacao_nota)), 'produtos', 'Variacao_nota', W), vd);
+  };
+
+  const drawRanking = () => {
+    const box = $('#ch-rank'); const all = rowsOf('produtos'); const P = all.filter((r) => r.Produto !== TODOS).sort((a, b) => b.Nota_media - a.Nota_media); const T = all.find((r) => r.Produto === TODOS);
+    clearBox(box); if (!P.length) return;
+    const sel = selProduto(); const w = Math.max(box.clientWidth, 280); const rh = 20, mt = 22, mb = 28, right = 14, left = Math.round(Math.min(150, w * 0.42)); const h = mt + P.length * rh + mb;
+    const x = d3.scaleLinear([d3.min(P, (d) => d.IC95_inf) - 0.05, d3.max(P, (d) => d.IC95_sup) + 0.05], [left, w - right]);
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    svg.append('g').attr('transform', `translate(0,${h - mb + 6})`).call(d3.axisBottom(x).ticks(5).tickSize(-(h - mb - mt + 6)).tickFormat((v) => f1.format(v))).call(axisStyle).call((g) => g.selectAll('line').attr('stroke', 'var(--cds-chart-grid)')).call((g) => g.select('.domain').remove());
+    if (T) {
+      svg.append('line').attr('x1', x(T.Nota_media)).attr('x2', x(T.Nota_media)).attr('y1', mt - 8).attr('y2', h - mb + 6).attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+      svg.append('text').attr('x', x(T.Nota_media)).attr('y', mt - 12).attr('text-anchor', 'middle').attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text('média geral ' + f2.format(T.Nota_media));
+    }
+    P.forEach((d, i) => {
+      const y = mt + i * rh + rh / 2; const isSel = d.Produto === sel; const hot = d.Destaque === 'Sim';
+      const g = svg.append('g').attr('class', 'zp-row').attr('tabindex', 0).attr('role', 'button').attr('aria-label', d.Produto + ', nota ' + f2.format(d.Nota_media));
+      g.append('rect').attr('x', 0).attr('y', y - rh / 2).attr('width', w).attr('height', rh).attr('fill', isSel ? 'var(--color-border-line)' : 'transparent').attr('opacity', isSel ? 0.5 : 1);
+      g.append('text').attr('x', left - 8).attr('y', y + 4).attr('text-anchor', 'end').style('font-size', 'var(--cds-font-size-caption)').style('font-weight', isSel || hot ? 'var(--cds-font-weight-medium)' : 400).text(d.Produto);
+      g.append('line').attr('x1', x(d.IC95_inf)).attr('x2', x(d.IC95_sup)).attr('y1', y).attr('y2', y).attr('stroke', hot ? CRIT : 'var(--cds-chart-axis)').attr('stroke-width', 2).attr('stroke-linecap', 'round');
+      g.append('circle').attr('cx', x(d.Nota_media)).attr('cy', y).attr('r', isSel ? 6 : 4.5).attr('fill', hot ? CRIT : cssPos()).attr('stroke', isSel ? 'var(--color-fg)' : 'none').attr('stroke-width', 2);
+      const pick = () => dash.setParams({ produto: d.Produto });
+      g.on('click', pick).on('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(); } })
+        .on('mousemove', (e) => showTip(box, e, [d.Produto, 'Nota ' + f2.format(d.Nota_media) + ' (' + f2.format(d.IC95_inf) + ' a ' + f2.format(d.IC95_sup) + ')', f0.format(d.Feedbacks) + ' feedbacks'])).on('mouseleave', () => hideTip(box));
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawSent = () => {
+    const box = $('#ch-sent'); const all = rowsOf('produtos'); const sel = selProduto(); const A = all.find((r) => r.Produto === sel); const T = all.find((r) => r.Produto === TODOS);
+    clearBox(box); if (!A) return; $('#lg-pos').style.background = cssPos();
+    const list = sel === TODOS ? [A] : [A, T]; const w = Math.max(box.clientWidth, 260); const rh = 30, gap = 22, mt = 4; const h = mt + list.length * (rh + gap);
+    const left = 0; const x = d3.scaleLinear([0, 100], [left, w]);
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    list.forEach((r, i) => {
+      const y = mt + i * (rh + gap) + 14; let acc = 0;
+      svg.append('text').attr('x', 0).attr('y', y - 4).style('font-size', 'var(--cds-font-size-caption)').attr('class', 'm').text(r.Produto);
+      [['Pct_positivo', cssPos(), 'var(--color-bg)'], ['Pct_neutro', MUTED, 'var(--color-fg)'], ['Pct_negativo', CRIT, 'var(--color-bg)']].forEach(([k, col, tc]) => {
+        const v = r[k]; const seg = svg.append('g');
+        seg.append('rect').attr('x', x(acc)).attr('y', y).attr('width', Math.max(0, x(acc + v) - x(acc) - 1)).attr('height', rh).attr('fill', col).attr('rx', 3);
+        if (x(acc + v) - x(acc) > 40) seg.append('text').attr('x', (x(acc) + x(acc + v)) / 2).attr('y', y + rh / 2 + 4).attr('text-anchor', 'middle').attr('fill', tc).style('font-size', 'var(--cds-font-size-caption)').text(f1.format(v) + '%');
+        acc += v;
+      });
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawTrend = () => {
+    const box = $('#ch-trend'); const sel = selProduto(); const rows = rowsOf('trimestres'); clearBox(box);
+    const A = rows.filter((r) => r.Produto === sel).sort((a, b) => a.Trimestre.localeCompare(b.Trimestre)); const B = sel === TODOS ? [] : rows.filter((r) => r.Produto === TODOS).sort((a, b) => a.Trimestre.localeCompare(b.Trimestre));
+    if (!A.length) return;
+    const qs = Array.from(new Set(A.concat(B).map((r) => r.Trimestre))).sort(); const w = Math.max(box.clientWidth, 260); const h = 220; const ml = 36, mr = 40, mt = 16, mb = 30;
+    const vals = A.concat(B).map((r) => r.Nota_media); const x = d3.scalePoint(qs, [ml, w - mr]).padding(0.3); const y = d3.scaleLinear([Math.floor((d3.min(vals) - 0.1) * 10) / 10, Math.ceil((d3.max(vals) + 0.1) * 10) / 10], [h - mb, mt]);
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    svg.append('g').attr('transform', `translate(${ml},0)`).call(d3.axisLeft(y).ticks(4).tickSize(-(w - ml - mr)).tickFormat((v) => f1.format(v))).call(axisStyle).call((g) => g.selectAll('line').attr('stroke', 'var(--cds-chart-grid)')).call((g) => g.select('.domain').remove());
+    const step = Math.ceil(qs.length / Math.max(2, Math.floor((w - ml - mr) / 52)));
+    svg.append('g').attr('transform', `translate(0,${h - mb})`).call(d3.axisBottom(x).tickValues(qs.filter((_, i) => i % step === 0)).tickSize(4)).call(axisStyle);
+    const line = d3.line().x((d) => x(d.Trimestre)).y((d) => y(d.Nota_media));
+    if (B.length) svg.append('path').attr('d', line(B)).attr('fill', 'none').attr('stroke', 'var(--cds-chart-reference)').attr('stroke-width', 2).attr('stroke-dasharray', '5 4').attr('stroke-linejoin', 'round');
+    svg.append('path').attr('d', line(A)).attr('fill', 'none').attr('stroke', sel === 'Batedeira' ? CRIT : cssPos()).attr('stroke-width', 2).attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
+    A.forEach((d) => svg.append('circle').attr('cx', x(d.Trimestre)).attr('cy', y(d.Nota_media)).attr('r', 3.5).attr('fill', sel === 'Batedeira' ? CRIT : cssPos())
+      .on('mousemove', (e) => showTip(box, e, [d.Produto + ' · ' + d.Trimestre, 'Nota ' + f2.format(d.Nota_media), f0.format(d.Feedbacks) + ' feedbacks', f1.format(d.Pct_negativo) + '% negativos'])).on('mouseleave', () => hideTip(box)));
+    const last = A[A.length - 1]; svg.append('text').attr('x', x(last.Trimestre) + 8).attr('y', y(last.Nota_media) + 4).style('font-size', 'var(--cds-font-size-caption)').text(f2.format(last.Nota_media));
+    box.appendChild(svg.node());
+  };
+
+  let sentTipo = 'Negativo';
+  $('#sg-neg').addEventListener('click', () => dash.setParams({ sent: 'Negativo' }));
+  $('#sg-pos').addEventListener('click', () => dash.setParams({ sent: 'Positivo' }));
+  const drawTemas = () => {
+    const box = $('#ch-temas'); const sel = selProduto(); const tipo = dash.params().sent === 'Positivo' ? 'Positivo' : 'Negativo'; clearBox(box);
+    $('#sg-neg').setAttribute('aria-pressed', String(tipo === 'Negativo')); $('#sg-pos').setAttribute('aria-pressed', String(tipo === 'Positivo'));
+    const R = rowsOf('temas').filter((r) => r.Produto === sel && r.Sentimento === tipo).sort((a, b) => b.Pct_do_sentimento - a.Pct_do_sentimento).slice(0, 7);
+    if (!R.length) { box.appendChild(mk('p', 'zp-note', 'Nenhum tema identificado para esta seleção.')); return; }
+    const w = Math.max(box.clientWidth, 260); const rh = 28, mt = 4; const left = Math.round(Math.min(170, w * 0.45)), right = 78; const h = mt + R.length * rh + 4;
+    const x = d3.scaleLinear([0, d3.max(R, (d) => d.Pct_do_sentimento)], [left, w - right]);
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    R.forEach((d, i) => {
+      const y = mt + i * rh + 4; const bw = Math.max(2, x(d.Pct_do_sentimento) - left);
+      svg.append('text').attr('x', left - 8).attr('y', y + 13).attr('text-anchor', 'end').style('font-size', 'var(--cds-font-size-caption)').text(d.Tema);
+      svg.append('rect').attr('x', left).attr('y', y).attr('width', bw).attr('height', 18).attr('rx', 4).attr('fill', tipo === 'Negativo' ? CRIT : cssPos())
+        .on('mousemove', (e) => showTip(box, e, [d.Tema, f0.format(d.Comentarios) + ' comentários', f1.format(d.Pct_do_sentimento) + '% dos ' + tipo.toLowerCase() + 's']))
+        .on('mouseleave', () => hideTip(box));
+      svg.append('text').attr('x', left + bw + 6).attr('y', y + 13).attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text(f1.format(d.Pct_do_sentimento) + '%');
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawPlat = () => {
+    const box = $('#ch-plat'); const sel = selProduto(); const rows = rowsOf('plataformas'); clearBox(box);
+    const A = rows.filter((r) => r.Produto === sel).sort((a, b) => b.Nota_media - a.Nota_media); const B = rows.filter((r) => r.Produto === TODOS);
+    const prod = rowsOf('produtos').find((r) => r.Produto === TODOS); if (!A.length) return;
+    const w = Math.max(box.clientWidth, 260); const rh = 32, mt = 20, mb = 26; const left = Math.round(Math.min(110, w * 0.3)), right = 20; const h = mt + A.length * rh + mb;
+    const x = d3.scaleLinear([3, 4.5], [left, w - right]); const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    svg.append('g').attr('transform', `translate(0,${h - mb + 4})`).call(d3.axisBottom(x).ticks(4).tickSize(-(h - mb - mt + 4)).tickFormat((v) => f1.format(v))).call(axisStyle).call((g) => g.selectAll('line').attr('stroke', 'var(--cds-chart-grid)')).call((g) => g.select('.domain').remove());
+    if (prod) svg.append('line').attr('x1', x(prod.Nota_media)).attr('x2', x(prod.Nota_media)).attr('y1', mt - 6).attr('y2', h - mb + 4).attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+    A.forEach((d, i) => {
+      const y = mt + i * rh + rh / 2;
+      svg.append('text').attr('x', left - 8).attr('y', y + 4).attr('text-anchor', 'end').style('font-size', 'var(--cds-font-size-caption)').text(d.Plataforma);
+      svg.append('line').attr('x1', x(3)).attr('x2', x(Math.min(4.5, d.Nota_media))).attr('y1', y).attr('y2', y).attr('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 2);
+      svg.append('circle').attr('cx', x(Math.min(4.5, Math.max(3, d.Nota_media)))).attr('cy', y).attr('r', 6).attr('fill', sel === 'Batedeira' ? CRIT : cssPos())
+        .on('mousemove', (e) => showTip(box, e, [d.Plataforma, 'Nota ' + f2.format(d.Nota_media), f0.format(d.Feedbacks) + ' feedbacks', f1.format(d.Pct_negativo) + '% negativos'])).on('mouseleave', () => hideTip(box));
+      svg.append('text').attr('x', x(Math.min(4.5, Math.max(3, d.Nota_media))) + 10).attr('y', y + 4).attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text(f2.format(d.Nota_media) + ' · ' + f0.format(d.Feedbacks) + ' feedbacks');
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawVar = () => {
+    const box = $('#ch-var'); const sel = selProduto(); const P = rowsOf('produtos').filter((r) => r.Produto !== TODOS).sort((a, b) => b.Variacao_nota - a.Variacao_nota); clearBox(box); if (!P.length) return;
+    const w = Math.max(box.clientWidth, 280); const rh = 17, mt = 22, mb = 28; const left = Math.round(Math.min(150, w * 0.34)), right = 40; const h = mt + P.length * rh + mb;
+    const ext = d3.max(P, (d) => Math.abs(d.Variacao_nota)) + 0.05; const x = d3.scaleLinear([-ext, ext], [left, w - right]);
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    svg.append('g').attr('transform', `translate(0,${h - mb + 6})`).call(d3.axisBottom(x).ticks(6).tickSize(-(h - mb - mt + 6)).tickFormat((v) => f1.format(v))).call(axisStyle).call((g) => g.selectAll('line').attr('stroke', 'var(--cds-chart-grid)')).call((g) => g.select('.domain').remove());
+    svg.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', mt - 6).attr('y2', h - mb + 6).attr('stroke', 'var(--cds-chart-axis)');
+    P.forEach((d, i) => {
+      const y = mt + i * rh; const isSel = d.Produto === sel; const v = d.Variacao_nota; const bx = v >= 0 ? x(0) : x(v); const bw = Math.max(1, Math.abs(x(v) - x(0)));
+      const g = svg.append('g').attr('class', 'zp-row');
+      g.append('rect').attr('x', 0).attr('y', y).attr('width', w).attr('height', rh).attr('fill', isSel ? 'var(--color-border-line)' : 'transparent').attr('opacity', isSel ? 0.5 : 1);
+      g.append('text').attr('x', left - 8).attr('y', y + rh / 2 + 4).attr('text-anchor', 'end').style('font-size', 'var(--cds-font-size-caption)').style('font-weight', isSel ? 'var(--cds-font-weight-medium)' : 400).text(d.Produto);
+      g.append('rect').attr('x', bx).attr('y', y + 3).attr('width', bw).attr('height', rh - 6).attr('rx', 3).attr('fill', v < 0 ? CRIT : cssPos());
+      g.append('text').attr('x', v >= 0 ? x(v) + 5 : x(v) - 5).attr('y', y + rh / 2 + 4).attr('text-anchor', v >= 0 ? 'start' : 'end').attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text(sgn(v));
+      g.on('click', () => dash.setParams({ produto: d.Produto })).on('mousemove', (e) => showTip(box, e, [d.Produto, 'Antes: ' + f2.format(d.Nota_antes) + ' · Recente: ' + f2.format(d.Nota_recente), 'p ajustado: ' + f2.format(d.p_variacao_ajustado)])).on('mouseleave', () => hideTip(box));
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawSentimento = () => {
+    if (!ready(['produtos', 'trimestres', 'plataformas', 'temas'])) return;
+    drawSelect(); drawProdKpis(); drawRanking(); drawSent(); drawTrend(); drawTemas(); drawPlat(); drawVar();
+  };
+
+  /* ---------- DECISÃO ---------- */
+  let W = null, built = false;
+  const crits = () => Array.from(new Set(rowsOf('matriz').map((r) => r.Criterio)));
+  const cens = () => { const seen = new Map(); rowsOf('matriz').forEach((r) => { if (!seen.has(r.Cenario)) seen.set(r.Cenario, r.Nome); }); return Array.from(seen, ([id, nome]) => ({ id, nome })); };
+  const baseWeights = () => { const o = {}; rowsOf('matriz').forEach((r) => { o[r.Criterio] = r.Peso_pct; }); return o; };
+  const nota = (c, k) => { const r = rowsOf('matriz').find((x) => x.Cenario === c && x.Criterio === k); return r ? r.Nota : 0; };
+  const norm = () => { const ks = crits(); const s = ks.reduce((a, k) => a + W[k], 0); return Object.fromEntries(ks.map((k) => [k, s > 0 ? W[k] / s : 1 / ks.length])); };
+
+  const buildSliders = () => {
+    const box = $('#sliders'); box.replaceChildren(); W = baseWeights();
+    crits().forEach((k) => {
+      const wrap = mk('div', 'zp-slide'); const top = mk('div', 'zp-slide-top'); const lab = mk('span', '', k); const val = mk('b', '', ''); val.id = 'sv-' + crits().indexOf(k); top.append(lab, val);
+      const rng = document.createElement('input'); rng.type = 'range'; rng.min = '0'; rng.max = '100'; rng.step = '5'; rng.value = String(W[k]); rng.className = 'zp-rng'; rng.id = 'sl-' + crits().indexOf(k); rng.setAttribute('aria-label', 'Peso: ' + k);
+      rng.addEventListener('input', () => { W[k] = +rng.value; drawDecisaoResult(); });
+      wrap.append(top, rng); box.appendChild(wrap);
+    });
+    built = true;
+  };
+  $('#btn-pesos').addEventListener('click', () => { built = false; drawDecisao(); });
+
+  const drawDecisaoResult = () => {
+    const ks = crits(), cs = cens(), nw = norm();
+    ks.forEach((k, i) => { const v = $('#sv-' + i); if (v) v.textContent = f0.format(Math.round(nw[k] * 100)) + '%'; });
+    const tot = cs.map((c) => ({ ...c, parts: ks.map((k) => nota(c.id, k) * nw[k]), total: ks.reduce((a, k) => a + nota(c.id, k) * nw[k], 0) }));
+    const best = tot.slice().sort((a, b) => b.total - a.total)[0];
+    $('#lead').replaceChildren(document.createTextNode('Com estes pesos lidera: '), Object.assign(mk('strong', '', best.id + ' · ' + best.nome)));
+    const box = $('#ch-mat'); box.replaceChildren(); const w = Math.max(box.clientWidth, 280); const rh = 34, gap = 22, mt = 6, left = 0, right = 46; const h = mt + tot.length * (rh + gap);
+    const x = d3.scaleLinear([0, 10], [left, w - right]); const cols = dash.colors; const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    tot.forEach((c, i) => {
+      const y = mt + i * (rh + gap) + 14; let acc = 0;
+      svg.append('text').attr('x', 0).attr('y', y - 4).attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text(c.id + ' · ' + c.nome);
+      c.parts.forEach((p, j) => {
+        const bx = x(acc), bw = Math.max(0, x(acc + p) - x(acc) - 1);
+        svg.append('rect').attr('x', bx).attr('y', y).attr('width', bw).attr('height', rh).attr('fill', cols[j]).attr('rx', 3)
+          .on('mousemove', (e) => showTip(box, e, [c.id + ' · ' + ks[j], 'Nota ' + f0.format(nota(c.id, ks[j])) + ' × peso ' + f0.format(Math.round(nw[ks[j]] * 100)) + '%', 'Contribui com ' + f2.format(p) + ' ponto(s)'])).on('mouseleave', () => hideTip(box));
+        acc += p;
+      });
+      svg.append('text').attr('x', x(c.total) + 6).attr('y', y + rh / 2 + 4).style('font-weight', c === best ? 'var(--cds-font-weight-medium)' : 400).text(f2.format(c.total));
+    });
+    box.appendChild(svg.node());
+    const lg = $('#lg-mat'); lg.replaceChildren();
+    ks.forEach((k, j) => { const s = mk('span'); const i = mk('i'); i.style.background = cols[j]; s.append(i, document.createTextNode(k)); lg.appendChild(s); });
+  };
+
+  const drawNotas = () => {
+    const ks = crits(), cs = cens(); const th = $('#tbl-notas thead'), tb = $('#tbl-notas tbody'); th.replaceChildren(); tb.replaceChildren();
+    const trh = mk('tr'); trh.appendChild(mk('th', '', 'Critério')); cs.forEach((c) => trh.appendChild(mk('th', 'n', c.id))); trh.appendChild(mk('th', 'n', 'Peso do diretor')); th.appendChild(trh);
+    const base = baseWeights();
+    ks.forEach((k) => {
+      const tr = mk('tr'); tr.appendChild(mk('td', '', k));
+      cs.forEach((c) => { tr.appendChild(mark(mk('td', 'n', f0.format(nota(c.id, k))), 'matriz', 'Nota', { Cenario: c.id, Criterio: k })); });
+      tr.appendChild(mark(mk('td', 'n', f0.format(base[k]) + '%'), 'matriz', 'Peso_pct', { Cenario: cs[0].id, Criterio: k }));
+      tb.appendChild(tr);
+    });
+    const box = $('#just'); box.replaceChildren();
+    cs.forEach((c) => {
+      const d = mk('details', 'zp-det'); d.appendChild(mk('summary', '', c.id + ' · ' + c.nome)); const ul = mk('ul');
+      ks.forEach((k) => { const r = rowsOf('matriz').find((x) => x.Cenario === c.id && x.Criterio === k); const li = mk('li'); li.appendChild(mk('b', '', k + ': ')); li.appendChild(mark(mk('span', '', r.Justificativa), 'matriz', 'Justificativa', { Cenario: c.id, Criterio: k })); ul.appendChild(li); });
+      d.appendChild(ul); box.appendChild(d);
+    });
+  };
+
+  const drawSens = () => {
+    const tb = $('#tbl-sens tbody'); tb.replaceChildren();
+    rowsOf('sensibilidade').forEach((r) => {
+      const tr = mk('tr'); tr.setAttribute('data-key', r.Perfil); tr.appendChild(mk('td', '', r.Perfil));
+      ['Peso_impacto', 'Peso_risco', 'Peso_viabilidade', 'Peso_urgencia'].forEach((k) => tr.appendChild(mk('td', 'n', f0.format(r[k]) + '%')));
+      const best = Math.max(r.Cenario_1, r.Cenario_2, r.Cenario_3);
+      ['Cenario_1', 'Cenario_2', 'Cenario_3'].forEach((k) => { const td = mk('td', 'n', f2.format(r[k])); if (r[k] === best) { td.style.fontWeight = 'var(--cds-font-weight-medium)'; td.style.background = 'var(--color-border-line)'; } tr.appendChild(td); });
+      tr.appendChild(mk('td', '', r.Vencedor)); tb.appendChild(tr);
+    });
+  };
+
+  const drawSim = () => {
+    const box = $('#ch-sim'); box.replaceChildren(); const R = rowsOf('cenarios'); if (!R.length) return;
+    const w = Math.max(box.clientWidth, 260); const rh = 26, mt = 4; const left = Math.round(Math.min(120, w * 0.3)), right = 56; const h = mt + R.length * rh + 4;
+    const x = d3.scaleLinear([0, 100], [left, w - right]); const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`); const best = d3.max(R, (d) => d.Prob_melhor_pct);
+    R.forEach((d, i) => {
+      const y = mt + i * rh + 3;
+      svg.append('text').attr('x', left - 8).attr('y', y + 13).attr('text-anchor', 'end').style('font-size', 'var(--cds-font-size-caption)').text(d.Cenario);
+      svg.append('rect').attr('x', left).attr('y', y).attr('width', Math.max(2, x(d.Prob_melhor_pct) - left)).attr('height', 18).attr('rx', 4).attr('fill', d.Prob_melhor_pct === best ? cssPos() : MUTED);
+      svg.append('text').attr('x', x(d.Prob_melhor_pct) + 6).attr('y', y + 13).attr('class', 'm').style('font-size', 'var(--cds-font-size-caption)').text(f1.format(d.Prob_melhor_pct) + '%');
+    });
+    box.appendChild(svg.node());
+  };
+
+  const drawCenarios = () => {
+    const box = $('#cenarios'); box.replaceChildren();
+    rowsOf('cenarios').forEach((r) => {
+      const c = mk('article', 'zp-card'); const W0 = { Cenario: r.Cenario };
+      c.appendChild(mk('span', 'zp-chip', r.Cenario)); c.appendChild(mark(mk('h3', '', r.Nome), 'cenarios', 'Nome', W0)); c.appendChild(mark(mk('p', 'zp-note', r.Perfil), 'cenarios', 'Perfil', W0));
+      const dl = mk('dl', 'zp-cen');
+      [['Internacional', 'Internacional'], ['Lojas físicas', 'Lojas'], ['Decisão seguinte', 'Decisao_seguinte']].forEach(([lab, f]) => { dl.appendChild(mk('dt', '', lab)); dl.appendChild(mark(mk('dd', '', r[f]), 'cenarios', f, W0)); });
+      c.appendChild(dl); box.appendChild(c);
+    });
+  };
+
+  const drawSwot = () => {
+    const box = $('#swot'); box.replaceChildren(); const R = rowsOf('swot');
+    ['Forças', 'Fraquezas', 'Oportunidades', 'Ameaças'].forEach((q) => {
+      const c = mk('article', 'zp-card'); c.appendChild(mk('h3', '', q)); const ul = mk('ul');
+      R.filter((r) => r.Quadrante === q).forEach((r) => { const li = mk('li'); li.appendChild(mark(mk('span', '', r.Item), 'swot', 'Item', { Item: r.Item })); li.appendChild(mk('span', 'zp-src', ' · ' + r.Fonte)); ul.appendChild(li); });
+      c.appendChild(ul); box.appendChild(c);
+    });
+  };
+
+  const drawDecisao = () => {
+    if (!ready(['matriz', 'sensibilidade', 'cenarios', 'swot'])) return;
+    if (!built) buildSliders();
+    drawDecisaoResult(); drawNotas(); drawSens(); drawSim(); drawCenarios(); drawSwot();
+  };
+
+  /* ---------- orquestração ---------- */
+  const render = () => {
+    const p = dash.params(); let aba = ABAS.includes(p.aba) ? p.aba : 'resumo';
+    if (!hashRead) { hashRead = true; const h = location.hash.slice(1).replace(/^aba-/, ''); if (ABAS.includes(h) && h !== aba) { aba = h; dash.setParams({ aba }); return; } }
+    ABAS.forEach((a) => { const on = a === aba; $('#aba-' + a).hidden = !on; $('#tab-' + a).setAttribute('aria-selected', String(on)); });
+    if (aba === 'resumo') drawResumo(); else if (aba === 'sentimento') drawSentimento(); else drawDecisao();
+  };
+  dash.onData(render);
+})();
+</script>

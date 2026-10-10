@@ -1,0 +1,870 @@
+[
+{
+"Produto": "Todos os produtos",
+"Plataforma": "Facebook",
+"Feedbacks": 3045,
+"Nota_media": 3.8683,
+"Pct_negativo": 15.6322
+},
+{
+"Produto": "Todos os produtos",
+"Plataforma": "Instagram",
+"Feedbacks": 1522,
+"Nota_media": 3.9054,
+"Pct_negativo": 14.7175
+},
+{
+"Produto": "Todos os produtos",
+"Plataforma": "TikTok",
+"Feedbacks": 1458,
+"Nota_media": 3.8964,
+"Pct_negativo": 15.2949
+},
+{
+"Produto": "Todos os produtos",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 3975,
+"Nota_media": 3.8828,
+"Pct_negativo": 15.3459
+},
+{
+"Produto": "Aparelho de som",
+"Plataforma": "Facebook",
+"Feedbacks": 104,
+"Nota_media": 3.8077,
+"Pct_negativo": 17.3077
+},
+{
+"Produto": "Aparelho de som",
+"Plataforma": "Instagram",
+"Feedbacks": 50,
+"Nota_media": 3.64,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Aparelho de som",
+"Plataforma": "TikTok",
+"Feedbacks": 58,
+"Nota_media": 3.8793,
+"Pct_negativo": 13.7931
+},
+{
+"Produto": "Aparelho de som",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 139,
+"Nota_media": 4.0144,
+"Pct_negativo": 15.1079
+},
+{
+"Produto": "Aspirador de pó",
+"Plataforma": "Facebook",
+"Feedbacks": 96,
+"Nota_media": 3.9062,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "Aspirador de pó",
+"Plataforma": "Instagram",
+"Feedbacks": 56,
+"Nota_media": 3.8214,
+"Pct_negativo": 19.6429
+},
+{
+"Produto": "Aspirador de pó",
+"Plataforma": "TikTok",
+"Feedbacks": 55,
+"Nota_media": 3.9273,
+"Pct_negativo": 18.1818
+},
+{
+"Produto": "Aspirador de pó",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 130,
+"Nota_media": 3.9538,
+"Pct_negativo": 12.3077
+},
+{
+"Produto": "Batedeira",
+"Plataforma": "Facebook",
+"Feedbacks": 91,
+"Nota_media": 3.5275,
+"Pct_negativo": 18.6813
+},
+{
+"Produto": "Batedeira",
+"Plataforma": "Instagram",
+"Feedbacks": 43,
+"Nota_media": 3.5814,
+"Pct_negativo": 20.9302
+},
+{
+"Produto": "Batedeira",
+"Plataforma": "TikTok",
+"Feedbacks": 45,
+"Nota_media": 3.7111,
+"Pct_negativo": 22.2222
+},
+{
+"Produto": "Batedeira",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 128,
+"Nota_media": 3.6719,
+"Pct_negativo": 14.8438
+},
+{
+"Produto": "Cafeteira",
+"Plataforma": "Facebook",
+"Feedbacks": 97,
+"Nota_media": 3.9072,
+"Pct_negativo": 13.4021
+},
+{
+"Produto": "Cafeteira",
+"Plataforma": "Instagram",
+"Feedbacks": 60,
+"Nota_media": 4.05,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Cafeteira",
+"Plataforma": "TikTok",
+"Feedbacks": 48,
+"Nota_media": 3.7917,
+"Pct_negativo": 18.75
+},
+{
+"Produto": "Cafeteira",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 153,
+"Nota_media": 3.8497,
+"Pct_negativo": 15.0327
+},
+{
+"Produto": "Cafeteira expresso",
+"Plataforma": "Facebook",
+"Feedbacks": 105,
+"Nota_media": 3.8857,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Cafeteira expresso",
+"Plataforma": "Instagram",
+"Feedbacks": 49,
+"Nota_media": 4.0204,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Cafeteira expresso",
+"Plataforma": "TikTok",
+"Feedbacks": 50,
+"Nota_media": 3.52,
+"Pct_negativo": 22.0
+},
+{
+"Produto": "Cafeteira expresso",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 149,
+"Nota_media": 3.9195,
+"Pct_negativo": 14.094
+},
+{
+"Produto": "Chuveiro elétrico",
+"Plataforma": "Facebook",
+"Feedbacks": 112,
+"Nota_media": 3.8839,
+"Pct_negativo": 13.3929
+},
+{
+"Produto": "Chuveiro elétrico",
+"Plataforma": "Instagram",
+"Feedbacks": 60,
+"Nota_media": 3.9667,
+"Pct_negativo": 15.0
+},
+{
+"Produto": "Chuveiro elétrico",
+"Plataforma": "TikTok",
+"Feedbacks": 57,
+"Nota_media": 3.8246,
+"Pct_negativo": 19.2982
+},
+{
+"Produto": "Chuveiro elétrico",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 129,
+"Nota_media": 3.845,
+"Pct_negativo": 15.5039
+},
+{
+"Produto": "Câmera de segurança",
+"Plataforma": "Facebook",
+"Feedbacks": 94,
+"Nota_media": 3.8085,
+"Pct_negativo": 18.0851
+},
+{
+"Produto": "Câmera de segurança",
+"Plataforma": "Instagram",
+"Feedbacks": 41,
+"Nota_media": 3.9512,
+"Pct_negativo": 12.1951
+},
+{
+"Produto": "Câmera de segurança",
+"Plataforma": "TikTok",
+"Feedbacks": 45,
+"Nota_media": 3.9556,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Câmera de segurança",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 137,
+"Nota_media": 3.8686,
+"Pct_negativo": 18.2482
+},
+{
+"Produto": "Câmera digital",
+"Plataforma": "Facebook",
+"Feedbacks": 94,
+"Nota_media": 3.9574,
+"Pct_negativo": 12.766
+},
+{
+"Produto": "Câmera digital",
+"Plataforma": "Instagram",
+"Feedbacks": 44,
+"Nota_media": 4.2955,
+"Pct_negativo": 9.0909
+},
+{
+"Produto": "Câmera digital",
+"Plataforma": "TikTok",
+"Feedbacks": 40,
+"Nota_media": 3.85,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Câmera digital",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 122,
+"Nota_media": 3.9672,
+"Pct_negativo": 14.7541
+},
+{
+"Produto": "Ferro de passar roupa",
+"Plataforma": "Facebook",
+"Feedbacks": 102,
+"Nota_media": 4.0882,
+"Pct_negativo": 11.7647
+},
+{
+"Produto": "Ferro de passar roupa",
+"Plataforma": "Instagram",
+"Feedbacks": 56,
+"Nota_media": 3.7679,
+"Pct_negativo": 17.8571
+},
+{
+"Produto": "Ferro de passar roupa",
+"Plataforma": "TikTok",
+"Feedbacks": 47,
+"Nota_media": 3.5532,
+"Pct_negativo": 27.6596
+},
+{
+"Produto": "Ferro de passar roupa",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 108,
+"Nota_media": 3.8889,
+"Pct_negativo": 11.1111
+},
+{
+"Produto": "Fone de ouvido",
+"Plataforma": "Facebook",
+"Feedbacks": 114,
+"Nota_media": 3.9474,
+"Pct_negativo": 14.0351
+},
+{
+"Produto": "Fone de ouvido",
+"Plataforma": "Instagram",
+"Feedbacks": 49,
+"Nota_media": 3.898,
+"Pct_negativo": 14.2857
+},
+{
+"Produto": "Fone de ouvido",
+"Plataforma": "TikTok",
+"Feedbacks": 50,
+"Nota_media": 3.94,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Fone de ouvido",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 120,
+"Nota_media": 3.9333,
+"Pct_negativo": 13.3333
+},
+{
+"Produto": "Forno elétrico",
+"Plataforma": "Facebook",
+"Feedbacks": 112,
+"Nota_media": 3.7946,
+"Pct_negativo": 19.6429
+},
+{
+"Produto": "Forno elétrico",
+"Plataforma": "Instagram",
+"Feedbacks": 47,
+"Nota_media": 4.0638,
+"Pct_negativo": 12.766
+},
+{
+"Produto": "Forno elétrico",
+"Plataforma": "TikTok",
+"Feedbacks": 53,
+"Nota_media": 4.1132,
+"Pct_negativo": 9.434
+},
+{
+"Produto": "Forno elétrico",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 134,
+"Nota_media": 3.8284,
+"Pct_negativo": 17.1642
+},
+{
+"Produto": "Frigobar",
+"Plataforma": "Facebook",
+"Feedbacks": 91,
+"Nota_media": 4.0,
+"Pct_negativo": 13.1868
+},
+{
+"Produto": "Frigobar",
+"Plataforma": "Instagram",
+"Feedbacks": 51,
+"Nota_media": 3.8235,
+"Pct_negativo": 15.6863
+},
+{
+"Produto": "Frigobar",
+"Plataforma": "TikTok",
+"Feedbacks": 51,
+"Nota_media": 3.9608,
+"Pct_negativo": 13.7255
+},
+{
+"Produto": "Frigobar",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 145,
+"Nota_media": 3.7241,
+"Pct_negativo": 17.2414
+},
+{
+"Produto": "Fritadeira elétrica",
+"Plataforma": "Facebook",
+"Feedbacks": 97,
+"Nota_media": 4.0412,
+"Pct_negativo": 9.2784
+},
+{
+"Produto": "Fritadeira elétrica",
+"Plataforma": "Instagram",
+"Feedbacks": 57,
+"Nota_media": 4.0702,
+"Pct_negativo": 3.5088
+},
+{
+"Produto": "Fritadeira elétrica",
+"Plataforma": "TikTok",
+"Feedbacks": 43,
+"Nota_media": 3.8372,
+"Pct_negativo": 13.9535
+},
+{
+"Produto": "Fritadeira elétrica",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 131,
+"Nota_media": 3.9924,
+"Pct_negativo": 8.3969
+},
+{
+"Produto": "Geladeira",
+"Plataforma": "Facebook",
+"Feedbacks": 89,
+"Nota_media": 3.7978,
+"Pct_negativo": 21.3483
+},
+{
+"Produto": "Geladeira",
+"Plataforma": "Instagram",
+"Feedbacks": 46,
+"Nota_media": 3.9783,
+"Pct_negativo": 15.2174
+},
+{
+"Produto": "Geladeira",
+"Plataforma": "TikTok",
+"Feedbacks": 44,
+"Nota_media": 4.0227,
+"Pct_negativo": 13.6364
+},
+{
+"Produto": "Geladeira",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 145,
+"Nota_media": 4.0,
+"Pct_negativo": 11.7241
+},
+{
+"Produto": "Impressora",
+"Plataforma": "Facebook",
+"Feedbacks": 99,
+"Nota_media": 3.8081,
+"Pct_negativo": 17.1717
+},
+{
+"Produto": "Impressora",
+"Plataforma": "Instagram",
+"Feedbacks": 52,
+"Nota_media": 3.6923,
+"Pct_negativo": 21.1538
+},
+{
+"Produto": "Impressora",
+"Plataforma": "TikTok",
+"Feedbacks": 37,
+"Nota_media": 3.9189,
+"Pct_negativo": 16.2162
+},
+{
+"Produto": "Impressora",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 135,
+"Nota_media": 3.8222,
+"Pct_negativo": 17.037
+},
+{
+"Produto": "Liquidificador",
+"Plataforma": "Facebook",
+"Feedbacks": 100,
+"Nota_media": 4.07,
+"Pct_negativo": 11.0
+},
+{
+"Produto": "Liquidificador",
+"Plataforma": "Instagram",
+"Feedbacks": 64,
+"Nota_media": 3.875,
+"Pct_negativo": 17.1875
+},
+{
+"Produto": "Liquidificador",
+"Plataforma": "TikTok",
+"Feedbacks": 53,
+"Nota_media": 4.0755,
+"Pct_negativo": 3.7736
+},
+{
+"Produto": "Liquidificador",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 132,
+"Nota_media": 3.9697,
+"Pct_negativo": 12.1212
+},
+{
+"Produto": "Micro-ondas",
+"Plataforma": "Facebook",
+"Feedbacks": 96,
+"Nota_media": 3.9167,
+"Pct_negativo": 13.5417
+},
+{
+"Produto": "Micro-ondas",
+"Plataforma": "Instagram",
+"Feedbacks": 41,
+"Nota_media": 3.9024,
+"Pct_negativo": 14.6341
+},
+{
+"Produto": "Micro-ondas",
+"Plataforma": "TikTok",
+"Feedbacks": 50,
+"Nota_media": 4.02,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Micro-ondas",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 143,
+"Nota_media": 3.8671,
+"Pct_negativo": 16.7832
+},
+{
+"Produto": "Máquina de café",
+"Plataforma": "Facebook",
+"Feedbacks": 92,
+"Nota_media": 3.6304,
+"Pct_negativo": 20.6522
+},
+{
+"Produto": "Máquina de café",
+"Plataforma": "Instagram",
+"Feedbacks": 57,
+"Nota_media": 3.9825,
+"Pct_negativo": 14.0351
+},
+{
+"Produto": "Máquina de café",
+"Plataforma": "TikTok",
+"Feedbacks": 51,
+"Nota_media": 3.8627,
+"Pct_negativo": 19.6078
+},
+{
+"Produto": "Máquina de café",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 150,
+"Nota_media": 3.9667,
+"Pct_negativo": 11.3333
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Plataforma": "Facebook",
+"Feedbacks": 104,
+"Nota_media": 3.7981,
+"Pct_negativo": 18.2692
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Plataforma": "Instagram",
+"Feedbacks": 49,
+"Nota_media": 4.1633,
+"Pct_negativo": 8.1633
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Plataforma": "TikTok",
+"Feedbacks": 48,
+"Nota_media": 4.0625,
+"Pct_negativo": 8.3333
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 128,
+"Nota_media": 3.875,
+"Pct_negativo": 16.4062
+},
+{
+"Produto": "Notebook",
+"Plataforma": "Facebook",
+"Feedbacks": 92,
+"Nota_media": 3.6957,
+"Pct_negativo": 21.7391
+},
+{
+"Produto": "Notebook",
+"Plataforma": "Instagram",
+"Feedbacks": 50,
+"Nota_media": 3.92,
+"Pct_negativo": 16.0
+},
+{
+"Produto": "Notebook",
+"Plataforma": "TikTok",
+"Feedbacks": 46,
+"Nota_media": 3.6739,
+"Pct_negativo": 19.5652
+},
+{
+"Produto": "Notebook",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 114,
+"Nota_media": 3.7719,
+"Pct_negativo": 17.5439
+},
+{
+"Produto": "Panela elétrica",
+"Plataforma": "Facebook",
+"Feedbacks": 94,
+"Nota_media": 4.0426,
+"Pct_negativo": 13.8298
+},
+{
+"Produto": "Panela elétrica",
+"Plataforma": "Instagram",
+"Feedbacks": 49,
+"Nota_media": 4.102,
+"Pct_negativo": 8.1633
+},
+{
+"Produto": "Panela elétrica",
+"Plataforma": "TikTok",
+"Feedbacks": 43,
+"Nota_media": 4.186,
+"Pct_negativo": 11.6279
+},
+{
+"Produto": "Panela elétrica",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 119,
+"Nota_media": 3.8992,
+"Pct_negativo": 16.8067
+},
+{
+"Produto": "Relógio inteligente",
+"Plataforma": "Facebook",
+"Feedbacks": 113,
+"Nota_media": 3.8938,
+"Pct_negativo": 15.0442
+},
+{
+"Produto": "Relógio inteligente",
+"Plataforma": "Instagram",
+"Feedbacks": 41,
+"Nota_media": 3.6098,
+"Pct_negativo": 26.8293
+},
+{
+"Produto": "Relógio inteligente",
+"Plataforma": "TikTok",
+"Feedbacks": 50,
+"Nota_media": 3.78,
+"Pct_negativo": 14.0
+},
+{
+"Produto": "Relógio inteligente",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 142,
+"Nota_media": 3.9296,
+"Pct_negativo": 17.6056
+},
+{
+"Produto": "Secador de cabelo",
+"Plataforma": "Facebook",
+"Feedbacks": 103,
+"Nota_media": 3.8641,
+"Pct_negativo": 14.5631
+},
+{
+"Produto": "Secador de cabelo",
+"Plataforma": "Instagram",
+"Feedbacks": 69,
+"Nota_media": 4.0,
+"Pct_negativo": 13.0435
+},
+{
+"Produto": "Secador de cabelo",
+"Plataforma": "TikTok",
+"Feedbacks": 40,
+"Nota_media": 4.05,
+"Pct_negativo": 12.5
+},
+{
+"Produto": "Secador de cabelo",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 139,
+"Nota_media": 3.8777,
+"Pct_negativo": 17.2662
+},
+{
+"Produto": "Smart TV 55\"",
+"Plataforma": "Facebook",
+"Feedbacks": 107,
+"Nota_media": 3.7757,
+"Pct_negativo": 14.0187
+},
+{
+"Produto": "Smart TV 55\"",
+"Plataforma": "Instagram",
+"Feedbacks": 54,
+"Nota_media": 3.3889,
+"Pct_negativo": 27.7778
+},
+{
+"Produto": "Smart TV 55\"",
+"Plataforma": "TikTok",
+"Feedbacks": 49,
+"Nota_media": 3.9592,
+"Pct_negativo": 12.2449
+},
+{
+"Produto": "Smart TV 55\"",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 122,
+"Nota_media": 3.959,
+"Pct_negativo": 12.2951
+},
+{
+"Produto": "Smartphone",
+"Plataforma": "Facebook",
+"Feedbacks": 110,
+"Nota_media": 3.9364,
+"Pct_negativo": 15.4545
+},
+{
+"Produto": "Smartphone",
+"Plataforma": "Instagram",
+"Feedbacks": 57,
+"Nota_media": 3.9474,
+"Pct_negativo": 10.5263
+},
+{
+"Produto": "Smartphone",
+"Plataforma": "TikTok",
+"Feedbacks": 43,
+"Nota_media": 3.6512,
+"Pct_negativo": 20.9302
+},
+{
+"Produto": "Smartphone",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 156,
+"Nota_media": 3.8269,
+"Pct_negativo": 16.6667
+},
+{
+"Produto": "TV Box",
+"Plataforma": "Facebook",
+"Feedbacks": 121,
+"Nota_media": 3.7851,
+"Pct_negativo": 17.3554
+},
+{
+"Produto": "TV Box",
+"Plataforma": "Instagram",
+"Feedbacks": 45,
+"Nota_media": 4.0667,
+"Pct_negativo": 15.5556
+},
+{
+"Produto": "TV Box",
+"Plataforma": "TikTok",
+"Feedbacks": 59,
+"Nota_media": 4.0339,
+"Pct_negativo": 16.9492
+},
+{
+"Produto": "TV Box",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 114,
+"Nota_media": 3.6579,
+"Pct_negativo": 20.1754
+},
+{
+"Produto": "Tablet",
+"Plataforma": "Facebook",
+"Feedbacks": 87,
+"Nota_media": 3.7586,
+"Pct_negativo": 20.6897
+},
+{
+"Produto": "Tablet",
+"Plataforma": "Instagram",
+"Feedbacks": 47,
+"Nota_media": 4.0213,
+"Pct_negativo": 14.8936
+},
+{
+"Produto": "Tablet",
+"Plataforma": "TikTok",
+"Feedbacks": 53,
+"Nota_media": 3.6604,
+"Pct_negativo": 26.4151
+},
+{
+"Produto": "Tablet",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 128,
+"Nota_media": 3.8594,
+"Pct_negativo": 17.9688
+},
+{
+"Produto": "Ventilador de coluna",
+"Plataforma": "Facebook",
+"Feedbacks": 108,
+"Nota_media": 3.8981,
+"Pct_negativo": 15.7407
+},
+{
+"Produto": "Ventilador de coluna",
+"Plataforma": "Instagram",
+"Feedbacks": 47,
+"Nota_media": 3.8936,
+"Pct_negativo": 8.5106
+},
+{
+"Produto": "Ventilador de coluna",
+"Plataforma": "TikTok",
+"Feedbacks": 50,
+"Nota_media": 3.98,
+"Pct_negativo": 6.0
+},
+{
+"Produto": "Ventilador de coluna",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 118,
+"Nota_media": 3.9237,
+"Pct_negativo": 14.4068
+},
+{
+"Produto": "Ventilador de mesa",
+"Plataforma": "Facebook",
+"Feedbacks": 114,
+"Nota_media": 3.8947,
+"Pct_negativo": 14.0351
+},
+{
+"Produto": "Ventilador de mesa",
+"Plataforma": "Instagram",
+"Feedbacks": 50,
+"Nota_media": 3.74,
+"Pct_negativo": 14.0
+},
+{
+"Produto": "Ventilador de mesa",
+"Plataforma": "TikTok",
+"Feedbacks": 40,
+"Nota_media": 4.2,
+"Pct_negativo": 10.0
+},
+{
+"Produto": "Ventilador de mesa",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 141,
+"Nota_media": 3.8794,
+"Pct_negativo": 18.4397
+},
+{
+"Produto": "Ventilador de teto",
+"Plataforma": "Facebook",
+"Feedbacks": 107,
+"Nota_media": 3.8785,
+"Pct_negativo": 14.9533
+},
+{
+"Produto": "Ventilador de teto",
+"Plataforma": "Instagram",
+"Feedbacks": 41,
+"Nota_media": 3.9024,
+"Pct_negativo": 17.0732
+},
+{
+"Produto": "Ventilador de teto",
+"Plataforma": "TikTok",
+"Feedbacks": 60,
+"Nota_media": 3.9167,
+"Pct_negativo": 15.0
+},
+{
+"Produto": "Ventilador de teto",
+"Plataforma": "X (Twitter)",
+"Feedbacks": 124,
+"Nota_media": 3.9113,
+"Pct_negativo": 18.5484
+}
+]

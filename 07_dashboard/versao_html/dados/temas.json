@@ -1,0 +1,4181 @@
+[
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 2028,
+"Pct_do_sentimento": 29.2261
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 1383,
+"Pct_do_sentimento": 19.9308
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 683,
+"Pct_do_sentimento": 9.8429
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 1432,
+"Pct_do_sentimento": 20.637
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Facilidade de uso",
+"Comentarios": 10,
+"Pct_do_sentimento": 0.1441
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Design",
+"Comentarios": 6,
+"Pct_do_sentimento": 0.0865
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 701,
+"Pct_do_sentimento": 10.1023
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 676,
+"Pct_do_sentimento": 9.742
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 2140,
+"Pct_do_sentimento": 30.8402
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Positivo",
+"Tema": "Produto básico ou comum",
+"Comentarios": 1,
+"Pct_do_sentimento": 0.0144
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Concorrência e alternativas",
+"Comentarios": 4,
+"Pct_do_sentimento": 0.2618
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 441,
+"Pct_do_sentimento": 28.8613
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 150,
+"Pct_do_sentimento": 9.8168
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 139,
+"Pct_do_sentimento": 9.0969
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 297,
+"Pct_do_sentimento": 19.4372
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Entrega",
+"Comentarios": 5,
+"Pct_do_sentimento": 0.3272
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 786,
+"Pct_do_sentimento": 51.4398
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 290,
+"Pct_do_sentimento": 18.9172
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 162,
+"Pct_do_sentimento": 10.5675
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 312,
+"Pct_do_sentimento": 20.3523
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Ruído",
+"Comentarios": 10,
+"Pct_do_sentimento": 0.6523
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 336,
+"Pct_do_sentimento": 21.9178
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 141,
+"Pct_do_sentimento": 9.1977
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 479,
+"Pct_do_sentimento": 31.2459
+},
+{
+"Produto": "Todos os produtos",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 136,
+"Pct_do_sentimento": 8.8715
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 8,
+"Pct_do_sentimento": 14.5455
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 23.6364
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.0909
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 32.7273
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.4545
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 12,
+"Pct_do_sentimento": 26.087
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.5217
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 7,
+"Pct_do_sentimento": 15.2174
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 7,
+"Pct_do_sentimento": 15.2174
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 26,
+"Pct_do_sentimento": 56.5217
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 79,
+"Pct_do_sentimento": 31.6
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 54,
+"Pct_do_sentimento": 21.6
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 29,
+"Pct_do_sentimento": 11.6
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 48,
+"Pct_do_sentimento": 19.2
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 28,
+"Pct_do_sentimento": 11.2
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 25,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Aparelho de som",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 69,
+"Pct_do_sentimento": 27.6
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.6604
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 15,
+"Pct_do_sentimento": 28.3019
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.0943
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 24.5283
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.5472
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 16,
+"Pct_do_sentimento": 33.3333
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.3333
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.25
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 13,
+"Pct_do_sentimento": 27.0833
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 25,
+"Pct_do_sentimento": 52.0833
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 57,
+"Pct_do_sentimento": 24.1525
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 50,
+"Pct_do_sentimento": 21.1864
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 14,
+"Pct_do_sentimento": 5.9322
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 41,
+"Pct_do_sentimento": 17.3729
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 38,
+"Pct_do_sentimento": 16.1017
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 23,
+"Pct_do_sentimento": 9.7458
+},
+{
+"Produto": "Aspirador de pó",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 88,
+"Pct_do_sentimento": 37.2881
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 23,
+"Pct_do_sentimento": 41.8182
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.6364
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 12,
+"Pct_do_sentimento": 21.8182
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Ruído",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 14,
+"Pct_do_sentimento": 25.4545
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.4545
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 32.7273
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 8,
+"Pct_do_sentimento": 14.5455
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Concorrência e alternativas",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.25
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 31.25
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 9.375
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 9,
+"Pct_do_sentimento": 14.0625
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 12,
+"Pct_do_sentimento": 18.75
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Entrega",
+"Comentarios": 5,
+"Pct_do_sentimento": 7.8125
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 38,
+"Pct_do_sentimento": 59.375
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 56,
+"Pct_do_sentimento": 29.7872
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 63,
+"Pct_do_sentimento": 33.5106
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 17,
+"Pct_do_sentimento": 9.0426
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 57,
+"Pct_do_sentimento": 30.3191
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Facilidade de uso",
+"Comentarios": 10,
+"Pct_do_sentimento": 5.3191
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Design",
+"Comentarios": 6,
+"Pct_do_sentimento": 3.1915
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 21,
+"Pct_do_sentimento": 11.1702
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 19,
+"Pct_do_sentimento": 10.1064
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 51,
+"Pct_do_sentimento": 27.1277
+},
+{
+"Produto": "Batedeira",
+"Sentimento": "Positivo",
+"Tema": "Produto básico ou comum",
+"Comentarios": 1,
+"Pct_do_sentimento": 0.5319
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.8039
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.8039
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 14,
+"Pct_do_sentimento": 27.451
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 12,
+"Pct_do_sentimento": 23.5294
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.7255
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 29.4118
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.9216
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 16,
+"Pct_do_sentimento": 28.5714
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.7143
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 8.9286
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 11,
+"Pct_do_sentimento": 19.6429
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 24,
+"Pct_do_sentimento": 42.8571
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 72,
+"Pct_do_sentimento": 28.6853
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 49,
+"Pct_do_sentimento": 19.5219
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.3586
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 63,
+"Pct_do_sentimento": 25.0996
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 20,
+"Pct_do_sentimento": 7.9681
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 15,
+"Pct_do_sentimento": 5.9761
+},
+{
+"Produto": "Cafeteira",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 68,
+"Pct_do_sentimento": 27.0916
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.0943
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.9811
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 11,
+"Pct_do_sentimento": 20.7547
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.0943
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.6604
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 14,
+"Pct_do_sentimento": 22.5806
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 9,
+"Pct_do_sentimento": 14.5161
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.4516
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 17,
+"Pct_do_sentimento": 27.4194
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 30,
+"Pct_do_sentimento": 48.3871
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 78,
+"Pct_do_sentimento": 32.7731
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 39,
+"Pct_do_sentimento": 16.3866
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.084
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 53,
+"Pct_do_sentimento": 22.2689
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 19,
+"Pct_do_sentimento": 7.9832
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 19,
+"Pct_do_sentimento": 7.9832
+},
+{
+"Produto": "Cafeteira expresso",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 68,
+"Pct_do_sentimento": 28.5714
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 12.7273
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 7,
+"Pct_do_sentimento": 12.7273
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.9091
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.4545
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 24,
+"Pct_do_sentimento": 43.6364
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.6364
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 11.1111
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 1,
+"Pct_do_sentimento": 1.8519
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.5185
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 30,
+"Pct_do_sentimento": 55.5556
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 68,
+"Pct_do_sentimento": 27.3092
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 50,
+"Pct_do_sentimento": 20.0803
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 24,
+"Pct_do_sentimento": 9.6386
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 51,
+"Pct_do_sentimento": 20.4819
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.4418
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 28,
+"Pct_do_sentimento": 11.245
+},
+{
+"Produto": "Chuveiro elétrico",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 80,
+"Pct_do_sentimento": 32.1285
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 6,
+"Pct_do_sentimento": 11.3208
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.0943
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 12,
+"Pct_do_sentimento": 22.6415
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 16,
+"Pct_do_sentimento": 30.1887
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.5472
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 21,
+"Pct_do_sentimento": 39.6226
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.7736
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 29.5455
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 13.6364
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 11.3636
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 8,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 23,
+"Pct_do_sentimento": 52.2727
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 50,
+"Pct_do_sentimento": 22.7273
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 39,
+"Pct_do_sentimento": 17.7273
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 14,
+"Pct_do_sentimento": 6.3636
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 49,
+"Pct_do_sentimento": 22.2727
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 22,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 17,
+"Pct_do_sentimento": 7.7273
+},
+{
+"Produto": "Câmera de segurança",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 82,
+"Pct_do_sentimento": 37.2727
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 20.5128
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 6,
+"Pct_do_sentimento": 15.3846
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 9,
+"Pct_do_sentimento": 23.0769
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 25.641
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 12.8205
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 10,
+"Pct_do_sentimento": 25.641
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 5.1282
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 10,
+"Pct_do_sentimento": 23.2558
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.9767
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.6512
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 6,
+"Pct_do_sentimento": 13.9535
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 25,
+"Pct_do_sentimento": 58.1395
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 70,
+"Pct_do_sentimento": 32.1101
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 44,
+"Pct_do_sentimento": 20.1835
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 26,
+"Pct_do_sentimento": 11.9266
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 39,
+"Pct_do_sentimento": 17.8899
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 19,
+"Pct_do_sentimento": 8.7156
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 27,
+"Pct_do_sentimento": 12.3853
+},
+{
+"Produto": "Câmera digital",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 65,
+"Pct_do_sentimento": 29.8165
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 21.2766
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 6,
+"Pct_do_sentimento": 12.766
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.2553
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 6,
+"Pct_do_sentimento": 12.766
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.2553
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 31.9149
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 12.766
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 36.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 12.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 10,
+"Pct_do_sentimento": 20.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 26,
+"Pct_do_sentimento": 52.0
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 60,
+"Pct_do_sentimento": 27.7778
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 40,
+"Pct_do_sentimento": 18.5185
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 23,
+"Pct_do_sentimento": 10.6481
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 47,
+"Pct_do_sentimento": 21.7593
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 20,
+"Pct_do_sentimento": 9.2593
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 19,
+"Pct_do_sentimento": 8.7963
+},
+{
+"Produto": "Ferro de passar roupa",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 69,
+"Pct_do_sentimento": 31.9444
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 19.1489
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.5106
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 7,
+"Pct_do_sentimento": 14.8936
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 17.0213
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.383
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 14,
+"Pct_do_sentimento": 29.7872
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.6383
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 27.6596
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 9,
+"Pct_do_sentimento": 19.1489
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.5106
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 7,
+"Pct_do_sentimento": 14.8936
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 22,
+"Pct_do_sentimento": 46.8085
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 68,
+"Pct_do_sentimento": 28.4519
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 55,
+"Pct_do_sentimento": 23.0126
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.0418
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 48,
+"Pct_do_sentimento": 20.0837
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 29,
+"Pct_do_sentimento": 12.1339
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.8787
+},
+{
+"Produto": "Fone de ouvido",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 68,
+"Pct_do_sentimento": 28.4519
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 23.2143
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 7,
+"Pct_do_sentimento": 12.5
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 12,
+"Pct_do_sentimento": 21.4286
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 12,
+"Pct_do_sentimento": 21.4286
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 7,
+"Pct_do_sentimento": 12.5
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 26.7857
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 10,
+"Pct_do_sentimento": 17.8571
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 30.6122
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.1224
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.2041
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 11,
+"Pct_do_sentimento": 22.449
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 25,
+"Pct_do_sentimento": 51.0204
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 67,
+"Pct_do_sentimento": 27.8008
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 37,
+"Pct_do_sentimento": 15.3527
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 23,
+"Pct_do_sentimento": 9.5436
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 53,
+"Pct_do_sentimento": 21.9917
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.7884
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 24,
+"Pct_do_sentimento": 9.9585
+},
+{
+"Produto": "Forno elétrico",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 84,
+"Pct_do_sentimento": 34.8548
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.4615
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.3846
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 12,
+"Pct_do_sentimento": 23.0769
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 25.0
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.4615
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 25.0
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.7692
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 27,
+"Pct_do_sentimento": 48.2143
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.1429
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.7143
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 17,
+"Pct_do_sentimento": 30.3571
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 29,
+"Pct_do_sentimento": 51.7857
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 71,
+"Pct_do_sentimento": 30.8696
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 44,
+"Pct_do_sentimento": 19.1304
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.4348
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 40,
+"Pct_do_sentimento": 17.3913
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 23,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 20,
+"Pct_do_sentimento": 8.6957
+},
+{
+"Produto": "Frigobar",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 76,
+"Pct_do_sentimento": 33.0435
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 4,
+"Pct_do_sentimento": 14.2857
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 7,
+"Pct_do_sentimento": 25.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 5,
+"Pct_do_sentimento": 17.8571
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 12,
+"Pct_do_sentimento": 42.8571
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 8,
+"Pct_do_sentimento": 28.5714
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 7.1429
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 21,
+"Pct_do_sentimento": 35.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 8,
+"Pct_do_sentimento": 13.3333
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 8,
+"Pct_do_sentimento": 13.3333
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 16,
+"Pct_do_sentimento": 26.6667
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 29,
+"Pct_do_sentimento": 48.3333
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 72,
+"Pct_do_sentimento": 30.0
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 54,
+"Pct_do_sentimento": 22.5
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 18,
+"Pct_do_sentimento": 7.5
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 42,
+"Pct_do_sentimento": 17.5
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 21,
+"Pct_do_sentimento": 8.75
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 35,
+"Pct_do_sentimento": 14.5833
+},
+{
+"Produto": "Fritadeira elétrica",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 72,
+"Pct_do_sentimento": 30.0
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.3265
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.2041
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.3265
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.3265
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.2041
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 40.8163
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.1224
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 16,
+"Pct_do_sentimento": 39.0244
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.3171
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.3171
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 9,
+"Pct_do_sentimento": 21.9512
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 25,
+"Pct_do_sentimento": 60.9756
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 61,
+"Pct_do_sentimento": 26.0684
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 47,
+"Pct_do_sentimento": 20.0855
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 18,
+"Pct_do_sentimento": 7.6923
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 52,
+"Pct_do_sentimento": 22.2222
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 26,
+"Pct_do_sentimento": 11.1111
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 31,
+"Pct_do_sentimento": 13.2479
+},
+{
+"Produto": "Geladeira",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 74,
+"Pct_do_sentimento": 31.6239
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 11,
+"Pct_do_sentimento": 19.2982
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 8,
+"Pct_do_sentimento": 14.0351
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 16,
+"Pct_do_sentimento": 28.0702
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 16,
+"Pct_do_sentimento": 28.0702
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 8,
+"Pct_do_sentimento": 14.0351
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 11,
+"Pct_do_sentimento": 19.2982
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 8.7719
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 24.5283
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.9811
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.434
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.2075
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 24,
+"Pct_do_sentimento": 45.283
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 56,
+"Pct_do_sentimento": 26.2911
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 52,
+"Pct_do_sentimento": 24.4131
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 22,
+"Pct_do_sentimento": 10.3286
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 43,
+"Pct_do_sentimento": 20.1878
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 16,
+"Pct_do_sentimento": 7.5117
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 25,
+"Pct_do_sentimento": 11.7371
+},
+{
+"Produto": "Impressora",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 62,
+"Pct_do_sentimento": 29.108
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 20.0
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.5
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 12,
+"Pct_do_sentimento": 30.0
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 22.5
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 6,
+"Pct_do_sentimento": 15.0
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 12,
+"Pct_do_sentimento": 30.0
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.5
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 14,
+"Pct_do_sentimento": 24.5614
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.0175
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.5088
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 11,
+"Pct_do_sentimento": 19.2982
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 28,
+"Pct_do_sentimento": 49.1228
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 80,
+"Pct_do_sentimento": 31.746
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 42,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 30,
+"Pct_do_sentimento": 11.9048
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 50,
+"Pct_do_sentimento": 19.8413
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 32,
+"Pct_do_sentimento": 12.6984
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 17,
+"Pct_do_sentimento": 6.746
+},
+{
+"Produto": "Liquidificador",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 80,
+"Pct_do_sentimento": 31.746
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.3333
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 20.8333
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 14,
+"Pct_do_sentimento": 29.1667
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 16,
+"Pct_do_sentimento": 33.3333
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 7,
+"Pct_do_sentimento": 14.5833
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 34.6154
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.6923
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.6154
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.3846
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 26,
+"Pct_do_sentimento": 50.0
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 61,
+"Pct_do_sentimento": 26.5217
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 48,
+"Pct_do_sentimento": 20.8696
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 19,
+"Pct_do_sentimento": 8.2609
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 50,
+"Pct_do_sentimento": 21.7391
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 27,
+"Pct_do_sentimento": 11.7391
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.4348
+},
+{
+"Produto": "Micro-ondas",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 71,
+"Pct_do_sentimento": 30.8696
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 24.0741
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.4074
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.4074
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 27.7778
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 7,
+"Pct_do_sentimento": 12.963
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 19,
+"Pct_do_sentimento": 31.6667
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.0
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 8,
+"Pct_do_sentimento": 13.3333
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 36,
+"Pct_do_sentimento": 60.0
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 73,
+"Pct_do_sentimento": 30.9322
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 41,
+"Pct_do_sentimento": 17.3729
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.1695
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 50,
+"Pct_do_sentimento": 21.1864
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 21,
+"Pct_do_sentimento": 8.8983
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 25,
+"Pct_do_sentimento": 10.5932
+},
+{
+"Produto": "Máquina de café",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 72,
+"Pct_do_sentimento": 30.5085
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 12,
+"Pct_do_sentimento": 25.0
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.3333
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 20.8333
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.1667
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 10,
+"Pct_do_sentimento": 20.8333
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 15,
+"Pct_do_sentimento": 30.6122
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.2041
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.2041
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 7,
+"Pct_do_sentimento": 14.2857
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 27,
+"Pct_do_sentimento": 55.102
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 83,
+"Pct_do_sentimento": 35.7759
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 45,
+"Pct_do_sentimento": 19.3966
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 26,
+"Pct_do_sentimento": 11.2069
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 43,
+"Pct_do_sentimento": 18.5345
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 25,
+"Pct_do_sentimento": 10.7759
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 23,
+"Pct_do_sentimento": 9.9138
+},
+{
+"Produto": "Máquina de lavar roupa",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 62,
+"Pct_do_sentimento": 26.7241
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 17.5439
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 13,
+"Pct_do_sentimento": 22.807
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 9,
+"Pct_do_sentimento": 15.7895
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 18,
+"Pct_do_sentimento": 31.5789
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.0175
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 35.0877
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.2632
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 14,
+"Pct_do_sentimento": 31.1111
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 13.3333
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 1,
+"Pct_do_sentimento": 2.2222
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 12,
+"Pct_do_sentimento": 26.6667
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 25,
+"Pct_do_sentimento": 55.5556
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 66,
+"Pct_do_sentimento": 33.0
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 42,
+"Pct_do_sentimento": 21.0
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 27,
+"Pct_do_sentimento": 13.5
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 39,
+"Pct_do_sentimento": 19.5
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 21,
+"Pct_do_sentimento": 10.5
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 12,
+"Pct_do_sentimento": 6.0
+},
+{
+"Produto": "Notebook",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 53,
+"Pct_do_sentimento": 26.5
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 23.8095
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 5,
+"Pct_do_sentimento": 11.9048
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 11.9048
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 17,
+"Pct_do_sentimento": 40.4762
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.1429
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 19,
+"Pct_do_sentimento": 43.1818
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.5455
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 13.6364
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 9,
+"Pct_do_sentimento": 20.4545
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 22,
+"Pct_do_sentimento": 50.0
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 54,
+"Pct_do_sentimento": 24.6575
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 48,
+"Pct_do_sentimento": 21.9178
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 23,
+"Pct_do_sentimento": 10.5023
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 44,
+"Pct_do_sentimento": 20.0913
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 16,
+"Pct_do_sentimento": 7.3059
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 28,
+"Pct_do_sentimento": 12.7854
+},
+{
+"Produto": "Panela elétrica",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 73,
+"Pct_do_sentimento": 33.3333
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 11.6667
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 9,
+"Pct_do_sentimento": 15.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 16,
+"Pct_do_sentimento": 26.6667
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 19,
+"Pct_do_sentimento": 31.6667
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 19,
+"Pct_do_sentimento": 31.6667
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 8.3333
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 10,
+"Pct_do_sentimento": 20.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 11,
+"Pct_do_sentimento": 22.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 31,
+"Pct_do_sentimento": 62.0
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 73,
+"Pct_do_sentimento": 30.9322
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 54,
+"Pct_do_sentimento": 22.8814
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 21,
+"Pct_do_sentimento": 8.8983
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 50,
+"Pct_do_sentimento": 21.1864
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 23,
+"Pct_do_sentimento": 9.7458
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 21,
+"Pct_do_sentimento": 8.8983
+},
+{
+"Produto": "Relógio inteligente",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 60,
+"Pct_do_sentimento": 25.4237
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 24.5283
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.5472
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.9811
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.434
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 37.7358
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 11.3208
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.3846
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.6923
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.6154
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.6923
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 29,
+"Pct_do_sentimento": 55.7692
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 76,
+"Pct_do_sentimento": 30.8943
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 52,
+"Pct_do_sentimento": 21.1382
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.5691
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 44,
+"Pct_do_sentimento": 17.8862
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 25,
+"Pct_do_sentimento": 10.1626
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 22,
+"Pct_do_sentimento": 8.9431
+},
+{
+"Produto": "Secador de cabelo",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 74,
+"Pct_do_sentimento": 30.0813
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 19.6078
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.8431
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 11,
+"Pct_do_sentimento": 21.5686
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 8,
+"Pct_do_sentimento": 15.6863
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.7255
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 35.2941
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.8039
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 22.4138
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 8,
+"Pct_do_sentimento": 13.7931
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.8966
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 10,
+"Pct_do_sentimento": 17.2414
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 31,
+"Pct_do_sentimento": 53.4483
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 60,
+"Pct_do_sentimento": 26.9058
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 45,
+"Pct_do_sentimento": 20.1794
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 17,
+"Pct_do_sentimento": 7.6233
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 47,
+"Pct_do_sentimento": 21.0762
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 18,
+"Pct_do_sentimento": 8.0717
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 24,
+"Pct_do_sentimento": 10.7623
+},
+{
+"Produto": "Smart TV 55\"",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 71,
+"Pct_do_sentimento": 31.8386
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 15.5172
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.8966
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 13,
+"Pct_do_sentimento": 22.4138
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 11,
+"Pct_do_sentimento": 18.9655
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.3448
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 34.4828
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.8966
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 14,
+"Pct_do_sentimento": 26.9231
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.6923
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 11.5385
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 13,
+"Pct_do_sentimento": 25.0
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 20,
+"Pct_do_sentimento": 38.4615
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 72,
+"Pct_do_sentimento": 28.125
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 44,
+"Pct_do_sentimento": 17.1875
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 25,
+"Pct_do_sentimento": 9.7656
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 53,
+"Pct_do_sentimento": 20.7031
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 29,
+"Pct_do_sentimento": 11.3281
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 23,
+"Pct_do_sentimento": 8.9844
+},
+{
+"Produto": "Smartphone",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 87,
+"Pct_do_sentimento": 33.9844
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 13,
+"Pct_do_sentimento": 21.3115
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 8,
+"Pct_do_sentimento": 13.1148
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 14,
+"Pct_do_sentimento": 22.9508
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 16,
+"Pct_do_sentimento": 26.2295
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 6,
+"Pct_do_sentimento": 9.8361
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 12,
+"Pct_do_sentimento": 19.6721
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 5,
+"Pct_do_sentimento": 8.1967
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 13,
+"Pct_do_sentimento": 28.8889
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 3,
+"Pct_do_sentimento": 6.6667
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 13.3333
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 9,
+"Pct_do_sentimento": 20.0
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 18,
+"Pct_do_sentimento": 40.0
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 72,
+"Pct_do_sentimento": 30.9013
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 48,
+"Pct_do_sentimento": 20.6009
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 21,
+"Pct_do_sentimento": 9.0129
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 47,
+"Pct_do_sentimento": 20.1717
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 19,
+"Pct_do_sentimento": 8.1545
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 25,
+"Pct_do_sentimento": 10.7296
+},
+{
+"Produto": "TV Box",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 66,
+"Pct_do_sentimento": 28.3262
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 14,
+"Pct_do_sentimento": 22.5806
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 5,
+"Pct_do_sentimento": 8.0645
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 13,
+"Pct_do_sentimento": 20.9677
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 14,
+"Pct_do_sentimento": 22.5806
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 4,
+"Pct_do_sentimento": 6.4516
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 19,
+"Pct_do_sentimento": 30.6452
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 9.6774
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 6,
+"Pct_do_sentimento": 14.6341
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.878
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.878
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 5,
+"Pct_do_sentimento": 12.1951
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 27,
+"Pct_do_sentimento": 65.8537
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 71,
+"Pct_do_sentimento": 33.4906
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 34,
+"Pct_do_sentimento": 16.0377
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 28,
+"Pct_do_sentimento": 13.2075
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 36,
+"Pct_do_sentimento": 16.9811
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 24,
+"Pct_do_sentimento": 11.3208
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 16,
+"Pct_do_sentimento": 7.5472
+},
+{
+"Produto": "Tablet",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 71,
+"Pct_do_sentimento": 33.4906
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.878
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 2,
+"Pct_do_sentimento": 4.878
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 8,
+"Pct_do_sentimento": 19.5122
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 17.0732
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 3,
+"Pct_do_sentimento": 7.3171
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 48.7805
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 1,
+"Pct_do_sentimento": 2.439
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 32.7273
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.9091
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 6,
+"Pct_do_sentimento": 10.9091
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 16,
+"Pct_do_sentimento": 29.0909
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 21,
+"Pct_do_sentimento": 38.1818
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 55,
+"Pct_do_sentimento": 24.2291
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 43,
+"Pct_do_sentimento": 18.9427
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 22,
+"Pct_do_sentimento": 9.6916
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 57,
+"Pct_do_sentimento": 25.1101
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 23,
+"Pct_do_sentimento": 10.1322
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 22,
+"Pct_do_sentimento": 9.6916
+},
+{
+"Produto": "Ventilador de coluna",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 72,
+"Pct_do_sentimento": 31.7181
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 15,
+"Pct_do_sentimento": 28.3019
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 2,
+"Pct_do_sentimento": 3.7736
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.8679
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 7,
+"Pct_do_sentimento": 13.2075
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 5,
+"Pct_do_sentimento": 9.434
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 16,
+"Pct_do_sentimento": 30.1887
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.9811
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 18,
+"Pct_do_sentimento": 37.5
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 7,
+"Pct_do_sentimento": 14.5833
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 8,
+"Pct_do_sentimento": 16.6667
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 16,
+"Pct_do_sentimento": 33.3333
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 73,
+"Pct_do_sentimento": 29.918
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 43,
+"Pct_do_sentimento": 17.623
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 26,
+"Pct_do_sentimento": 10.6557
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 47,
+"Pct_do_sentimento": 19.2623
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 24,
+"Pct_do_sentimento": 9.8361
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 21,
+"Pct_do_sentimento": 8.6066
+},
+{
+"Produto": "Ventilador de mesa",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 82,
+"Pct_do_sentimento": 33.6066
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Durabilidade",
+"Comentarios": 10,
+"Pct_do_sentimento": 18.1818
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Arrependimento",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.4545
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Não recomenda",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.3636
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Qualidade",
+"Comentarios": 9,
+"Pct_do_sentimento": 16.3636
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Defeitos",
+"Comentarios": 3,
+"Pct_do_sentimento": 5.4545
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 20,
+"Pct_do_sentimento": 36.3636
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Negativo",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 7.2727
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Neutro",
+"Tema": "Descrição e expectativa",
+"Comentarios": 9,
+"Pct_do_sentimento": 19.1489
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Neutro",
+"Tema": "Preço e valor",
+"Comentarios": 4,
+"Pct_do_sentimento": 8.5106
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Neutro",
+"Tema": "Marca",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.6383
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Neutro",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 5,
+"Pct_do_sentimento": 10.6383
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Neutro",
+"Tema": "Produto básico ou comum",
+"Comentarios": 28,
+"Pct_do_sentimento": 59.5745
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Qualidade",
+"Comentarios": 74,
+"Pct_do_sentimento": 32.1739
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Descrição e expectativa",
+"Comentarios": 37,
+"Pct_do_sentimento": 16.087
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Preço e valor",
+"Comentarios": 22,
+"Pct_do_sentimento": 9.5652
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Desempenho e eficiência",
+"Comentarios": 49,
+"Pct_do_sentimento": 21.3043
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Uso diário e praticidade",
+"Comentarios": 20,
+"Pct_do_sentimento": 8.6957
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Entrega",
+"Comentarios": 20,
+"Pct_do_sentimento": 8.6957
+},
+{
+"Produto": "Ventilador de teto",
+"Sentimento": "Positivo",
+"Tema": "Recomendação",
+"Comentarios": 70,
+"Pct_do_sentimento": 30.4348
+}
+]

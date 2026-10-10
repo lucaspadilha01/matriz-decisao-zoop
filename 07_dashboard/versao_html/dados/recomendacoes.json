@@ -1,0 +1,123 @@
+[
+{
+"ID": "R11",
+"Segmento": "Base de clientes",
+"Recomendacao": "Dados de cliente (CRM, histórico, margem)",
+"Gravidade": 5,
+"Urgencia": 5,
+"Tendencia": 4,
+"GUT": 100,
+"Prioridade": "Máxima",
+"Evidencia": "Habilitadora"
+},
+{
+"ID": "R1",
+"Segmento": "Sul (SC, RS, PR)",
+"Recomendacao": "Campanha no Sul (SC, RS, PR)",
+"Gravidade": 5,
+"Urgencia": 4,
+"Tendencia": 4,
+"GUT": 80,
+"Prioridade": "Máxima",
+"Evidencia": "Forte"
+},
+{
+"ID": "R6",
+"Segmento": "Quem compra Batedeira",
+"Recomendacao": "Retirar a Batedeira das recomendações",
+"Gravidade": 3,
+"Urgencia": 5,
+"Tendencia": 4,
+"GUT": 60,
+"Prioridade": "Máxima",
+"Evidencia": "Forte"
+},
+{
+"ID": "R5",
+"Segmento": "Todos os grupos",
+"Recomendacao": "Destaque aos produtos estrela por receita",
+"Gravidade": 4,
+"Urgencia": 4,
+"Tendencia": 3,
+"GUT": 48,
+"Prioridade": "Alta",
+"Evidencia": "Moderada"
+},
+{
+"ID": "R2",
+"Segmento": "Norte, Nordeste e Mato Grosso",
+"Recomendacao": "Piloto Norte, Nordeste e Mato Grosso (8 estados)",
+"Gravidade": 4,
+"Urgencia": 3,
+"Tendencia": 4,
+"GUT": 48,
+"Prioridade": "Alta",
+"Evidencia": "Forte (índice); cesta é hipótese"
+},
+{
+"ID": "R3",
+"Segmento": "MG, BA e PE",
+"Recomendacao": "Reforço em MG, BA e PE",
+"Gravidade": 4,
+"Urgencia": 3,
+"Tendencia": 3,
+"GUT": 36,
+"Prioridade": "Alta",
+"Evidencia": "Moderada"
+},
+{
+"ID": "R4",
+"Segmento": "Estados de alta fidelidade",
+"Recomendacao": "Fidelização nos estados de alta fidelidade",
+"Gravidade": 4,
+"Urgencia": 3,
+"Tendencia": 3,
+"GUT": 36,
+"Prioridade": "Alta",
+"Evidencia": "Forte (região); depende de R11"
+},
+{
+"ID": "R7",
+"Segmento": "Compradores de Notebook, Tablet e TV Box",
+"Recomendacao": "Garantia e assistência em Notebook, Tablet e TV Box",
+"Gravidade": 3,
+"Urgencia": 3,
+"Tendencia": 3,
+"GUT": 27,
+"Prioridade": "Segundo plano ou monitoramento",
+"Evidencia": "Fraca"
+},
+{
+"ID": "R10",
+"Segmento": "Cidades sem compra há mais de 80 dias",
+"Recomendacao": "Reativação de cidades sem comprar há mais de 80 dias",
+"Gravidade": 2,
+"Urgencia": 3,
+"Tendencia": 2,
+"GUT": 12,
+"Prioridade": "Segundo plano ou monitoramento",
+"Evidencia": "Fraca"
+},
+{
+"ID": "R9",
+"Segmento": "Mulheres de 18 a 25 anos",
+"Recomendacao": "Oferta-teste para mulheres de 18 a 25 anos",
+"Gravidade": 2,
+"Urgencia": 2,
+"Tendencia": 2,
+"GUT": 8,
+"Prioridade": "Segundo plano ou monitoramento",
+"Evidencia": "Fraca"
+},
+{
+"ID": "R8",
+"Segmento": "Compradores de eletrônicos",
+"Recomendacao": "Cross-sell por complementaridade (teste)",
+"Gravidade": 2,
+"Urgencia": 2,
+"Tendencia": 2,
+"GUT": 8,
+"Prioridade": "Segundo plano ou monitoramento",
+"Evidencia": "Fraca"
+}
+]
